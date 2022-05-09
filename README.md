@@ -1,4 +1,4 @@
-# Reproducibility Project for CS598 DL4H in Spring 2022 
+# Reproducibility Project for CS598 DL4H in Spring 2022 - Team 108, Paper 122, Difficulty Easy
 # Predicting Heart Failure Readmission from Clinical Notes Using Deep Learning
 Xiong Liu, Yu Chen, Jay Bae, Hu Li, Joseph Johnston, and Todd Sanger. 2019. Predicting heart failure readmission from clinical notes using deep learning. In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pages 2642–2648
 

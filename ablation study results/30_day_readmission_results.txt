@@ -1,0 +1,155 @@
+Current Fold:  1
+Epoch 1: curr_epoch_loss=0.6871411204338074, running time = 30.66482949256897 seconds
+Epoch 2: curr_epoch_loss=0.6793429255485535, running time = 31.107311964035034 seconds
+Epoch 3: curr_epoch_loss=0.6765894293785095, running time = 31.05752992630005 seconds
+Epoch 4: curr_epoch_loss=0.6726442575454712, running time = 32.454598903656006 seconds
+Epoch 5: curr_epoch_loss=0.6716898679733276, running time = 31.626649856567383 seconds
+Epoch 6: curr_epoch_loss=0.6691513657569885, running time = 29.594216346740723 seconds
+Epoch 7: curr_epoch_loss=0.6690084338188171, running time = 29.576290130615234 seconds
+Epoch 8: curr_epoch_loss=0.6610641479492188, running time = 30.140079498291016 seconds
+Epoch 9: curr_epoch_loss=0.6565279364585876, running time = 33.71983885765076 seconds
+Epoch 10: curr_epoch_loss=0.6542202234268188, running time = 31.9788601398468 seconds
+Validation Precision: 0.8497409326424871
+Validation Recall: 1.0
+Validation F1: 0.9187675070028012
+Validation Accuracy: 0.8497409326424871
+Current Fold:  2
+Epoch 1: curr_epoch_loss=0.689488410949707, running time = 31.084956884384155 seconds
+Epoch 2: curr_epoch_loss=0.6812464594841003, running time = 30.300078630447388 seconds
+Epoch 3: curr_epoch_loss=0.6827100515365601, running time = 29.911000967025757 seconds
+Epoch 4: curr_epoch_loss=0.6761822700500488, running time = 29.7819983959198 seconds
+Epoch 5: curr_epoch_loss=0.6732208132743835, running time = 29.837000131607056 seconds
+Epoch 6: curr_epoch_loss=0.6720033288002014, running time = 29.879106283187866 seconds
+Epoch 7: curr_epoch_loss=0.668138325214386, running time = 29.88500213623047 seconds
+Epoch 8: curr_epoch_loss=0.6648977398872375, running time = 30.490282773971558 seconds
+Epoch 9: curr_epoch_loss=0.6642147302627563, running time = 30.007999181747437 seconds
+Epoch 10: curr_epoch_loss=0.6619234085083008, running time = 31.99150061607361 seconds
+Validation Precision: 0.8860103626943006
+Validation Recall: 1.0
+Validation F1: 0.9395604395604396
+Validation Accuracy: 0.8860103626943006
+Current Fold:  3
+Epoch 1: curr_epoch_loss=0.6851911544799805, running time = 31.841532468795776 seconds
+Epoch 2: curr_epoch_loss=0.681859016418457, running time = 30.88104271888733 seconds
+Epoch 3: curr_epoch_loss=0.6787300705909729, running time = 32.38371729850769 seconds
+Epoch 4: curr_epoch_loss=0.6728196144104004, running time = 30.89651393890381 seconds
+Epoch 5: curr_epoch_loss=0.6717250943183899, running time = 30.64332914352417 seconds
+Epoch 6: curr_epoch_loss=0.6682411432266235, running time = 30.727962255477905 seconds
+Epoch 7: curr_epoch_loss=0.6613786220550537, running time = 30.400208711624146 seconds
+Epoch 8: curr_epoch_loss=0.6625334024429321, running time = 30.87764835357666 seconds
+Epoch 9: curr_epoch_loss=0.6575078964233398, running time = 30.29812788963318 seconds
+Epoch 10: curr_epoch_loss=0.6542181968688965, running time = 31.167531967163086 seconds
+Validation Precision: 0.8290155440414507
+Validation Recall: 1.0
+Validation F1: 0.9065155807365439
+Validation Accuracy: 0.8290155440414507
+Current Fold:  4
+Epoch 1: curr_epoch_loss=0.6850800514221191, running time = 30.64996862411499 seconds
+Epoch 2: curr_epoch_loss=0.6831483840942383, running time = 30.993664741516113 seconds
+Epoch 3: curr_epoch_loss=0.6766443848609924, running time = 30.740591049194336 seconds
+Epoch 4: curr_epoch_loss=0.6739230751991272, running time = 30.72122287750244 seconds
+Epoch 5: curr_epoch_loss=0.672086238861084, running time = 30.811879634857178 seconds
+Epoch 6: curr_epoch_loss=0.6679134964942932, running time = 35.51804494857788 seconds
+Epoch 7: curr_epoch_loss=0.6638169288635254, running time = 32.040579080581665 seconds
+Epoch 8: curr_epoch_loss=0.661911129951477, running time = 38.39206123352051 seconds
+Epoch 9: curr_epoch_loss=0.6616808176040649, running time = 31.305134773254395 seconds
+Epoch 10: curr_epoch_loss=0.6569275856018066, running time = 32.22009754180908 seconds
+Validation Precision: 0.8238341968911918
+Validation Recall: 1.0
+Validation F1: 0.9034090909090909
+Validation Accuracy: 0.8238341968911918
+Current Fold:  5
+Epoch 1: curr_epoch_loss=0.6859545111656189, running time = 34.40758037567139 seconds
+Epoch 2: curr_epoch_loss=0.6803771257400513, running time = 31.027422666549683 seconds
+Epoch 3: curr_epoch_loss=0.6761159300804138, running time = 31.117023944854736 seconds
+Epoch 4: curr_epoch_loss=0.6721013784408569, running time = 31.142364978790283 seconds
+Epoch 5: curr_epoch_loss=0.6692672967910767, running time = 30.866283178329468 seconds
+Epoch 6: curr_epoch_loss=0.6684216856956482, running time = 30.91438889503479 seconds
+Epoch 7: curr_epoch_loss=0.661909818649292, running time = 31.184314727783203 seconds
+Epoch 8: curr_epoch_loss=0.6601828932762146, running time = 33.01621890068054 seconds
+Epoch 9: curr_epoch_loss=0.6572347283363342, running time = 31.37982439994812 seconds
+Epoch 10: curr_epoch_loss=0.6529766917228699, running time = 31.00743818283081 seconds
+Validation Precision: 0.8385416666666666
+Validation Recall: 1.0
+Validation F1: 0.9121813031161473
+Validation Accuracy: 0.8385416666666666
+Current Fold:  6
+Epoch 1: curr_epoch_loss=0.6892894506454468, running time = 31.62721538543701 seconds
+Epoch 2: curr_epoch_loss=0.6832083463668823, running time = 35.136062145233154 seconds
+Epoch 3: curr_epoch_loss=0.6758401989936829, running time = 32.32565689086914 seconds
+Epoch 4: curr_epoch_loss=0.6738375425338745, running time = 31.507128715515137 seconds
+Epoch 5: curr_epoch_loss=0.6696467995643616, running time = 32.45193934440613 seconds
+Epoch 6: curr_epoch_loss=0.6682460904121399, running time = 32.148869037628174 seconds
+Epoch 7: curr_epoch_loss=0.6651030778884888, running time = 34.51249885559082 seconds
+Epoch 8: curr_epoch_loss=0.6609575152397156, running time = 32.146843671798706 seconds
+Epoch 9: curr_epoch_loss=0.6548712849617004, running time = 31.37139344215393 seconds
+Epoch 10: curr_epoch_loss=0.6526235342025757, running time = 32.10885238647461 seconds
+Validation Precision: 0.7291666666666666
+Validation Recall: 1.0
+Validation F1: 0.8433734939759037
+Validation Accuracy: 0.7291666666666666
+Current Fold:  7
+Epoch 1: curr_epoch_loss=0.6876753568649292, running time = 33.72469401359558 seconds
+Epoch 2: curr_epoch_loss=0.680321216583252, running time = 33.21543788909912 seconds
+Epoch 3: curr_epoch_loss=0.6752319931983948, running time = 31.677156448364258 seconds
+Epoch 4: curr_epoch_loss=0.6724379062652588, running time = 32.40694856643677 seconds
+Epoch 5: curr_epoch_loss=0.6685629487037659, running time = 32.79910326004028 seconds
+Epoch 6: curr_epoch_loss=0.6641134023666382, running time = 30.607327222824097 seconds
+Epoch 7: curr_epoch_loss=0.6621915698051453, running time = 29.966410160064697 seconds
+Epoch 8: curr_epoch_loss=0.6565166711807251, running time = 28.555711030960083 seconds
+Epoch 9: curr_epoch_loss=0.6582921147346497, running time = 28.280064582824707 seconds
+Epoch 10: curr_epoch_loss=0.6545722484588623, running time = 28.50407862663269 seconds
+Validation Precision: 0.78125
+Validation Recall: 1.0
+Validation F1: 0.8771929824561403
+Validation Accuracy: 0.78125
+Current Fold:  8
+Epoch 1: curr_epoch_loss=0.6864781379699707, running time = 28.258328914642334 seconds
+Epoch 2: curr_epoch_loss=0.6804918646812439, running time = 28.84976315498352 seconds
+Epoch 3: curr_epoch_loss=0.6788817048072815, running time = 28.31406569480896 seconds
+Epoch 4: curr_epoch_loss=0.6744389533996582, running time = 28.426172733306885 seconds
+Epoch 5: curr_epoch_loss=0.6718603372573853, running time = 28.278820514678955 seconds
+Epoch 6: curr_epoch_loss=0.6702554225921631, running time = 29.080259084701538 seconds
+Epoch 7: curr_epoch_loss=0.664463222026825, running time = 29.381994009017944 seconds
+Epoch 8: curr_epoch_loss=0.6618905663490295, running time = 28.25891613960266 seconds
+Epoch 9: curr_epoch_loss=0.6583359241485596, running time = 28.450924158096313 seconds
+Epoch 10: curr_epoch_loss=0.653647243976593, running time = 28.39952802658081 seconds
+Validation Precision: 0.8333333333333334
+Validation Recall: 1.0
+Validation F1: 0.9090909090909091
+Validation Accuracy: 0.8333333333333334
+Current Fold:  9
+Epoch 1: curr_epoch_loss=0.6903899312019348, running time = 28.545542240142822 seconds
+Epoch 2: curr_epoch_loss=0.6802051663398743, running time = 28.07787847518921 seconds
+Epoch 3: curr_epoch_loss=0.6759741306304932, running time = 28.637690544128418 seconds
+Epoch 4: curr_epoch_loss=0.6737010478973389, running time = 28.321889638900757 seconds
+Epoch 5: curr_epoch_loss=0.6688559651374817, running time = 28.50419306755066 seconds
+Epoch 6: curr_epoch_loss=0.6663058996200562, running time = 28.874903917312622 seconds
+Epoch 7: curr_epoch_loss=0.6649633049964905, running time = 28.64408826828003 seconds
+Epoch 8: curr_epoch_loss=0.6635778546333313, running time = 28.379978895187378 seconds
+Epoch 9: curr_epoch_loss=0.6598119139671326, running time = 28.30315661430359 seconds
+Epoch 10: curr_epoch_loss=0.6543266177177429, running time = 28.917226314544678 seconds
+Validation Precision: 0.8854166666666666
+Validation Recall: 1.0
+Validation F1: 0.9392265193370166
+Validation Accuracy: 0.8854166666666666
+Current Fold:  10
+Epoch 1: curr_epoch_loss=0.6894212365150452, running time = 28.27590537071228 seconds
+Epoch 2: curr_epoch_loss=0.6826697587966919, running time = 28.688065767288208 seconds
+Epoch 3: curr_epoch_loss=0.6779153943061829, running time = 28.583067893981934 seconds
+Epoch 4: curr_epoch_loss=0.6783819198608398, running time = 28.64625644683838 seconds
+Epoch 5: curr_epoch_loss=0.6738192439079285, running time = 28.479400396347046 seconds
+Epoch 6: curr_epoch_loss=0.6690329313278198, running time = 29.162274599075317 seconds
+Epoch 7: curr_epoch_loss=0.6683073043823242, running time = 28.732113361358643 seconds
+Epoch 8: curr_epoch_loss=0.6651713252067566, running time = 28.32295322418213 seconds
+Epoch 9: curr_epoch_loss=0.6634870171546936, running time = 28.44088125228882 seconds
+Epoch 10: curr_epoch_loss=0.6579781174659729, running time = 28.577176094055176 seconds
+Validation Precision: 0.875
+Validation Recall: 1.0
+Validation F1: 0.9333333333333333
+Validation Accuracy: 0.875
+Validation Precision: 0.8331309369602764
+Validation Recall: 1.0
+Validation F1: 0.9082651159518326
+Validation Accuracy: 0.8331309369602764
+Total running time = 3066.03 seconds

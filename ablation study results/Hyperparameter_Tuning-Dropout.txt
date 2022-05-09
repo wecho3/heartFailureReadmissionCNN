@@ -1,0 +1,85 @@
+-------------------------------------------------
+Model with 50 features, learning rate 0.0001, dropout_p 0.1
+-------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6935594081878662, running time = 29.458082675933838 seconds
+Epoch 2: curr_epoch_loss=0.6865091323852539, running time = 29.26468539237976 seconds
+Epoch 3: curr_epoch_loss=0.6839405298233032, running time = 29.477078199386597 seconds
+Epoch 4: curr_epoch_loss=0.6812321543693542, running time = 35.905181884765625 seconds
+Epoch 5: curr_epoch_loss=0.6782922744750977, running time = 35.808358907699585 seconds
+Epoch 6: curr_epoch_loss=0.6759952306747437, running time = 31.67540740966797 seconds
+Epoch 7: curr_epoch_loss=0.6715312600135803, running time = 33.80388283729553 seconds
+Epoch 8: curr_epoch_loss=0.6723055839538574, running time = 30.30104970932007 seconds
+Epoch 9: curr_epoch_loss=0.6674537658691406, running time = 30.472206830978394 seconds
+Epoch 10: curr_epoch_loss=0.6648658514022827, running time = 31.180687427520752 seconds
+Validation Precision: 0.696969696969697
+Validation Recall: 0.7263157894736842
+Validation F1: 0.7113402061855671
+Validation Accuracy: 0.7098445595854922
+-------------------------------------------------
+Model with 50 features, learning rate 0.0001, dropout_p 0.3
+-------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6947046518325806, running time = 31.200339794158936 seconds
+Epoch 2: curr_epoch_loss=0.6884889602661133, running time = 32.050992488861084 seconds
+Epoch 3: curr_epoch_loss=0.6877522468566895, running time = 31.55470561981201 seconds
+Epoch 4: curr_epoch_loss=0.6829213500022888, running time = 32.06599402427673 seconds
+Epoch 5: curr_epoch_loss=0.6792318820953369, running time = 31.163968563079834 seconds
+Epoch 6: curr_epoch_loss=0.6713497042655945, running time = 34.48332333564758 seconds
+Epoch 7: curr_epoch_loss=0.6751505732536316, running time = 33.04280066490173 seconds
+Epoch 8: curr_epoch_loss=0.6698912382125854, running time = 32.609320640563965 seconds
+Epoch 9: curr_epoch_loss=0.6666110157966614, running time = 30.99209761619568 seconds
+Epoch 10: curr_epoch_loss=0.6674095988273621, running time = 28.02644658088684 seconds
+Validation Precision: 0.7373737373737373
+Validation Recall: 0.6697247706422018
+Validation F1: 0.7019230769230769
+Validation Accuracy: 0.6787564766839378
+-------------------------------------------------
+Model with 50 features, learning rate 0.0001, dropout_p 0.5
+-------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6968545913696289, running time = 27.574814081192017 seconds
+Epoch 2: curr_epoch_loss=0.6963417530059814, running time = 28.57262682914734 seconds
+Epoch 3: curr_epoch_loss=0.6900299191474915, running time = 30.685531616210938 seconds
+Epoch 4: curr_epoch_loss=0.6851114630699158, running time = 30.897101163864136 seconds
+Epoch 5: curr_epoch_loss=0.6861065030097961, running time = 29.124045372009277 seconds
+Epoch 6: curr_epoch_loss=0.6813928484916687, running time = 29.168189525604248 seconds
+Epoch 7: curr_epoch_loss=0.6799315214157104, running time = 31.788358211517334 seconds
+Epoch 8: curr_epoch_loss=0.6810646653175354, running time = 28.895196676254272 seconds
+Epoch 9: curr_epoch_loss=0.6764780282974243, running time = 27.509719610214233 seconds
+Epoch 10: curr_epoch_loss=0.6762329339981079, running time = 27.922219038009644 seconds
+Validation Precision: 0.7777777777777778
+Validation Recall: 0.6581196581196581
+Validation F1: 0.712962962962963
+Validation Accuracy: 0.6787564766839378
+-------------------------------------------------
+Model with 50 features, learning rate 0.0001, dropout_p 0.7
+-------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6943770051002502, running time = 29.409440279006958 seconds
+Epoch 2: curr_epoch_loss=0.6992805600166321, running time = 29.196380138397217 seconds
+Epoch 3: curr_epoch_loss=0.7013677358627319, running time = 29.43558406829834 seconds
+Epoch 4: curr_epoch_loss=0.6939440369606018, running time = 28.672317504882812 seconds
+Epoch 5: curr_epoch_loss=0.6959932446479797, running time = 28.74633288383484 seconds
+Epoch 6: curr_epoch_loss=0.692833662033081, running time = 28.650003671646118 seconds
+Epoch 7: curr_epoch_loss=0.6852087378501892, running time = 28.559011936187744 seconds
+Epoch 8: curr_epoch_loss=0.6842809915542603, running time = 28.621581554412842 seconds
+Epoch 9: curr_epoch_loss=0.6865034699440002, running time = 28.736865758895874 seconds
+Epoch 10: curr_epoch_loss=0.6876766085624695, running time = 29.92216444015503 seconds
+Validation Precision: 0.8282828282828283
+Validation Recall: 0.640625
+Validation F1: 0.7224669603524229
+Validation Accuracy: 0.6735751295336787
+-------------------------------------------------
+Model with 50 features, learning rate 0.0001, dropout_p 0.9
+-------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7089842557907104, running time = 28.79346537590027 seconds
+Epoch 2: curr_epoch_loss=0.7163248062133789, running time = 28.682119131088257 seconds
+Epoch 3: curr_epoch_loss=0.7211485505104065, running time = 29.008225202560425 seconds
+Epoch 4: curr_epoch_loss=0.7075048685073853, running time = 28.917174100875854 seconds
+Epoch 5: curr_epoch_loss=0.7065897583961487, running time = 28.785319089889526 seconds
+Epoch 6: curr_epoch_loss=0.7134866714477539, running time = 28.817358016967773 seconds
+Epoch 7: curr_epoch_loss=0.6982161998748779, running time = 28.648327350616455 seconds
+Epoch 8: curr_epoch_loss=0.7128719091415405, running time = 28.649967908859253 seconds
+Epoch 9: curr_epoch_loss=0.7039782404899597, running time = 28.89825963973999 seconds
+Epoch 10: curr_epoch_loss=0.7071691751480103, running time = 28.57503080368042 seconds
+Validation Precision: 0.8888888888888888
+Validation Recall: 0.5906040268456376
+Validation F1: 0.7096774193548386
+Validation Accuracy: 0.6269430051813472

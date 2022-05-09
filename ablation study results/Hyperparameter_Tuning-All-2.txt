@@ -1,0 +1,1710 @@
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0001, dropout_p 0.3, epochs 10
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7001229013715472, running time = 2.1421058177948 seconds, training accuracy = 0.5051472547974414
+Epoch 2: curr_epoch_loss=0.6867470698697227, running time = 1.9092345237731934 seconds, training accuracy = 0.5302088885927505
+Epoch 3: curr_epoch_loss=0.6812452759061541, running time = 1.9291369915008545 seconds, training accuracy = 0.5708455490405118
+Epoch 4: curr_epoch_loss=0.6770384609699249, running time = 1.9265875816345215 seconds, training accuracy = 0.5768340218550106
+Epoch 5: curr_epoch_loss=0.6697366280215127, running time = 1.936173915863037 seconds, training accuracy = 0.5910431103411514
+Epoch 6: curr_epoch_loss=0.6672785537583488, running time = 1.990403652191162 seconds, training accuracy = 0.6082839152452025
+Epoch 7: curr_epoch_loss=0.6583201629774911, running time = 1.9635555744171143 seconds, training accuracy = 0.6229510927505331
+Epoch 8: curr_epoch_loss=0.6536426629338946, running time = 2.028733968734741 seconds, training accuracy = 0.632995735607676
+Epoch 9: curr_epoch_loss=0.6434894970485142, running time = 1.9888062477111816 seconds, training accuracy = 0.6556253331556503
+Epoch 10: curr_epoch_loss=0.6379746411527906, running time = 1.9542512893676758 seconds, training accuracy = 0.6674940031982943
+Validation Precision: 0.6701030927835051
+Validation Recall: 0.6435643564356436
+Validation F1: 0.6565656565656566
+Validation Accuracy: 0.6476683937823834
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0001, dropout_p 0.3, epochs 20
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7087467440537044, running time = 1.9100604057312012 seconds, training accuracy = 0.47800339818763327
+Epoch 2: curr_epoch_loss=0.691715921674456, running time = 1.930001974105835 seconds, training accuracy = 0.5359974680170575
+Epoch 3: curr_epoch_loss=0.6861787949289594, running time = 2.0285866260528564 seconds, training accuracy = 0.5504564232409381
+Epoch 4: curr_epoch_loss=0.6832988006728036, running time = 1.9705173969268799 seconds, training accuracy = 0.5539462286780383
+Epoch 5: curr_epoch_loss=0.6714017561503819, running time = 1.9316673278808594 seconds, training accuracy = 0.5887026918976546
+Epoch 6: curr_epoch_loss=0.6694001342569079, running time = 1.9279303550720215 seconds, training accuracy = 0.6053438166311301
+Epoch 7: curr_epoch_loss=0.6576147377490997, running time = 1.926393985748291 seconds, training accuracy = 0.6289978678038379
+Epoch 8: curr_epoch_loss=0.6505971848964691, running time = 1.9275810718536377 seconds, training accuracy = 0.6534431636460554
+Epoch 9: curr_epoch_loss=0.6485623248985836, running time = 1.9253957271575928 seconds, training accuracy = 0.6583655383795309
+Epoch 10: curr_epoch_loss=0.6465358563831874, running time = 1.924152135848999 seconds, training accuracy = 0.6505530383795309
+Epoch 11: curr_epoch_loss=0.6324476003646851, running time = 1.931687831878662 seconds, training accuracy = 0.6729244402985074
+Epoch 12: curr_epoch_loss=0.6281643041542598, running time = 1.930051326751709 seconds, training accuracy = 0.683776985607676
+Epoch 13: curr_epoch_loss=0.62672273176057, running time = 1.9229545593261719 seconds, training accuracy = 0.6810950826226013
+Epoch 14: curr_epoch_loss=0.6222744796957288, running time = 1.9458556175231934 seconds, training accuracy = 0.6841351279317697
+Epoch 15: curr_epoch_loss=0.6154254760060992, running time = 1.948132038116455 seconds, training accuracy = 0.6844432969083156
+Epoch 16: curr_epoch_loss=0.6107748832021441, running time = 1.9591867923736572 seconds, training accuracy = 0.7058985207889126
+Epoch 17: curr_epoch_loss=0.6043378327574048, running time = 1.9535765647888184 seconds, training accuracy = 0.7231976279317697
+Epoch 18: curr_epoch_loss=0.5984557398727962, running time = 1.9672930240631104 seconds, training accuracy = 0.730402118869936
+Epoch 19: curr_epoch_loss=0.5967145221573966, running time = 1.9647541046142578 seconds, training accuracy = 0.7320345815565031
+Epoch 20: curr_epoch_loss=0.5918078890868596, running time = 1.971374750137329 seconds, training accuracy = 0.7340085287846482
+Validation Precision: 0.6701030927835051
+Validation Recall: 0.6565656565656566
+Validation F1: 0.663265306122449
+Validation Accuracy: 0.6580310880829016
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0001, dropout_p 0.3, epochs 30
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7158144882747105, running time = 2.0032355785369873 seconds, training accuracy = 0.5049973347547975
+Epoch 2: curr_epoch_loss=0.6900063071932111, running time = 1.963477611541748 seconds, training accuracy = 0.5400536380597015
+Epoch 3: curr_epoch_loss=0.6895877804074969, running time = 1.9669561386108398 seconds, training accuracy = 0.5387376732409381
+Epoch 4: curr_epoch_loss=0.6829610679830823, running time = 1.9702649116516113 seconds, training accuracy = 0.5502482009594882
+Epoch 5: curr_epoch_loss=0.6688062761511121, running time = 1.9678080081939697 seconds, training accuracy = 0.5870785581023454
+Epoch 6: curr_epoch_loss=0.6674890262739999, running time = 1.9699046611785889 seconds, training accuracy = 0.6011876998933902
+Epoch 7: curr_epoch_loss=0.6614156493118831, running time = 1.9610369205474854 seconds, training accuracy = 0.6167627265458423
+Epoch 8: curr_epoch_loss=0.6551339370863778, running time = 1.9670557975769043 seconds, training accuracy = 0.6294392990405118
+Epoch 9: curr_epoch_loss=0.6436791121959686, running time = 1.962981939315796 seconds, training accuracy = 0.6671941631130064
+Epoch 10: curr_epoch_loss=0.6397659225123269, running time = 1.976111650466919 seconds, training accuracy = 0.6752065565031983
+Epoch 11: curr_epoch_loss=0.6347311692578452, running time = 1.9651761054992676 seconds, training accuracy = 0.6732825826226013
+Epoch 12: curr_epoch_loss=0.6325203733784812, running time = 1.9669086933135986 seconds, training accuracy = 0.6866754397654585
+Epoch 13: curr_epoch_loss=0.6226896686213357, running time = 1.954261064529419 seconds, training accuracy = 0.7075226545842217
+Epoch 14: curr_epoch_loss=0.6160835496016911, running time = 1.956916332244873 seconds, training accuracy = 0.7053404850746269
+Epoch 15: curr_epoch_loss=0.6211299981389727, running time = 1.9628777503967285 seconds, training accuracy = 0.6908815298507462
+Epoch 16: curr_epoch_loss=0.6131971052714756, running time = 1.9564917087554932 seconds, training accuracy = 0.7031583155650319
+Epoch 17: curr_epoch_loss=0.6109429768153599, running time = 1.9671871662139893 seconds, training accuracy = 0.7037163512793176
+Epoch 18: curr_epoch_loss=0.606117274080004, running time = 1.957047462463379 seconds, training accuracy = 0.70711453891258
+Epoch 19: curr_epoch_loss=0.5995797983237675, running time = 1.967724323272705 seconds, training accuracy = 0.7205656982942431
+Epoch 20: curr_epoch_loss=0.5981614674840655, running time = 1.9686267375946045 seconds, training accuracy = 0.705082289445629
+Epoch 21: curr_epoch_loss=0.5936570465564728, running time = 1.9600579738616943 seconds, training accuracy = 0.7320262526652452
+Epoch 22: curr_epoch_loss=0.5840665910925184, running time = 1.9742064476013184 seconds, training accuracy = 0.7357825826226013
+Epoch 23: curr_epoch_loss=0.5849060075623649, running time = 1.966240644454956 seconds, training accuracy = 0.7351246002132196
+Epoch 24: curr_epoch_loss=0.5762910033975329, running time = 1.9691410064697266 seconds, training accuracy = 0.7409548240938166
+Epoch 25: curr_epoch_loss=0.5810800237315041, running time = 1.9548306465148926 seconds, training accuracy = 0.7278201625799573
+Epoch 26: curr_epoch_loss=0.5710059532097408, running time = 1.9623026847839355 seconds, training accuracy = 0.7484674840085288
+Epoch 27: curr_epoch_loss=0.5702671876975468, running time = 2.1353812217712402 seconds, training accuracy = 0.7365405117270789
+Epoch 28: curr_epoch_loss=0.5646218529769352, running time = 1.9722621440887451 seconds, training accuracy = 0.7554137793176973
+Epoch 29: curr_epoch_loss=0.5604770949908665, running time = 1.9891166687011719 seconds, training accuracy = 0.748109341684435
+Epoch 30: curr_epoch_loss=0.5578546140875135, running time = 1.978175163269043 seconds, training accuracy = 0.7554637526652452
+Validation Precision: 0.6701030927835051
+Validation Recall: 0.6565656565656566
+Validation F1: 0.663265306122449
+Validation Accuracy: 0.6580310880829016
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0001, dropout_p 0.3, epochs 40
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7349939133439746, running time = 2.0385982990264893 seconds, training accuracy = 0.4996168710021322
+Epoch 2: curr_epoch_loss=0.7019244347299848, running time = 1.9976410865783691 seconds, training accuracy = 0.5220465751599147
+Epoch 3: curr_epoch_loss=0.6842256997312818, running time = 1.9849762916564941 seconds, training accuracy = 0.5428937899786781
+Epoch 4: curr_epoch_loss=0.6832010320254734, running time = 1.9928367137908936 seconds, training accuracy = 0.5653234941364605
+Epoch 5: curr_epoch_loss=0.6772395755563464, running time = 2.0168395042419434 seconds, training accuracy = 0.5748017723880597
+Epoch 6: curr_epoch_loss=0.6630414596625737, running time = 2.0241122245788574 seconds, training accuracy = 0.61727078891258
+Epoch 7: curr_epoch_loss=0.6665086788790566, running time = 1.9784889221191406 seconds, training accuracy = 0.6068680037313433
+Epoch 8: curr_epoch_loss=0.6604453665869576, running time = 1.971567153930664 seconds, training accuracy = 0.6227511993603411
+Epoch 9: curr_epoch_loss=0.6504039721829551, running time = 1.9949634075164795 seconds, training accuracy = 0.6438982542643924
+Epoch 10: curr_epoch_loss=0.6509205911840711, running time = 1.9708259105682373 seconds, training accuracy = 0.6451725746268657
+Epoch 11: curr_epoch_loss=0.6409557844911303, running time = 1.9984469413757324 seconds, training accuracy = 0.6755563699360341
+Epoch 12: curr_epoch_loss=0.633299959557397, running time = 1.9805760383605957 seconds, training accuracy = 0.6896655117270789
+Epoch 13: curr_epoch_loss=0.6338985860347748, running time = 1.9707794189453125 seconds, training accuracy = 0.681594816098081
+Epoch 14: curr_epoch_loss=0.6228868237563542, running time = 1.9771654605865479 seconds, training accuracy = 0.7052405383795309
+Epoch 15: curr_epoch_loss=0.6274583382265908, running time = 1.974196434020996 seconds, training accuracy = 0.6831689765458423
+Epoch 16: curr_epoch_loss=0.6195638009480068, running time = 1.9838907718658447 seconds, training accuracy = 0.6958039045842217
+Epoch 17: curr_epoch_loss=0.6111831537314824, running time = 1.9700324535369873 seconds, training accuracy = 0.7055487073560768
+Epoch 18: curr_epoch_loss=0.6134911775588989, running time = 1.981003999710083 seconds, training accuracy = 0.6898654051172708
+Epoch 19: curr_epoch_loss=0.6041824860232217, running time = 1.976694107055664 seconds, training accuracy = 0.7335004664179104
+Epoch 20: curr_epoch_loss=0.6006729177066258, running time = 1.9753007888793945 seconds, training accuracy = 0.7211237340085288
+Epoch 21: curr_epoch_loss=0.5942390773977552, running time = 1.9684638977050781 seconds, training accuracy = 0.7291861007462687
+Epoch 22: curr_epoch_loss=0.5935913026332855, running time = 1.98350191116333 seconds, training accuracy = 0.7318763326226013
+Epoch 23: curr_epoch_loss=0.5874339214393071, running time = 1.9866771697998047 seconds, training accuracy = 0.7380147254797442
+Epoch 24: curr_epoch_loss=0.5827728807926178, running time = 1.9679632186889648 seconds, training accuracy = 0.7422791178038379
+Epoch 25: curr_epoch_loss=0.5760127135685512, running time = 1.9818012714385986 seconds, training accuracy = 0.7511077425373135
+Epoch 26: curr_epoch_loss=0.5762180728571755, running time = 1.977797269821167 seconds, training accuracy = 0.7362906449893389
+Epoch 27: curr_epoch_loss=0.5693954271929604, running time = 2.009742021560669 seconds, training accuracy = 0.7457772521321961
+Epoch 28: curr_epoch_loss=0.5633145868778229, running time = 1.9499738216400146 seconds, training accuracy = 0.7511577158848615
+Epoch 29: curr_epoch_loss=0.5629790425300598, running time = 1.9337198734283447 seconds, training accuracy = 0.7549140458422174
+Epoch 30: curr_epoch_loss=0.5575594561440604, running time = 1.8589520454406738 seconds, training accuracy = 0.7557219482942431
+Epoch 31: curr_epoch_loss=0.5556115806102753, running time = 1.9082932472229004 seconds, training accuracy = 0.7592200826226013
+Epoch 32: curr_epoch_loss=0.5462981462478638, running time = 1.926839828491211 seconds, training accuracy = 0.7687066897654585
+Epoch 33: curr_epoch_loss=0.5474774326596942, running time = 1.9209918975830078 seconds, training accuracy = 0.7571878331556503
+Epoch 34: curr_epoch_loss=0.5432814231940678, running time = 1.9292314052581787 seconds, training accuracy = 0.7663246268656716
+Epoch 35: curr_epoch_loss=0.5335750963006701, running time = 1.929685354232788 seconds, training accuracy = 0.7805836886993603
+Epoch 36: curr_epoch_loss=0.534152307680675, running time = 1.9274311065673828 seconds, training accuracy = 0.7719049840085288
+Epoch 37: curr_epoch_loss=0.5326622809682574, running time = 1.9295904636383057 seconds, training accuracy = 0.7690148587420043
+Epoch 38: curr_epoch_loss=0.5284807192427772, running time = 1.9212405681610107 seconds, training accuracy = 0.7787013592750532
+Epoch 39: curr_epoch_loss=0.5199057374681745, running time = 1.9245774745941162 seconds, training accuracy = 0.7836737073560768
+Epoch 40: curr_epoch_loss=0.5208042114973068, running time = 1.937274694442749 seconds, training accuracy = 0.7814915378464818
+Validation Precision: 0.7216494845360825
+Validation Recall: 0.6862745098039216
+Validation F1: 0.7035175879396985
+Validation Accuracy: 0.694300518134715
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0001, dropout_p 0.3, epochs 50
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7025155212197985, running time = 1.975597858428955 seconds, training accuracy = 0.5007329424307037
+Epoch 2: curr_epoch_loss=0.6926498881408146, running time = 1.9482877254486084 seconds, training accuracy = 0.5279767457356076
+Epoch 3: curr_epoch_loss=0.6872389146259853, running time = 1.9693341255187988 seconds, training accuracy = 0.541069762793177
+Epoch 4: curr_epoch_loss=0.6698085537978581, running time = 1.9493494033813477 seconds, training accuracy = 0.6023037713219617
+Epoch 5: curr_epoch_loss=0.6667709350585938, running time = 1.9290692806243896 seconds, training accuracy = 0.6103744669509595
+Epoch 6: curr_epoch_loss=0.6663086244038173, running time = 1.9290969371795654 seconds, training accuracy = 0.617012593283582
+Epoch 7: curr_epoch_loss=0.6617449053696224, running time = 1.9321191310882568 seconds, training accuracy = 0.6226928971215352
+Epoch 8: curr_epoch_loss=0.6493592688015529, running time = 1.9318175315856934 seconds, training accuracy = 0.6489289045842217
+Epoch 9: curr_epoch_loss=0.6460661717823574, running time = 1.927443504333496 seconds, training accuracy = 0.6554670842217484
+Epoch 10: curr_epoch_loss=0.6436436559472766, running time = 1.9341161251068115 seconds, training accuracy = 0.6585654317697228
+Epoch 11: curr_epoch_loss=0.6358916206019265, running time = 1.923797369003296 seconds, training accuracy = 0.6821611807036246
+Epoch 12: curr_epoch_loss=0.6351375920431954, running time = 1.9383032321929932 seconds, training accuracy = 0.671858342217484
+Epoch 13: curr_epoch_loss=0.6212938385350364, running time = 1.930316686630249 seconds, training accuracy = 0.693471815031983
+Epoch 14: curr_epoch_loss=0.6215926451342446, running time = 1.9270293712615967 seconds, training accuracy = 0.6963619402985074
+Epoch 15: curr_epoch_loss=0.6162196866103581, running time = 1.9246973991394043 seconds, training accuracy = 0.695245868869936
+Epoch 16: curr_epoch_loss=0.6125341526099614, running time = 1.9284844398498535 seconds, training accuracy = 0.7171675106609808
+Epoch 17: curr_epoch_loss=0.6071526493344989, running time = 1.9241368770599365 seconds, training accuracy = 0.7071728411513859
+Epoch 18: curr_epoch_loss=0.6069377703326089, running time = 1.9298326969146729 seconds, training accuracy = 0.6966118070362474
+Epoch 19: curr_epoch_loss=0.5974693426064083, running time = 1.9339141845703125 seconds, training accuracy = 0.7227978411513859
+Epoch 20: curr_epoch_loss=0.5900930123669761, running time = 1.9482643604278564 seconds, training accuracy = 0.7370069296375267
+Epoch 21: curr_epoch_loss=0.581794125693185, running time = 1.9326436519622803 seconds, training accuracy = 0.7328424840085288
+Epoch 22: curr_epoch_loss=0.5840464362076351, running time = 1.9643149375915527 seconds, training accuracy = 0.7390308502132196
+Epoch 23: curr_epoch_loss=0.5738287568092346, running time = 1.9286150932312012 seconds, training accuracy = 0.7374067164179104
+Epoch 24: curr_epoch_loss=0.5809369172368731, running time = 1.9424636363983154 seconds, training accuracy = 0.722839485607676
+Epoch 25: curr_epoch_loss=0.5661922650677818, running time = 1.9507203102111816 seconds, training accuracy = 0.757695895522388
+Epoch 26: curr_epoch_loss=0.5635403309549604, running time = 1.9252467155456543 seconds, training accuracy = 0.7473514125799573
+Epoch 27: curr_epoch_loss=0.5582821943930217, running time = 2.011657238006592 seconds, training accuracy = 0.7493836620469084
+Epoch 28: curr_epoch_loss=0.5582081420081002, running time = 1.9420216083526611 seconds, training accuracy = 0.75394789445629
+Epoch 29: curr_epoch_loss=0.5524315025125232, running time = 1.9491631984710693 seconds, training accuracy = 0.7516074760127932
+Epoch 30: curr_epoch_loss=0.5550342627934047, running time = 1.952152967453003 seconds, training accuracy = 0.7488172974413646
+Epoch 31: curr_epoch_loss=0.5468666000025613, running time = 1.940711498260498 seconds, training accuracy = 0.7623684035181236
+Epoch 32: curr_epoch_loss=0.5454966425895691, running time = 1.957247257232666 seconds, training accuracy = 0.7604860740938166
+Epoch 33: curr_epoch_loss=0.5332903478826795, running time = 1.9786946773529053 seconds, training accuracy = 0.7780933502132196
+Epoch 34: curr_epoch_loss=0.5331232377461025, running time = 2.0070247650146484 seconds, training accuracy = 0.7718550106609808
+Epoch 35: curr_epoch_loss=0.5315275107111249, running time = 1.9658467769622803 seconds, training accuracy = 0.7786513859275053
+Epoch 36: curr_epoch_loss=0.5287182267223086, running time = 1.9734406471252441 seconds, training accuracy = 0.7659165111940299
+Epoch 37: curr_epoch_loss=0.5260851383209229, running time = 1.9678258895874023 seconds, training accuracy = 0.7664745469083156
+Epoch 38: curr_epoch_loss=0.5177347872938428, running time = 1.9678683280944824 seconds, training accuracy = 0.7740288512793176
+Epoch 39: curr_epoch_loss=0.5150486763034549, running time = 1.974531650543213 seconds, training accuracy = 0.7886460554371002
+Epoch 40: curr_epoch_loss=0.5151028569255557, running time = 2.0150530338287354 seconds, training accuracy = 0.771496868336887
+Epoch 41: curr_epoch_loss=0.5044455719845635, running time = 1.9881343841552734 seconds, training accuracy = 0.8040711620469084
+Epoch 42: curr_epoch_loss=0.5088068353278297, running time = 1.9650614261627197 seconds, training accuracy = 0.7868220282515992
+Epoch 43: curr_epoch_loss=0.5040164078984942, running time = 1.9551444053649902 seconds, training accuracy = 0.7947844482942431
+Epoch 44: curr_epoch_loss=0.49430962758404867, running time = 1.96281099319458 seconds, training accuracy = 0.7940764925373135
+Epoch 45: curr_epoch_loss=0.495553406221526, running time = 1.9660701751708984 seconds, training accuracy = 0.8040711620469084
+Epoch 46: curr_epoch_loss=0.49425830372742247, running time = 1.9590528011322021 seconds, training accuracy = 0.7957505996801706
+Epoch 47: curr_epoch_loss=0.4818960406950542, running time = 1.9657173156738281 seconds, training accuracy = 0.8114755463752665
+Epoch 48: curr_epoch_loss=0.4818674155644008, running time = 1.9612271785736084 seconds, training accuracy = 0.8157899120469084
+Epoch 49: curr_epoch_loss=0.47939953207969666, running time = 1.9820373058319092 seconds, training accuracy = 0.8137576625799573
+Epoch 50: curr_epoch_loss=0.47247389384678434, running time = 1.970020055770874 seconds, training accuracy = 0.8153318230277186
+Validation Precision: 0.6804123711340206
+Validation Recall: 0.6875
+Validation F1: 0.6839378238341969
+Validation Accuracy: 0.6839378238341969
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0002, dropout_p 0.3, epochs 10
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6972267074244363, running time = 2.0247650146484375 seconds, training accuracy = 0.517682236140725
+Epoch 2: curr_epoch_loss=0.6771770204816546, running time = 1.957359790802002 seconds, training accuracy = 0.5755680303837953
+Epoch 3: curr_epoch_loss=0.6648649445601872, running time = 1.9812359809875488 seconds, training accuracy = 0.6141224680170575
+Epoch 4: curr_epoch_loss=0.6548969064440046, running time = 1.9671764373779297 seconds, training accuracy = 0.632695895522388
+Epoch 5: curr_epoch_loss=0.6445768816130502, running time = 1.9830036163330078 seconds, training accuracy = 0.6558751998933902
+Epoch 6: curr_epoch_loss=0.6328464831624713, running time = 1.975412130355835 seconds, training accuracy = 0.6667360740938166
+Epoch 7: curr_epoch_loss=0.6166946121624538, running time = 1.9752566814422607 seconds, training accuracy = 0.6901236007462687
+Epoch 8: curr_epoch_loss=0.6102736123970577, running time = 1.971717357635498 seconds, training accuracy = 0.7052905117270789
+Epoch 9: curr_epoch_loss=0.6028324152742114, running time = 2.010206460952759 seconds, training accuracy = 0.7103628065031983
+Epoch 10: curr_epoch_loss=0.5999127881867545, running time = 1.9777703285217285 seconds, training accuracy = 0.7103128331556503
+Validation Precision: 0.6288659793814433
+Validation Recall: 0.6931818181818182
+Validation F1: 0.6594594594594594
+Validation Accuracy: 0.6735751295336787
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0002, dropout_p 0.3, epochs 20
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6904410634722028, running time = 2.013110637664795 seconds, training accuracy = 0.5189982009594882
+Epoch 2: curr_epoch_loss=0.680626107113702, running time = 1.9836680889129639 seconds, training accuracy = 0.560501066098081
+Epoch 3: curr_epoch_loss=0.6705221704074315, running time = 1.9741215705871582 seconds, training accuracy = 0.5870868869936033
+Epoch 4: curr_epoch_loss=0.6621570927756173, running time = 1.977508544921875 seconds, training accuracy = 0.6108242270788912
+Epoch 5: curr_epoch_loss=0.6485356092453003, running time = 1.974156379699707 seconds, training accuracy = 0.6330956823027718
+Epoch 6: curr_epoch_loss=0.6403529558862958, running time = 1.9848153591156006 seconds, training accuracy = 0.667952092217484
+Epoch 7: curr_epoch_loss=0.6273850543158395, running time = 1.9840896129608154 seconds, training accuracy = 0.6967700559701493
+Epoch 8: curr_epoch_loss=0.616826913186482, running time = 1.9828627109527588 seconds, training accuracy = 0.7072228144989339
+Epoch 9: curr_epoch_loss=0.610917580979211, running time = 1.9777700901031494 seconds, training accuracy = 0.7052405383795309
+Epoch 10: curr_epoch_loss=0.6015015074184963, running time = 1.9846923351287842 seconds, training accuracy = 0.716859341684435
+Epoch 11: curr_epoch_loss=0.5906495877674648, running time = 1.9726133346557617 seconds, training accuracy = 0.7230976812366737
+Epoch 12: curr_epoch_loss=0.5823164411953518, running time = 1.9875741004943848 seconds, training accuracy = 0.7362906449893389
+Epoch 13: curr_epoch_loss=0.5725190980093819, running time = 1.9829325675964355 seconds, training accuracy = 0.7360324493603411
+Epoch 14: curr_epoch_loss=0.5659290254116058, running time = 1.9799864292144775 seconds, training accuracy = 0.7534398320895522
+Epoch 15: curr_epoch_loss=0.5581729326929364, running time = 1.983560562133789 seconds, training accuracy = 0.7591701092750532
+Epoch 16: curr_epoch_loss=0.5479169530527932, running time = 1.980895757675171 seconds, training accuracy = 0.7591201359275053
+Epoch 17: curr_epoch_loss=0.5414403506687709, running time = 1.9915597438812256 seconds, training accuracy = 0.7599280383795309
+Epoch 18: curr_epoch_loss=0.5396086616175515, running time = 1.9918735027313232 seconds, training accuracy = 0.7592700559701493
+Epoch 19: curr_epoch_loss=0.5288068822452, running time = 1.9731931686401367 seconds, training accuracy = 0.7796175373134329
+Epoch 20: curr_epoch_loss=0.5194905570575169, running time = 2.000391721725464 seconds, training accuracy = 0.7824576892324094
+Validation Precision: 0.6701030927835051
+Validation Recall: 0.6565656565656566
+Validation F1: 0.663265306122449
+Validation Accuracy: 0.6580310880829016
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0002, dropout_p 0.3, epochs 30
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7000518015452794, running time = 2.0084543228149414 seconds, training accuracy = 0.5007912446695096
+Epoch 2: curr_epoch_loss=0.6825585493019649, running time = 1.9731175899505615 seconds, training accuracy = 0.5648071028784648
+Epoch 3: curr_epoch_loss=0.6653788898672376, running time = 1.9809646606445312 seconds, training accuracy = 0.6036197361407248
+Epoch 4: curr_epoch_loss=0.6542402761323112, running time = 1.9766926765441895 seconds, training accuracy = 0.63680203891258
+Epoch 5: curr_epoch_loss=0.6425551899841854, running time = 1.9650495052337646 seconds, training accuracy = 0.6553171641791045
+Epoch 6: curr_epoch_loss=0.6324668441499982, running time = 1.9909400939941406 seconds, training accuracy = 0.6755646988272922
+Epoch 7: curr_epoch_loss=0.6276118372167859, running time = 1.9767780303955078 seconds, training accuracy = 0.6802288779317697
+Epoch 8: curr_epoch_loss=0.6188309746129173, running time = 1.9931392669677734 seconds, training accuracy = 0.6972281449893389
+Epoch 9: curr_epoch_loss=0.5993059490408216, running time = 1.976245403289795 seconds, training accuracy = 0.7276702425373135
+Epoch 10: curr_epoch_loss=0.5963650260652814, running time = 1.9672646522521973 seconds, training accuracy = 0.7215734941364605
+Epoch 11: curr_epoch_loss=0.5879676129136767, running time = 1.9772686958312988 seconds, training accuracy = 0.7218233608742004
+Epoch 12: curr_epoch_loss=0.5771130664008004, running time = 1.9650979042053223 seconds, training accuracy = 0.7318763326226013
+Epoch 13: curr_epoch_loss=0.5672003158501217, running time = 1.9791111946105957 seconds, training accuracy = 0.7430870202558636
+Epoch 14: curr_epoch_loss=0.5649024759020124, running time = 1.9697763919830322 seconds, training accuracy = 0.7429371002132196
+Epoch 15: curr_epoch_loss=0.5634615250996181, running time = 1.976789951324463 seconds, training accuracy = 0.7365405117270789
+Epoch 16: curr_epoch_loss=0.5474476516246796, running time = 1.9826550483703613 seconds, training accuracy = 0.7609941364605544
+Epoch 17: curr_epoch_loss=0.5399521035807473, running time = 1.9728906154632568 seconds, training accuracy = 0.767490671641791
+Epoch 18: curr_epoch_loss=0.5326969197818211, running time = 1.9742708206176758 seconds, training accuracy = 0.76566664445629
+Epoch 19: curr_epoch_loss=0.5313166954687664, running time = 1.9771957397460938 seconds, training accuracy = 0.7688566098081023
+Epoch 20: curr_epoch_loss=0.5211229175329208, running time = 1.9827306270599365 seconds, training accuracy = 0.7847398054371002
+Epoch 21: curr_epoch_loss=0.5138791458947318, running time = 1.9749119281768799 seconds, training accuracy = 0.7897621268656716
+Epoch 22: curr_epoch_loss=0.5020257617746081, running time = 1.9820384979248047 seconds, training accuracy = 0.7931103411513859
+Epoch 23: curr_epoch_loss=0.49787950941494535, running time = 1.9810311794281006 seconds, training accuracy = 0.8031549840085288
+Epoch 24: curr_epoch_loss=0.49557742050715853, running time = 1.9770982265472412 seconds, training accuracy = 0.8003148320895522
+Epoch 25: curr_epoch_loss=0.4805126530783517, running time = 1.992631435394287 seconds, training accuracy = 0.8114755463752665
+Epoch 26: curr_epoch_loss=0.47254809737205505, running time = 1.9699952602386475 seconds, training accuracy = 0.8227362073560768
+Epoch 27: curr_epoch_loss=0.4691511924777712, running time = 1.9930508136749268 seconds, training accuracy = 0.8195878864605544
+Epoch 28: curr_epoch_loss=0.4584692674023764, running time = 2.1073033809661865 seconds, training accuracy = 0.8347631263326226
+Epoch 29: curr_epoch_loss=0.45895572219576153, running time = 1.9651596546173096 seconds, training accuracy = 0.818271921641791
+Epoch 30: curr_epoch_loss=0.4420934851680483, running time = 1.9608449935913086 seconds, training accuracy = 0.8415595015991472
+Validation Precision: 0.7319587628865979
+Validation Recall: 0.6826923076923077
+Validation F1: 0.7064676616915424
+Validation Accuracy: 0.694300518134715
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0002, dropout_p 0.3, epochs 40
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7017080613545009, running time = 2.009422540664673 seconds, training accuracy = 0.4990588352878465
+Epoch 2: curr_epoch_loss=0.6799051506178719, running time = 1.958549976348877 seconds, training accuracy = 0.5639992004264393
+Epoch 3: curr_epoch_loss=0.6606053582259587, running time = 1.9653894901275635 seconds, training accuracy = 0.6118403518123667
+Epoch 4: curr_epoch_loss=0.6512477355343955, running time = 1.9725291728973389 seconds, training accuracy = 0.6361440565031983
+Epoch 5: curr_epoch_loss=0.6451755719525474, running time = 1.9689249992370605 seconds, training accuracy = 0.652227145522388
+Epoch 6: curr_epoch_loss=0.6305496394634247, running time = 1.9612786769866943 seconds, training accuracy = 0.6849513592750532
+Epoch 7: curr_epoch_loss=0.617520660161972, running time = 1.9684078693389893 seconds, training accuracy = 0.7050406449893389
+Epoch 8: curr_epoch_loss=0.6129031181335449, running time = 1.9631762504577637 seconds, training accuracy = 0.6903734674840086
+Epoch 9: curr_epoch_loss=0.6054702486310687, running time = 1.9630160331726074 seconds, training accuracy = 0.7119369669509595
+Epoch 10: curr_epoch_loss=0.5933055537087577, running time = 1.964205026626587 seconds, training accuracy = 0.7257879131130064
+Epoch 11: curr_epoch_loss=0.5853790470532009, running time = 1.9672539234161377 seconds, training accuracy = 0.7277118869936033
+Epoch 12: curr_epoch_loss=0.5724609664508274, running time = 1.9688987731933594 seconds, training accuracy = 0.7354744136460554
+Epoch 13: curr_epoch_loss=0.5633561526026044, running time = 1.9818260669708252 seconds, training accuracy = 0.7602861807036246
+Epoch 14: curr_epoch_loss=0.5573190195219857, running time = 1.9785199165344238 seconds, training accuracy = 0.7531816364605544
+Epoch 15: curr_epoch_loss=0.5525307783058712, running time = 1.9645211696624756 seconds, training accuracy = 0.7526236007462687
+Epoch 16: curr_epoch_loss=0.5437716501099723, running time = 1.9668006896972656 seconds, training accuracy = 0.7661747068230278
+Epoch 17: curr_epoch_loss=0.5409424262387412, running time = 1.9650156497955322 seconds, training accuracy = 0.7529817430703625
+Epoch 18: curr_epoch_loss=0.5300280196326119, running time = 1.9656529426574707 seconds, training accuracy = 0.7697228144989339
+Epoch 19: curr_epoch_loss=0.5177621522120067, running time = 1.984140157699585 seconds, training accuracy = 0.7849980010660981
+Epoch 20: curr_epoch_loss=0.5114378333091736, running time = 1.9649453163146973 seconds, training accuracy = 0.7896621801705758
+Epoch 21: curr_epoch_loss=0.4981308238846915, running time = 1.9673023223876953 seconds, training accuracy = 0.8014808768656716
+Epoch 22: curr_epoch_loss=0.496060060603278, running time = 2.0662646293640137 seconds, training accuracy = 0.8001649120469084
+Epoch 23: curr_epoch_loss=0.49187042457716806, running time = 2.040469169616699 seconds, training accuracy = 0.8081273320895522
+Epoch 24: curr_epoch_loss=0.48991362537656513, running time = 1.9864284992218018 seconds, training accuracy = 0.8123334221748401
+Epoch 25: curr_epoch_loss=0.4730782615286963, running time = 1.9884443283081055 seconds, training accuracy = 0.8160897521321961
+Epoch 26: curr_epoch_loss=0.47565129825047087, running time = 1.9780116081237793 seconds, training accuracy = 0.8182219482942431
+Epoch 27: curr_epoch_loss=0.4608042708465031, running time = 1.9618613719940186 seconds, training accuracy = 0.8264925373134329
+Epoch 28: curr_epoch_loss=0.45580439269542694, running time = 2.005234956741333 seconds, training accuracy = 0.8299406982942431
+Epoch 29: curr_epoch_loss=0.44804082810878754, running time = 2.03446364402771 seconds, training accuracy = 0.8420675639658849
+Epoch 30: curr_epoch_loss=0.43985319989068167, running time = 2.0216784477233887 seconds, training accuracy = 0.8386194029850745
+Epoch 31: curr_epoch_loss=0.4355218176330839, running time = 2.0258352756500244 seconds, training accuracy = 0.8415095282515992
+Epoch 32: curr_epoch_loss=0.42267576924392153, running time = 1.9944450855255127 seconds, training accuracy = 0.8557685900852878
+Epoch 33: curr_epoch_loss=0.41643006035259794, running time = 1.9921135902404785 seconds, training accuracy = 0.8599746801705758
+Epoch 34: curr_epoch_loss=0.41585048607417513, running time = 1.9925880432128906 seconds, training accuracy = 0.8592167510660981
+Epoch 35: curr_epoch_loss=0.400704705289432, running time = 1.9923803806304932 seconds, training accuracy = 0.884836420575693
+Epoch 36: curr_epoch_loss=0.40392541672502247, running time = 1.9992167949676514 seconds, training accuracy = 0.8626649120469084
+Epoch 37: curr_epoch_loss=0.39495497729097095, running time = 1.9770970344543457 seconds, training accuracy = 0.8742837153518124
+Epoch 38: curr_epoch_loss=0.37776349059173037, running time = 1.962430477142334 seconds, training accuracy = 0.8882845815565031
+Epoch 39: curr_epoch_loss=0.37513753133160727, running time = 1.9629948139190674 seconds, training accuracy = 0.8943230277185501
+Epoch 40: curr_epoch_loss=0.3750910099063601, running time = 1.9675188064575195 seconds, training accuracy = 0.8758578757995735
+Validation Precision: 0.7731958762886598
+Validation Recall: 0.6756756756756757
+Validation F1: 0.721153846153846
+Validation Accuracy: 0.6994818652849741
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0002, dropout_p 0.3, epochs 50
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7037155500480107, running time = 2.005995750427246 seconds, training accuracy = 0.5111357276119403
+Epoch 2: curr_epoch_loss=0.6847297762121473, running time = 1.9687423706054688 seconds, training accuracy = 0.5534464952025586
+Epoch 3: curr_epoch_loss=0.6705838016101292, running time = 1.9689645767211914 seconds, training accuracy = 0.5893690031982943
+Epoch 4: curr_epoch_loss=0.6560371475560325, running time = 1.979266881942749 seconds, training accuracy = 0.636852012260128
+Epoch 5: curr_epoch_loss=0.6437193623610905, running time = 1.9720067977905273 seconds, training accuracy = 0.6606976279317697
+Epoch 6: curr_epoch_loss=0.6387936132294791, running time = 1.9673726558685303 seconds, training accuracy = 0.6628797974413646
+Epoch 7: curr_epoch_loss=0.6278007243360791, running time = 1.978905439376831 seconds, training accuracy = 0.6807369402985074
+Epoch 8: curr_epoch_loss=0.6217390043394906, running time = 1.9702394008636475 seconds, training accuracy = 0.6862173507462687
+Epoch 9: curr_epoch_loss=0.6065981771264758, running time = 1.9814956188201904 seconds, training accuracy = 0.7152352078891259
+Epoch 10: curr_epoch_loss=0.600139204944883, running time = 1.9711549282073975 seconds, training accuracy = 0.7205656982942431
+Epoch 11: curr_epoch_loss=0.5900746669088092, running time = 1.9739673137664795 seconds, training accuracy = 0.7265541711087421
+Epoch 12: curr_epoch_loss=0.5867969138281686, running time = 1.971785306930542 seconds, training accuracy = 0.7395305836886994
+Epoch 13: curr_epoch_loss=0.5775204939501626, running time = 1.9754829406738281 seconds, training accuracy = 0.72273953891258
+Epoch 14: curr_epoch_loss=0.5646640828677586, running time = 1.9656620025634766 seconds, training accuracy = 0.7501915644989339
+Epoch 15: curr_epoch_loss=0.5628505604607719, running time = 1.9764525890350342 seconds, training accuracy = 0.7500916178038379
+Epoch 16: curr_epoch_loss=0.5590163384165082, running time = 1.9577288627624512 seconds, training accuracy = 0.7458272254797442
+Epoch 17: curr_epoch_loss=0.5466223401682717, running time = 1.966799020767212 seconds, training accuracy = 0.7596281982942431
+Epoch 18: curr_epoch_loss=0.5333947198731559, running time = 1.9679186344146729 seconds, training accuracy = 0.7705806902985074
+Epoch 19: curr_epoch_loss=0.5296357763665063, running time = 1.9646000862121582 seconds, training accuracy = 0.7707389392324094
+Epoch 20: curr_epoch_loss=0.5174261331558228, running time = 1.9678003787994385 seconds, training accuracy = 0.7962003598081023
+Epoch 21: curr_epoch_loss=0.5144728145429066, running time = 1.9668858051300049 seconds, training accuracy = 0.7900119936034116
+Epoch 22: curr_epoch_loss=0.5052570594208581, running time = 1.9720799922943115 seconds, training accuracy = 0.7987906449893389
+Epoch 23: curr_epoch_loss=0.49655939638614655, running time = 1.9636430740356445 seconds, training accuracy = 0.7901202691897655
+Epoch 24: curr_epoch_loss=0.48874842694827486, running time = 1.9770944118499756 seconds, training accuracy = 0.8047791178038379
+Epoch 25: curr_epoch_loss=0.48714285237448557, running time = 1.967569351196289 seconds, training accuracy = 0.8115754930703625
+Epoch 26: curr_epoch_loss=0.47244249284267426, running time = 1.9724442958831787 seconds, training accuracy = 0.8159398320895522
+Epoch 27: curr_epoch_loss=0.4749167710542679, running time = 1.9587655067443848 seconds, training accuracy = 0.8160897521321961
+Epoch 28: curr_epoch_loss=0.454242080450058, running time = 1.9602079391479492 seconds, training accuracy = 0.8329890724946695
+Epoch 29: curr_epoch_loss=0.4519030068601881, running time = 1.9702651500701904 seconds, training accuracy = 0.8429837420042644
+Epoch 30: curr_epoch_loss=0.4450796033654894, running time = 1.969731092453003 seconds, training accuracy = 0.8372451359275053
+Epoch 31: curr_epoch_loss=0.4333575942686626, running time = 1.967139482498169 seconds, training accuracy = 0.8463319562899787
+Epoch 32: curr_epoch_loss=0.4247393522943769, running time = 1.9626307487487793 seconds, training accuracy = 0.8599746801705758
+Epoch 33: curr_epoch_loss=0.4225017236811774, running time = 1.9679839611053467 seconds, training accuracy = 0.8472398054371002
+Epoch 34: curr_epoch_loss=0.41210160510880606, running time = 1.9714269638061523 seconds, training accuracy = 0.8589585554371002
+Epoch 35: curr_epoch_loss=0.4061379645551954, running time = 1.9636173248291016 seconds, training accuracy = 0.8676872334754798
+Epoch 36: curr_epoch_loss=0.39943484110491617, running time = 1.9668159484863281 seconds, training accuracy = 0.8776819029850745
+Epoch 37: curr_epoch_loss=0.3991954049893788, running time = 1.9608399868011475 seconds, training accuracy = 0.8704774120469084
+Epoch 38: curr_epoch_loss=0.3851377069950104, running time = 1.9726712703704834 seconds, training accuracy = 0.8820462420042644
+Epoch 39: curr_epoch_loss=0.37993888344083515, running time = 1.9619064331054688 seconds, training accuracy = 0.8776819029850745
+Epoch 40: curr_epoch_loss=0.37071864094053, running time = 1.963226318359375 seconds, training accuracy = 0.8849863406183369
+Epoch 41: curr_epoch_loss=0.3637489080429077, running time = 1.9656152725219727 seconds, training accuracy = 0.8905666977611941
+Epoch 42: curr_epoch_loss=0.3609733283519745, running time = 1.9636785984039307 seconds, training accuracy = 0.8966051439232409
+Epoch 43: curr_epoch_loss=0.3474400447947638, running time = 1.9606056213378906 seconds, training accuracy = 0.912180170575693
+Epoch 44: curr_epoch_loss=0.34204110290322987, running time = 1.9765751361846924 seconds, training accuracy = 0.9072577958422174
+Epoch 45: curr_epoch_loss=0.33937413139002665, running time = 1.9644749164581299 seconds, training accuracy = 0.9108642057569296
+Epoch 46: curr_epoch_loss=0.33359672342027935, running time = 1.9595372676849365 seconds, training accuracy = 0.9054837420042644
+Epoch 47: curr_epoch_loss=0.3207732247454779, running time = 1.9635229110717773 seconds, training accuracy = 0.925981143390192
+Epoch 48: curr_epoch_loss=0.32498064637184143, running time = 1.9614198207855225 seconds, training accuracy = 0.9109641524520257
+Epoch 49: curr_epoch_loss=0.3187262713909149, running time = 1.968611240386963 seconds, training accuracy = 0.9194846082089552
+Epoch 50: curr_epoch_loss=0.31162569565432413, running time = 1.9675450325012207 seconds, training accuracy = 0.9165944829424307
+Validation Precision: 0.7731958762886598
+Validation Recall: 0.6818181818181818
+Validation F1: 0.7246376811594202
+Validation Accuracy: 0.7046632124352331
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0003, dropout_p 0.3, epochs 10
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6920347128595624, running time = 2.0057637691497803 seconds, training accuracy = 0.5394456289978679
+Epoch 2: curr_epoch_loss=0.6757589280605316, running time = 1.967322826385498 seconds, training accuracy = 0.5820062633262261
+Epoch 3: curr_epoch_loss=0.6582736543246678, running time = 1.9629056453704834 seconds, training accuracy = 0.6223430836886994
+Epoch 4: curr_epoch_loss=0.6403175592422485, running time = 1.9620158672332764 seconds, training accuracy = 0.6633795309168444
+Epoch 5: curr_epoch_loss=0.6277113258838654, running time = 1.968928575515747 seconds, training accuracy = 0.6834271721748401
+Epoch 6: curr_epoch_loss=0.6107906656605857, running time = 1.9650797843933105 seconds, training accuracy = 0.7061567164179104
+Epoch 7: curr_epoch_loss=0.6026224195957184, running time = 1.9614803791046143 seconds, training accuracy = 0.71097914445629
+Epoch 8: curr_epoch_loss=0.5847806547369275, running time = 1.9677999019622803 seconds, training accuracy = 0.7230976812366737
+Epoch 9: curr_epoch_loss=0.5691768867628915, running time = 1.9727585315704346 seconds, training accuracy = 0.7461853678038379
+Epoch 10: curr_epoch_loss=0.5634026569979531, running time = 1.9639146327972412 seconds, training accuracy = 0.7506496535181236
+Validation Precision: 0.7422680412371134
+Validation Recall: 0.7058823529411765
+Validation F1: 0.7236180904522612
+Validation Accuracy: 0.7150259067357513
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0003, dropout_p 0.3, epochs 20
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6973198524543217, running time = 2.0067062377929688 seconds, training accuracy = 0.5159081823027718
+Epoch 2: curr_epoch_loss=0.673149049282074, running time = 1.9676318168640137 seconds, training accuracy = 0.5894189765458423
+Epoch 3: curr_epoch_loss=0.6586373618670872, running time = 1.992027759552002 seconds, training accuracy = 0.6234091817697228
+Epoch 4: curr_epoch_loss=0.6365861977849688, running time = 1.9645154476165771 seconds, training accuracy = 0.6657199493603411
+Epoch 5: curr_epoch_loss=0.6241402711187091, running time = 2.089365005493164 seconds, training accuracy = 0.6850013326226013
+Epoch 6: curr_epoch_loss=0.60793593951634, running time = 2.044491767883301 seconds, training accuracy = 0.728578091684435
+Epoch 7: curr_epoch_loss=0.5983448922634125, running time = 2.042888879776001 seconds, training accuracy = 0.7100129930703625
+Epoch 8: curr_epoch_loss=0.5810412977422986, running time = 2.095594644546509 seconds, training accuracy = 0.7425789578891259
+Epoch 9: curr_epoch_loss=0.5778278240135738, running time = 2.0791687965393066 seconds, training accuracy = 0.7269539578891259
+Epoch 10: curr_epoch_loss=0.5553722381591797, running time = 2.0915563106536865 seconds, training accuracy = 0.7625183235607675
+Epoch 11: curr_epoch_loss=0.5479926807539803, running time = 2.0009958744049072 seconds, training accuracy = 0.7669826092750532
+Epoch 12: curr_epoch_loss=0.5373697131872177, running time = 1.976064920425415 seconds, training accuracy = 0.7634844749466951
+Epoch 13: curr_epoch_loss=0.5192822622401374, running time = 1.9748761653900146 seconds, training accuracy = 0.7776852345415779
+Epoch 14: curr_epoch_loss=0.509822387780462, running time = 1.984834909439087 seconds, training accuracy = 0.7975746268656716
+Epoch 15: curr_epoch_loss=0.4986220406634467, running time = 1.9780027866363525 seconds, training accuracy = 0.8085854211087421
+Epoch 16: curr_epoch_loss=0.49057738057204653, running time = 1.9824378490447998 seconds, training accuracy = 0.8015308502132196
+Epoch 17: curr_epoch_loss=0.4839713126420975, running time = 1.974848985671997 seconds, training accuracy = 0.7997567963752665
+Epoch 18: curr_epoch_loss=0.46875572417463574, running time = 1.9880015850067139 seconds, training accuracy = 0.8240605010660981
+Epoch 19: curr_epoch_loss=0.45742769113608767, running time = 1.9780292510986328 seconds, training accuracy = 0.8320229211087421
+Epoch 20: curr_epoch_loss=0.44199164850371225, running time = 1.9752192497253418 seconds, training accuracy = 0.8370952158848615
+Validation Precision: 0.7731958762886598
+Validation Recall: 0.646551724137931
+Validation F1: 0.7042253521126761
+Validation Accuracy: 0.6735751295336787
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0003, dropout_p 0.3, epochs 30
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6977001428604126, running time = 2.028573989868164 seconds, training accuracy = 0.5118020389125799
+Epoch 2: curr_epoch_loss=0.6769229173660278, running time = 1.9719111919403076 seconds, training accuracy = 0.5708455490405118
+Epoch 3: curr_epoch_loss=0.65761427794184, running time = 1.976487636566162 seconds, training accuracy = 0.6303055037313433
+Epoch 4: curr_epoch_loss=0.6442594187600272, running time = 1.9847164154052734 seconds, training accuracy = 0.6562833155650319
+Epoch 5: curr_epoch_loss=0.6277394422463008, running time = 1.9733281135559082 seconds, training accuracy = 0.6891074760127932
+Epoch 6: curr_epoch_loss=0.611888757773808, running time = 1.9834680557250977 seconds, training accuracy = 0.697278118336887
+Epoch 7: curr_epoch_loss=0.598042219877243, running time = 1.98689866065979 seconds, training accuracy = 0.7083388859275053
+Epoch 8: curr_epoch_loss=0.5867291986942291, running time = 1.976015567779541 seconds, training accuracy = 0.7215734941364605
+Epoch 9: curr_epoch_loss=0.5795742571353912, running time = 1.9842629432678223 seconds, training accuracy = 0.720715618336887
+Epoch 10: curr_epoch_loss=0.5641524408544812, running time = 1.9752459526062012 seconds, training accuracy = 0.738464485607676
+Epoch 11: curr_epoch_loss=0.5483234567301614, running time = 1.9810457229614258 seconds, training accuracy = 0.7594199760127932
+Epoch 12: curr_epoch_loss=0.5423604590552193, running time = 1.9789574146270752 seconds, training accuracy = 0.7654084488272922
+Epoch 13: curr_epoch_loss=0.530311107635498, running time = 1.9865097999572754 seconds, training accuracy = 0.7714468949893389
+Epoch 14: curr_epoch_loss=0.5167485369103295, running time = 1.983551263809204 seconds, training accuracy = 0.7852478678038379
+Epoch 15: curr_epoch_loss=0.504324101975986, running time = 1.9879181385040283 seconds, training accuracy = 0.7918943230277186
+Epoch 16: curr_epoch_loss=0.4965797577585493, running time = 1.9722847938537598 seconds, training accuracy = 0.8074693496801706
+Epoch 17: curr_epoch_loss=0.4894271471670696, running time = 1.9763519763946533 seconds, training accuracy = 0.8109175106609808
+Epoch 18: curr_epoch_loss=0.4793471544981003, running time = 1.986570119857788 seconds, training accuracy = 0.8109175106609808
+Epoch 19: curr_epoch_loss=0.45740871131420135, running time = 1.9781603813171387 seconds, training accuracy = 0.8291827691897655
+Epoch 20: curr_epoch_loss=0.4540533253124782, running time = 1.9734938144683838 seconds, training accuracy = 0.8226362606609808
+Epoch 21: curr_epoch_loss=0.4352932891675404, running time = 1.965632438659668 seconds, training accuracy = 0.8513043043710021
+Epoch 22: curr_epoch_loss=0.42775516850607737, running time = 1.970198631286621 seconds, training accuracy = 0.8542943763326226
+Epoch 23: curr_epoch_loss=0.4219232031277248, running time = 1.9793097972869873 seconds, training accuracy = 0.8579507595948828
+Epoch 24: curr_epoch_loss=0.40847680824143545, running time = 1.9765956401824951 seconds, training accuracy = 0.8756579824093816
+Epoch 25: curr_epoch_loss=0.39960683456489016, running time = 1.9808235168457031 seconds, training accuracy = 0.8717933768656716
+Epoch 26: curr_epoch_loss=0.3788745722600392, running time = 1.9722068309783936 seconds, training accuracy = 0.8858525453091685
+Epoch 27: curr_epoch_loss=0.3820261167628424, running time = 1.9764466285705566 seconds, training accuracy = 0.8915328491471215
+Epoch 28: curr_epoch_loss=0.3635135825191225, running time = 1.9753656387329102 seconds, training accuracy = 0.9003614738805971
+Epoch 29: curr_epoch_loss=0.35906595843178885, running time = 1.9782583713531494 seconds, training accuracy = 0.8970632329424307
+Epoch 30: curr_epoch_loss=0.3495487996510097, running time = 1.9819684028625488 seconds, training accuracy = 0.8986873667377399
+Validation Precision: 0.7731958762886598
+Validation Recall: 0.7075471698113207
+Validation F1: 0.7389162561576353
+Validation Accuracy: 0.7253886010362695
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0003, dropout_p 0.3, epochs 40
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6996783018112183, running time = 2.0129928588867188 seconds, training accuracy = 0.5195062633262261
+Epoch 2: curr_epoch_loss=0.6721748198781695, running time = 1.965799331665039 seconds, training accuracy = 0.5754680836886994
+Epoch 3: curr_epoch_loss=0.6539379869188581, running time = 1.9694278240203857 seconds, training accuracy = 0.6333538779317697
+Epoch 4: curr_epoch_loss=0.6397210018975394, running time = 1.993431806564331 seconds, training accuracy = 0.6648037713219617
+Epoch 5: curr_epoch_loss=0.6265309367861066, running time = 1.9624125957489014 seconds, training accuracy = 0.6903234941364605
+Epoch 6: curr_epoch_loss=0.6080221916948046, running time = 1.973388671875 seconds, training accuracy = 0.714777118869936
+Epoch 7: curr_epoch_loss=0.5993513762950897, running time = 1.968407154083252 seconds, training accuracy = 0.7289362340085288
+Epoch 8: curr_epoch_loss=0.587494181735175, running time = 1.970238208770752 seconds, training accuracy = 0.7274620202558636
+Epoch 9: curr_epoch_loss=0.5737142435141972, running time = 1.9661872386932373 seconds, training accuracy = 0.744253065031983
+Epoch 10: curr_epoch_loss=0.564235942704337, running time = 1.9698002338409424 seconds, training accuracy = 0.7491254664179104
+Epoch 11: curr_epoch_loss=0.5541946334498269, running time = 1.9747302532196045 seconds, training accuracy = 0.7510994136460554
+Epoch 12: curr_epoch_loss=0.5370172794376101, running time = 1.9793739318847656 seconds, training accuracy = 0.775453091684435
+Epoch 13: curr_epoch_loss=0.5254894750458854, running time = 1.97432541847229 seconds, training accuracy = 0.7721548507462687
+Epoch 14: curr_epoch_loss=0.516358054109982, running time = 1.9772193431854248 seconds, training accuracy = 0.7860057969083156
+Epoch 15: curr_epoch_loss=0.5016508613313947, running time = 1.9832699298858643 seconds, training accuracy = 0.7918859941364605
+Epoch 16: curr_epoch_loss=0.4922923105103629, running time = 1.973484754562378 seconds, training accuracy = 0.8144156449893389
+Epoch 17: curr_epoch_loss=0.4817219525575638, running time = 2.006392002105713 seconds, training accuracy = 0.8154317697228145
+Epoch 18: curr_epoch_loss=0.47574831332479206, running time = 1.9782443046569824 seconds, training accuracy = 0.814515591684435
+Epoch 19: curr_epoch_loss=0.460912640605654, running time = 1.976503849029541 seconds, training accuracy = 0.8284165111940299
+Epoch 20: curr_epoch_loss=0.44820383191108704, running time = 2.002241373062134 seconds, training accuracy = 0.8474980010660981
+Epoch 21: curr_epoch_loss=0.4407744088343212, running time = 2.013695001602173 seconds, training accuracy = 0.8402935101279317
+Epoch 22: curr_epoch_loss=0.42781718926770346, running time = 1.984147071838379 seconds, training accuracy = 0.8541944296375267
+Epoch 23: curr_epoch_loss=0.41997367782252176, running time = 1.9778921604156494 seconds, training accuracy = 0.8562183502132196
+Epoch 24: curr_epoch_loss=0.4049724872623171, running time = 1.9789562225341797 seconds, training accuracy = 0.873117670575693
+Epoch 25: curr_epoch_loss=0.4039990987096514, running time = 1.9655795097351074 seconds, training accuracy = 0.8637809834754798
+Epoch 26: curr_epoch_loss=0.38376219144889284, running time = 1.9804270267486572 seconds, training accuracy = 0.8839202425373135
+Epoch 27: curr_epoch_loss=0.3731837783540998, running time = 1.9881117343902588 seconds, training accuracy = 0.8840201892324094
+Epoch 28: curr_epoch_loss=0.3667597195931843, running time = 1.9794683456420898 seconds, training accuracy = 0.8868686700426439
+Epoch 29: curr_epoch_loss=0.35450716742447447, running time = 1.9876782894134521 seconds, training accuracy = 0.8982792510660981
+Epoch 30: curr_epoch_loss=0.3446913957595825, running time = 1.9714531898498535 seconds, training accuracy = 0.904367670575693
+Epoch 31: curr_epoch_loss=0.3414024604218347, running time = 1.976475715637207 seconds, training accuracy = 0.9026935634328358
+Epoch 32: curr_epoch_loss=0.32779811535562786, running time = 1.9729642868041992 seconds, training accuracy = 0.9164945362473348
+Epoch 33: curr_epoch_loss=0.3115417829581669, running time = 1.9812817573547363 seconds, training accuracy = 0.9216168043710021
+Epoch 34: curr_epoch_loss=0.30122704591069904, running time = 1.9845638275146484 seconds, training accuracy = 0.9303954557569296
+Epoch 35: curr_epoch_loss=0.301384089248521, running time = 1.9843158721923828 seconds, training accuracy = 0.9153284914712153
+Epoch 36: curr_epoch_loss=0.2929757556744984, running time = 1.9799127578735352 seconds, training accuracy = 0.9292793843283581
+Epoch 37: curr_epoch_loss=0.2780902108975819, running time = 1.9680240154266357 seconds, training accuracy = 0.9339435634328358
+Epoch 38: curr_epoch_loss=0.2751288648162569, running time = 1.9772412776947021 seconds, training accuracy = 0.9377998400852878
+Epoch 39: curr_epoch_loss=0.27172171005180906, running time = 1.976762294769287 seconds, training accuracy = 0.9390658315565031
+Epoch 40: curr_epoch_loss=0.260612462248121, running time = 1.9737894535064697 seconds, training accuracy = 0.9439882062899787
+Validation Precision: 0.7731958762886598
+Validation Recall: 0.6880733944954128
+Validation F1: 0.7281553398058253
+Validation Accuracy: 0.7098445595854922
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0003, dropout_p 0.3, epochs 50
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.725922520671572, running time = 2.024707794189453 seconds, training accuracy = 0.5094116471215352
+Epoch 2: curr_epoch_loss=0.6781786339623588, running time = 1.9746005535125732 seconds, training accuracy = 0.5678055037313433
+Epoch 3: curr_epoch_loss=0.6657244520527976, running time = 1.9877219200134277 seconds, training accuracy = 0.5979394323027718
+Epoch 4: curr_epoch_loss=0.6408144022737231, running time = 1.9658284187316895 seconds, training accuracy = 0.6555753598081023
+Epoch 5: curr_epoch_loss=0.6306366835321698, running time = 1.9671955108642578 seconds, training accuracy = 0.672008262260128
+Epoch 6: curr_epoch_loss=0.6177822181156704, running time = 1.961958408355713 seconds, training accuracy = 0.6909814765458423
+Epoch 7: curr_epoch_loss=0.601460086447852, running time = 1.9780197143554688 seconds, training accuracy = 0.7201575826226013
+Epoch 8: curr_epoch_loss=0.591201479945864, running time = 1.9648332595825195 seconds, training accuracy = 0.7230976812366737
+Epoch 9: curr_epoch_loss=0.57864967414311, running time = 1.9644296169281006 seconds, training accuracy = 0.7327425373134329
+Epoch 10: curr_epoch_loss=0.5670732387474605, running time = 1.9624202251434326 seconds, training accuracy = 0.7428371535181236
+Epoch 11: curr_epoch_loss=0.5683027633598873, running time = 1.966827630996704 seconds, training accuracy = 0.7335504397654585
+Epoch 12: curr_epoch_loss=0.5477641650608608, running time = 1.9705801010131836 seconds, training accuracy = 0.7503914578891259
+Epoch 13: curr_epoch_loss=0.5326084622314998, running time = 1.964172124862671 seconds, training accuracy = 0.7728711353944563
+Epoch 14: curr_epoch_loss=0.5343066496508462, running time = 1.9677484035491943 seconds, training accuracy = 0.7609941364605544
+Epoch 15: curr_epoch_loss=0.5206027499267033, running time = 1.9675049781799316 seconds, training accuracy = 0.7808335554371002
+Epoch 16: curr_epoch_loss=0.5087707660027913, running time = 1.9679670333862305 seconds, training accuracy = 0.7964085820895522
+Epoch 17: curr_epoch_loss=0.49799151505742756, running time = 1.9725067615509033 seconds, training accuracy = 0.7991487873134329
+Epoch 18: curr_epoch_loss=0.48336188069411684, running time = 1.9670283794403076 seconds, training accuracy = 0.8152818496801706
+Epoch 19: curr_epoch_loss=0.47953388946396963, running time = 1.9624156951904297 seconds, training accuracy = 0.8113755996801706
+Epoch 20: curr_epoch_loss=0.4632779742990221, running time = 1.9603095054626465 seconds, training accuracy = 0.8348630730277186
+Epoch 21: curr_epoch_loss=0.44660164628710064, running time = 1.970973014831543 seconds, training accuracy = 0.8374033848614072
+Epoch 22: curr_epoch_loss=0.4423286999974932, running time = 1.9719469547271729 seconds, training accuracy = 0.8420175906183369
+Epoch 23: curr_epoch_loss=0.4297200334923608, running time = 1.9708466529846191 seconds, training accuracy = 0.8547524653518124
+Epoch 24: curr_epoch_loss=0.4294856233256204, running time = 1.9633958339691162 seconds, training accuracy = 0.8459738139658849
+Epoch 25: curr_epoch_loss=0.4149984121322632, running time = 1.9593267440795898 seconds, training accuracy = 0.8628148320895522
+Epoch 26: curr_epoch_loss=0.40539775788784027, running time = 1.9646046161651611 seconds, training accuracy = 0.8649470282515992
+Epoch 27: curr_epoch_loss=0.39596068433352877, running time = 1.9728472232818604 seconds, training accuracy = 0.8727095549040512
+Epoch 28: curr_epoch_loss=0.38001508585044314, running time = 1.9672269821166992 seconds, training accuracy = 0.8850862873134329
+Epoch 29: curr_epoch_loss=0.37268405726977755, running time = 1.9767897129058838 seconds, training accuracy = 0.8893506796375267
+Epoch 30: curr_epoch_loss=0.36142573824950625, running time = 1.9642865657806396 seconds, training accuracy = 0.8920908848614072
+Epoch 31: curr_epoch_loss=0.35499906114169527, running time = 1.9736566543579102 seconds, training accuracy = 0.8971132062899787
+Epoch 32: curr_epoch_loss=0.3476818714823042, running time = 1.9646599292755127 seconds, training accuracy = 0.9038096348614072
+Epoch 33: curr_epoch_loss=0.33671875085149494, running time = 1.9564223289489746 seconds, training accuracy = 0.9065998134328358
+Epoch 34: curr_epoch_loss=0.31961108105523245, running time = 1.9626047611236572 seconds, training accuracy = 0.9184684834754798
+Epoch 35: curr_epoch_loss=0.31038512928145273, running time = 1.9623117446899414 seconds, training accuracy = 0.9248150986140724
+Epoch 36: curr_epoch_loss=0.30002162605524063, running time = 1.9677479267120361 seconds, training accuracy = 0.9359258395522387
+Epoch 37: curr_epoch_loss=0.29376483602183207, running time = 1.9729068279266357 seconds, training accuracy = 0.9322194829424307
+Epoch 38: curr_epoch_loss=0.2869246389184679, running time = 1.9613251686096191 seconds, training accuracy = 0.9316114738805971
+Epoch 39: curr_epoch_loss=0.28331755101680756, running time = 1.961545467376709 seconds, training accuracy = 0.9311533848614072
+Epoch 40: curr_epoch_loss=0.27991669518607004, running time = 1.9615726470947266 seconds, training accuracy = 0.9370918843283581
+Epoch 41: curr_epoch_loss=0.26961105316877365, running time = 1.9678187370300293 seconds, training accuracy = 0.9404400986140724
+Epoch 42: curr_epoch_loss=0.2572088709899357, running time = 1.964036464691162 seconds, training accuracy = 0.9444962686567164
+Epoch 43: curr_epoch_loss=0.2447708323597908, running time = 1.9607782363891602 seconds, training accuracy = 0.9599713486140724
+Epoch 44: curr_epoch_loss=0.24548925246511186, running time = 1.9670841693878174 seconds, training accuracy = 0.9417560634328358
+Epoch 45: curr_epoch_loss=0.23624187069279806, running time = 1.9675469398498535 seconds, training accuracy = 0.9565231876332623
+Epoch 46: curr_epoch_loss=0.23540967383555003, running time = 1.961411952972412 seconds, training accuracy = 0.9560151252665244
+Epoch 47: curr_epoch_loss=0.22438821409429824, running time = 1.9680659770965576 seconds, training accuracy = 0.9555570362473348
+Epoch 48: curr_epoch_loss=0.22452655115297862, running time = 1.9623310565948486 seconds, training accuracy = 0.9544909381663114
+Epoch 49: curr_epoch_loss=0.21515268300260817, running time = 1.9666533470153809 seconds, training accuracy = 0.9576892324093816
+Epoch 50: curr_epoch_loss=0.2086745159966605, running time = 1.9561238288879395 seconds, training accuracy = 0.9582472681236673
+Validation Precision: 0.7835051546391752
+Validation Recall: 0.6785714285714286
+Validation F1: 0.7272727272727272
+Validation Accuracy: 0.7046632124352331
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0004, dropout_p 0.3, epochs 10
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.690134767975126, running time = 2.0040159225463867 seconds, training accuracy = 0.5345732276119403
+Epoch 2: curr_epoch_loss=0.661952576466969, running time = 1.9610557556152344 seconds, training accuracy = 0.599613539445629
+Epoch 3: curr_epoch_loss=0.6407909606184278, running time = 1.9678435325622559 seconds, training accuracy = 0.6491871002132196
+Epoch 4: curr_epoch_loss=0.6266488986355918, running time = 1.9682836532592773 seconds, training accuracy = 0.6616637793176973
+Epoch 5: curr_epoch_loss=0.6057723845754351, running time = 1.9729406833648682 seconds, training accuracy = 0.6979860740938166
+Epoch 6: curr_epoch_loss=0.5878937712737492, running time = 1.9659881591796875 seconds, training accuracy = 0.7379647521321961
+Epoch 7: curr_epoch_loss=0.5705408666815076, running time = 1.9677631855010986 seconds, training accuracy = 0.7390308502132196
+Epoch 8: curr_epoch_loss=0.5555042837347303, running time = 1.9631433486938477 seconds, training accuracy = 0.7556220015991472
+Epoch 9: curr_epoch_loss=0.5416099854878017, running time = 1.9675192832946777 seconds, training accuracy = 0.7707889125799573
+Epoch 10: curr_epoch_loss=0.5289054555552346, running time = 1.9737520217895508 seconds, training accuracy = 0.7685567697228145
+Validation Precision: 0.7010309278350515
+Validation Recall: 0.6868686868686869
+Validation F1: 0.6938775510204082
+Validation Accuracy: 0.689119170984456
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0004, dropout_p 0.3, epochs 20
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6946145679269519, running time = 2.013603925704956 seconds, training accuracy = 0.51965618336887
+Epoch 2: curr_epoch_loss=0.6684316098690033, running time = 1.9558744430541992 seconds, training accuracy = 0.6061100746268657
+Epoch 3: curr_epoch_loss=0.6457080585615975, running time = 1.9668340682983398 seconds, training accuracy = 0.644414645522388
+Epoch 4: curr_epoch_loss=0.6291284518582481, running time = 1.9574732780456543 seconds, training accuracy = 0.6734824760127932
+Epoch 5: curr_epoch_loss=0.6100354024342128, running time = 1.9586212635040283 seconds, training accuracy = 0.701284315031983
+Epoch 6: curr_epoch_loss=0.5947199719292777, running time = 1.962033987045288 seconds, training accuracy = 0.7196994936034116
+Epoch 7: curr_epoch_loss=0.5764819979667664, running time = 1.9636366367340088 seconds, training accuracy = 0.7274620202558636
+Epoch 8: curr_epoch_loss=0.5657621494361332, running time = 1.9616951942443848 seconds, training accuracy = 0.7474013859275053
+Epoch 9: curr_epoch_loss=0.5503694287368229, running time = 1.9617869853973389 seconds, training accuracy = 0.7526236007462687
+Epoch 10: curr_epoch_loss=0.5345817123140607, running time = 1.9620592594146729 seconds, training accuracy = 0.7512076892324094
+Epoch 11: curr_epoch_loss=0.5141365272658212, running time = 1.9733071327209473 seconds, training accuracy = 0.7757112873134329
+Epoch 12: curr_epoch_loss=0.5029651756797519, running time = 1.9627294540405273 seconds, training accuracy = 0.7900702958422174
+Epoch 13: curr_epoch_loss=0.4935720350061144, running time = 1.966888189315796 seconds, training accuracy = 0.7915361807036246
+Epoch 14: curr_epoch_loss=0.47526051316942486, running time = 1.9710180759429932 seconds, training accuracy = 0.8121835021321961
+Epoch 15: curr_epoch_loss=0.46587784801210674, running time = 1.9642364978790283 seconds, training accuracy = 0.8189299040511727
+Epoch 16: curr_epoch_loss=0.4500673051391329, running time = 1.9664437770843506 seconds, training accuracy = 0.8362373400852878
+Epoch 17: curr_epoch_loss=0.4350229224988392, running time = 1.9646868705749512 seconds, training accuracy = 0.853586420575693
+Epoch 18: curr_epoch_loss=0.41991597626890453, running time = 1.9644348621368408 seconds, training accuracy = 0.8480560367803838
+Epoch 19: curr_epoch_loss=0.40094567622457233, running time = 1.961188554763794 seconds, training accuracy = 0.8730177238805971
+Epoch 20: curr_epoch_loss=0.4025327116250992, running time = 1.9655439853668213 seconds, training accuracy = 0.863172974413646
+Validation Precision: 0.7422680412371134
+Validation Recall: 0.6923076923076923
+Validation F1: 0.7164179104477613
+Validation Accuracy: 0.7046632124352331
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0004, dropout_p 0.3, epochs 30
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6981067359447479, running time = 2.0040953159332275 seconds, training accuracy = 0.519714485607676
+Epoch 2: curr_epoch_loss=0.6711631459849221, running time = 1.9643709659576416 seconds, training accuracy = 0.597589618869936
+Epoch 3: curr_epoch_loss=0.6479854328291756, running time = 1.9680707454681396 seconds, training accuracy = 0.6319296375266524
+Epoch 4: curr_epoch_loss=0.6287744258131299, running time = 1.967801809310913 seconds, training accuracy = 0.6733325559701493
+Epoch 5: curr_epoch_loss=0.6140164647783551, running time = 1.9657552242279053 seconds, training accuracy = 0.6825609674840086
+Epoch 6: curr_epoch_loss=0.5928921316351209, running time = 1.967968225479126 seconds, training accuracy = 0.7146771721748401
+Epoch 7: curr_epoch_loss=0.5744062576975141, running time = 1.9677207469940186 seconds, training accuracy = 0.7408548773987207
+Epoch 8: curr_epoch_loss=0.5640762448310852, running time = 1.9607226848602295 seconds, training accuracy = 0.746077092217484
+Epoch 9: curr_epoch_loss=0.5440166251999992, running time = 1.9608769416809082 seconds, training accuracy = 0.7771771721748401
+Epoch 10: curr_epoch_loss=0.5293122955730983, running time = 1.9642984867095947 seconds, training accuracy = 0.7819496268656716
+Epoch 11: curr_epoch_loss=0.5197781877858298, running time = 1.9715161323547363 seconds, training accuracy = 0.7769772787846482
+Epoch 12: curr_epoch_loss=0.5057632050343922, running time = 1.9628279209136963 seconds, training accuracy = 0.7844316364605544
+Epoch 13: curr_epoch_loss=0.48742231513772694, running time = 1.9710772037506104 seconds, training accuracy = 0.8071611807036246
+Epoch 14: curr_epoch_loss=0.4787710819925581, running time = 1.9643323421478271 seconds, training accuracy = 0.8125916178038379
+Epoch 15: curr_epoch_loss=0.4632567060845239, running time = 1.9666941165924072 seconds, training accuracy = 0.8205540378464818
+Epoch 16: curr_epoch_loss=0.443543798157147, running time = 1.962839126586914 seconds, training accuracy = 0.8434918043710021
+Epoch 17: curr_epoch_loss=0.43981526153428213, running time = 1.9607422351837158 seconds, training accuracy = 0.8373450826226013
+Epoch 18: curr_epoch_loss=0.4199779076235635, running time = 1.956904649734497 seconds, training accuracy = 0.8676372601279317
+Epoch 19: curr_epoch_loss=0.41620963173253195, running time = 1.97340726852417 seconds, training accuracy = 0.8499300373134329
+Epoch 20: curr_epoch_loss=0.3974222370556423, running time = 1.9603271484375 seconds, training accuracy = 0.8743836620469084
+Epoch 21: curr_epoch_loss=0.3836980483361653, running time = 1.962226152420044 seconds, training accuracy = 0.8849363672707888
+Epoch 22: curr_epoch_loss=0.367896454674857, running time = 1.9517178535461426 seconds, training accuracy = 0.8943230277185501
+Epoch 23: curr_epoch_loss=0.348411636693137, running time = 1.9792616367340088 seconds, training accuracy = 0.910356143390192
+Epoch 24: curr_epoch_loss=0.3429415673017502, running time = 1.9669320583343506 seconds, training accuracy = 0.9105060634328358
+Epoch 25: curr_epoch_loss=0.3349724220378058, running time = 1.9645988941192627 seconds, training accuracy = 0.9092400719616205
+Epoch 26: curr_epoch_loss=0.31080411800316404, running time = 1.9585120677947998 seconds, training accuracy = 0.922074893390192
+Epoch 27: curr_epoch_loss=0.3052405502114977, running time = 1.9625694751739502 seconds, training accuracy = 0.923649053837953
+Epoch 28: curr_epoch_loss=0.29344574894223896, running time = 1.967087984085083 seconds, training accuracy = 0.9370419109808102
+Epoch 29: curr_epoch_loss=0.2818118099655424, running time = 1.9691646099090576 seconds, training accuracy = 0.9343516791044777
+Epoch 30: curr_epoch_loss=0.2765162629740579, running time = 1.9631016254425049 seconds, training accuracy = 0.9345015991471215
+Validation Precision: 0.7835051546391752
+Validation Recall: 0.7102803738317757
+Validation F1: 0.7450980392156862
+Validation Accuracy: 0.7305699481865285
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0004, dropout_p 0.3, epochs 40
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7118295729160309, running time = 2.008073091506958 seconds, training accuracy = 0.5081956289978679
+Epoch 2: curr_epoch_loss=0.6704506576061249, running time = 1.962646722793579 seconds, training accuracy = 0.5884528251599147
+Epoch 3: curr_epoch_loss=0.6486135636057172, running time = 1.960775375366211 seconds, training accuracy = 0.6490788246268657
+Epoch 4: curr_epoch_loss=0.6266996562480927, running time = 1.9743919372558594 seconds, training accuracy = 0.6841851012793176
+Epoch 5: curr_epoch_loss=0.6103879341057369, running time = 1.9705524444580078 seconds, training accuracy = 0.705190565031983
+Epoch 6: curr_epoch_loss=0.5907581746578217, running time = 1.9579932689666748 seconds, training accuracy = 0.7301022787846482
+Epoch 7: curr_epoch_loss=0.5816500570092883, running time = 1.9672298431396484 seconds, training accuracy = 0.7200576359275053
+Epoch 8: curr_epoch_loss=0.5694821178913116, running time = 1.9669668674468994 seconds, training accuracy = 0.7310184568230278
+Epoch 9: curr_epoch_loss=0.5622537561825344, running time = 1.9730846881866455 seconds, training accuracy = 0.7385727611940299
+Epoch 10: curr_epoch_loss=0.5309619158506393, running time = 1.960186243057251 seconds, training accuracy = 0.7789595549040512
+Epoch 11: curr_epoch_loss=0.5224315758262362, running time = 1.9685003757476807 seconds, training accuracy = 0.7830656982942431
+Epoch 12: curr_epoch_loss=0.5142696776560375, running time = 1.9662806987762451 seconds, training accuracy = 0.7837236807036246
+Epoch 13: curr_epoch_loss=0.4981476068496704, running time = 1.9622089862823486 seconds, training accuracy = 0.7867137526652452
+Epoch 14: curr_epoch_loss=0.470713598387582, running time = 1.9623711109161377 seconds, training accuracy = 0.8181220015991472
+Epoch 15: curr_epoch_loss=0.464286527463368, running time = 1.960451364517212 seconds, training accuracy = 0.8337470015991472
+Epoch 16: curr_epoch_loss=0.4546057475464685, running time = 1.9668762683868408 seconds, training accuracy = 0.8302488672707888
+Epoch 17: curr_epoch_loss=0.4343047184603555, running time = 1.9570956230163574 seconds, training accuracy = 0.8430836886993603
+Epoch 18: curr_epoch_loss=0.42419232640947613, running time = 1.972705364227295 seconds, training accuracy = 0.8520122601279317
+Epoch 19: curr_epoch_loss=0.4115340752261026, running time = 1.9565014839172363 seconds, training accuracy = 0.8720015991471215
+Epoch 20: curr_epoch_loss=0.3940711191722325, running time = 1.9667348861694336 seconds, training accuracy = 0.8845282515991472
+Epoch 21: curr_epoch_loss=0.39052075360502514, running time = 1.956752061843872 seconds, training accuracy = 0.8737756529850745
+Epoch 22: curr_epoch_loss=0.37054787150451113, running time = 1.971789836883545 seconds, training accuracy = 0.8779400986140724
+Epoch 23: curr_epoch_loss=0.35766160062381197, running time = 1.964210033416748 seconds, training accuracy = 0.8942230810234542
+Epoch 24: curr_epoch_loss=0.34061642629759653, running time = 1.9698100090026855 seconds, training accuracy = 0.9067497334754798
+Epoch 25: curr_epoch_loss=0.3290464047874723, running time = 1.9647979736328125 seconds, training accuracy = 0.9232909115138593
+Epoch 26: curr_epoch_loss=0.31184125372341703, running time = 1.9613676071166992 seconds, training accuracy = 0.916036447228145
+Epoch 27: curr_epoch_loss=0.3079754135438374, running time = 1.9561545848846436 seconds, training accuracy = 0.9249150453091685
+Epoch 28: curr_epoch_loss=0.29573941230773926, running time = 1.9674980640411377 seconds, training accuracy = 0.927605277185501
+Epoch 29: curr_epoch_loss=0.2819035532219069, running time = 1.9604666233062744 seconds, training accuracy = 0.9419642857142857
+Epoch 30: curr_epoch_loss=0.27363751190049307, running time = 1.9611396789550781 seconds, training accuracy = 0.9383079024520257
+Epoch 31: curr_epoch_loss=0.25769475953919546, running time = 1.969855546951294 seconds, training accuracy = 0.9444462953091685
+Epoch 32: curr_epoch_loss=0.25441474999700275, running time = 1.9613385200500488 seconds, training accuracy = 0.9526669109808102
+Epoch 33: curr_epoch_loss=0.24111477924244745, running time = 1.9673800468444824 seconds, training accuracy = 0.957231143390192
+Epoch 34: curr_epoch_loss=0.24133356979915074, running time = 1.9656264781951904 seconds, training accuracy = 0.9502765191897655
+Epoch 35: curr_epoch_loss=0.23436296837670462, running time = 1.9693574905395508 seconds, training accuracy = 0.9497767857142857
+Epoch 36: curr_epoch_loss=0.2332091278263501, running time = 1.9713401794433594 seconds, training accuracy = 0.949418643390192
+Epoch 37: curr_epoch_loss=0.2144850098661014, running time = 1.9696695804595947 seconds, training accuracy = 0.959005197228145
+Epoch 38: curr_epoch_loss=0.19654364351715362, running time = 1.9620392322540283 seconds, training accuracy = 0.970524053837953
+Epoch 39: curr_epoch_loss=0.1991043101463999, running time = 1.9611990451812744 seconds, training accuracy = 0.9716900986140724
+Epoch 40: curr_epoch_loss=0.18690229739461625, running time = 1.97200345993042 seconds, training accuracy = 0.9743303571428571
+Validation Precision: 0.7731958762886598
+Validation Recall: 0.7075471698113207
+Validation F1: 0.7389162561576353
+Validation Accuracy: 0.7253886010362695
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0004, dropout_p 0.3, epochs 50
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7021198400429317, running time = 2.0093533992767334 seconds, training accuracy = 0.5080457089552238
+Epoch 2: curr_epoch_loss=0.6699932771069663, running time = 1.9632282257080078 seconds, training accuracy = 0.5923590751599147
+Epoch 3: curr_epoch_loss=0.6482116111687252, running time = 1.966338872909546 seconds, training accuracy = 0.6513609408315565
+Epoch 4: curr_epoch_loss=0.6366783380508423, running time = 1.9669718742370605 seconds, training accuracy = 0.664045842217484
+Epoch 5: curr_epoch_loss=0.6132534103734153, running time = 1.96134614944458 seconds, training accuracy = 0.7106709754797442
+Epoch 6: curr_epoch_loss=0.5961836363588061, running time = 1.962467908859253 seconds, training accuracy = 0.7253797974413646
+Epoch 7: curr_epoch_loss=0.5809096566268376, running time = 1.9545629024505615 seconds, training accuracy = 0.7415128598081023
+Epoch 8: curr_epoch_loss=0.564420542546681, running time = 1.96291184425354 seconds, training accuracy = 0.7451192697228145
+Epoch 9: curr_epoch_loss=0.5477346309593746, running time = 1.960939645767212 seconds, training accuracy = 0.7672907782515992
+Epoch 10: curr_epoch_loss=0.5296007224491665, running time = 1.9617149829864502 seconds, training accuracy = 0.7689065831556503
+Epoch 11: curr_epoch_loss=0.5194967005934034, running time = 1.96103835105896 seconds, training accuracy = 0.7758612073560768
+Epoch 12: curr_epoch_loss=0.5000940050397601, running time = 1.9657166004180908 seconds, training accuracy = 0.8003648054371002
+Epoch 13: curr_epoch_loss=0.49270174545901163, running time = 1.9763052463531494 seconds, training accuracy = 0.7992987073560768
+Epoch 14: curr_epoch_loss=0.47432026479925427, running time = 1.9562482833862305 seconds, training accuracy = 0.8064532249466951
+Epoch 15: curr_epoch_loss=0.460794278553554, running time = 1.9557876586914062 seconds, training accuracy = 0.8337470015991472
+Epoch 16: curr_epoch_loss=0.4400968360049384, running time = 1.963090181350708 seconds, training accuracy = 0.8464818763326226
+Epoch 17: curr_epoch_loss=0.4308487560067858, running time = 1.9670820236206055 seconds, training accuracy = 0.8479061167377399
+Epoch 18: curr_epoch_loss=0.4141828843525478, running time = 1.9616386890411377 seconds, training accuracy = 0.8610907515991472
+Epoch 19: curr_epoch_loss=0.4062371850013733, running time = 1.9611079692840576 seconds, training accuracy = 0.8648470815565031
+Epoch 20: curr_epoch_loss=0.38515496041093555, running time = 1.963409662246704 seconds, training accuracy = 0.8836703757995735
+Epoch 21: curr_epoch_loss=0.37284649695668903, running time = 1.9639062881469727 seconds, training accuracy = 0.8893007062899787
+Epoch 22: curr_epoch_loss=0.35862825172288076, running time = 1.9679234027862549 seconds, training accuracy = 0.8859524920042644
+Epoch 23: curr_epoch_loss=0.34883666038513184, running time = 1.974818229675293 seconds, training accuracy = 0.9071578491471215
+Epoch 24: curr_epoch_loss=0.33413028717041016, running time = 1.9568448066711426 seconds, training accuracy = 0.9090318496801706
+Epoch 25: curr_epoch_loss=0.3319872426135199, running time = 1.96195650100708 seconds, training accuracy = 0.9016774386993603
+Epoch 26: curr_epoch_loss=0.306654583130564, running time = 1.9672787189483643 seconds, training accuracy = 0.9254730810234542
+Epoch 27: curr_epoch_loss=0.2946738579443523, running time = 1.9658005237579346 seconds, training accuracy = 0.9294792777185501
+Epoch 28: curr_epoch_loss=0.285580296601568, running time = 1.961845874786377 seconds, training accuracy = 0.935367803837953
+Epoch 29: curr_epoch_loss=0.27547233019556316, running time = 1.9640305042266846 seconds, training accuracy = 0.9388159648187634
+Epoch 30: curr_epoch_loss=0.2768934294581413, running time = 1.961641788482666 seconds, training accuracy = 0.9370419109808102
+Epoch 31: curr_epoch_loss=0.2539191852722849, running time = 1.9558708667755127 seconds, training accuracy = 0.9489105810234542
+Epoch 32: curr_epoch_loss=0.24986883678606578, running time = 1.9677908420562744 seconds, training accuracy = 0.9488606076759062
+Epoch 33: curr_epoch_loss=0.24237907252141408, running time = 1.9657750129699707 seconds, training accuracy = 0.9483025719616205
+Epoch 34: curr_epoch_loss=0.23336052149534225, running time = 1.9632561206817627 seconds, training accuracy = 0.9523587420042644
+Epoch 35: curr_epoch_loss=0.2215850321309907, running time = 1.9620399475097656 seconds, training accuracy = 0.957231143390192
+Epoch 36: curr_epoch_loss=0.21485726428883417, running time = 1.961669683456421 seconds, training accuracy = 0.9598714019189766
+Epoch 37: curr_epoch_loss=0.20999458645071303, running time = 1.9664313793182373 seconds, training accuracy = 0.9632695895522387
+Epoch 38: curr_epoch_loss=0.19774888242994035, running time = 1.9628076553344727 seconds, training accuracy = 0.9615954824093816
+Epoch 39: curr_epoch_loss=0.19734054165227072, running time = 1.9623901844024658 seconds, training accuracy = 0.9622534648187634
+Epoch 40: curr_epoch_loss=0.18477385916880198, running time = 1.9617433547973633 seconds, training accuracy = 0.9761044109808102
+Epoch 41: curr_epoch_loss=0.17951476467507227, running time = 1.95988130569458 seconds, training accuracy = 0.9755463752665244
+Epoch 42: curr_epoch_loss=0.17300998100212642, running time = 1.9588959217071533 seconds, training accuracy = 0.9748883928571429
+Epoch 43: curr_epoch_loss=0.1697042446051325, running time = 1.9597444534301758 seconds, training accuracy = 0.9716401252665244
+Epoch 44: curr_epoch_loss=0.161921104150159, running time = 1.9620170593261719 seconds, training accuracy = 0.9711320628997867
+Epoch 45: curr_epoch_loss=0.15459128469228745, running time = 1.9677152633666992 seconds, training accuracy = 0.9794526252665244
+Epoch 46: curr_epoch_loss=0.15129620368991578, running time = 1.9647305011749268 seconds, training accuracy = 0.9760544376332623
+Epoch 47: curr_epoch_loss=0.150412810168096, running time = 1.9665567874908447 seconds, training accuracy = 0.9745802238805971
+Epoch 48: curr_epoch_loss=0.1354403676731246, running time = 1.96095609664917 seconds, training accuracy = 0.9850329824093816
+Epoch 49: curr_epoch_loss=0.1392438911965915, running time = 1.9643816947937012 seconds, training accuracy = 0.9832589285714286
+Epoch 50: curr_epoch_loss=0.13182339178664343, running time = 1.9637315273284912 seconds, training accuracy = 0.9854910714285714
+Validation Precision: 0.7628865979381443
+Validation Recall: 0.7047619047619048
+Validation F1: 0.7326732673267325
+Validation Accuracy: 0.7202072538860104
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0005, dropout_p 0.3, epochs 10
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7034351399966648, running time = 2.0099377632141113 seconds, training accuracy = 0.5023071028784648
+Epoch 2: curr_epoch_loss=0.661882255758558, running time = 1.9628183841705322 seconds, training accuracy = 0.6155966817697228
+Epoch 3: curr_epoch_loss=0.638118428843362, running time = 1.9664435386657715 seconds, training accuracy = 0.6487789845415779
+Epoch 4: curr_epoch_loss=0.6203478447028569, running time = 1.953719139099121 seconds, training accuracy = 0.6768806636460554
+Epoch 5: curr_epoch_loss=0.5970067552157811, running time = 1.9649584293365479 seconds, training accuracy = 0.71883328891258
+Epoch 6: curr_epoch_loss=0.5693866993699755, running time = 1.953627586364746 seconds, training accuracy = 0.7378648054371002
+Epoch 7: curr_epoch_loss=0.5534444323607853, running time = 1.9696502685546875 seconds, training accuracy = 0.7536397254797442
+Epoch 8: curr_epoch_loss=0.5340555267674583, running time = 1.9619479179382324 seconds, training accuracy = 0.7623684035181236
+Epoch 9: curr_epoch_loss=0.5183905639818737, running time = 1.966939926147461 seconds, training accuracy = 0.7853478144989339
+Epoch 10: curr_epoch_loss=0.4970190205744335, running time = 1.9608824253082275 seconds, training accuracy = 0.7917943763326226
+Validation Precision: 0.6701030927835051
+Validation Recall: 0.7222222222222222
+Validation F1: 0.6951871657754011
+Validation Accuracy: 0.7046632124352331
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0005, dropout_p 0.3, epochs 20
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6964332035609654, running time = 2.003671884536743 seconds, training accuracy = 0.5256446561833689
+Epoch 2: curr_epoch_loss=0.6635017309870038, running time = 1.9673302173614502 seconds, training accuracy = 0.5928171641791045
+Epoch 3: curr_epoch_loss=0.632860107081277, running time = 1.960991382598877 seconds, training accuracy = 0.6797208155650319
+Epoch 4: curr_epoch_loss=0.6144035415990012, running time = 1.9571216106414795 seconds, training accuracy = 0.699202092217484
+Epoch 5: curr_epoch_loss=0.5932967960834503, running time = 1.9678118228912354 seconds, training accuracy = 0.7145772254797442
+Epoch 6: curr_epoch_loss=0.5733991861343384, running time = 1.9518406391143799 seconds, training accuracy = 0.7289778784648188
+Epoch 7: curr_epoch_loss=0.5534296802112034, running time = 1.9663405418395996 seconds, training accuracy = 0.7414129131130064
+Epoch 8: curr_epoch_loss=0.535091872726168, running time = 1.9631750583648682 seconds, training accuracy = 0.7719549573560768
+Epoch 9: curr_epoch_loss=0.5183923265763691, running time = 1.9551362991333008 seconds, training accuracy = 0.7736290644989339
+Epoch 10: curr_epoch_loss=0.4945989378861019, running time = 1.9578814506530762 seconds, training accuracy = 0.8041211353944563
+Epoch 11: curr_epoch_loss=0.4860424505812781, running time = 1.967597246170044 seconds, training accuracy = 0.8122334754797442
+Epoch 12: curr_epoch_loss=0.46289620229176115, running time = 1.9671974182128906 seconds, training accuracy = 0.8270505730277186
+Epoch 13: curr_epoch_loss=0.4470425375870296, running time = 1.9680571556091309 seconds, training accuracy = 0.8281166711087421
+Epoch 14: curr_epoch_loss=0.4268630359854017, running time = 1.9675536155700684 seconds, training accuracy = 0.8554104477611941
+Epoch 15: curr_epoch_loss=0.40936782530375887, running time = 1.9610261917114258 seconds, training accuracy = 0.8557186167377399
+Epoch 16: curr_epoch_loss=0.3957839459180832, running time = 1.9622769355773926 seconds, training accuracy = 0.8767657249466951
+Epoch 17: curr_epoch_loss=0.3774401864835194, running time = 1.962799310684204 seconds, training accuracy = 0.8765658315565031
+Epoch 18: curr_epoch_loss=0.36130765293325695, running time = 1.9648902416229248 seconds, training accuracy = 0.8938149653518124
+Epoch 19: curr_epoch_loss=0.33997906744480133, running time = 1.9712300300598145 seconds, training accuracy = 0.910356143390192
+Epoch 20: curr_epoch_loss=0.32898498858724323, running time = 1.9587512016296387 seconds, training accuracy = 0.9155283848614072
+Validation Precision: 0.7319587628865979
+Validation Recall: 0.71
+Validation F1: 0.7208121827411167
+Validation Accuracy: 0.7150259067357513
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0005, dropout_p 0.3, epochs 30
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6976091393402645, running time = 2.0065419673919678 seconds, training accuracy = 0.49800106609808104
+Epoch 2: curr_epoch_loss=0.6663862935134343, running time = 1.962630271911621 seconds, training accuracy = 0.6008795309168444
+Epoch 3: curr_epoch_loss=0.6396805601460593, running time = 1.9661171436309814 seconds, training accuracy = 0.6592733875266524
+Epoch 4: curr_epoch_loss=0.6219606995582581, running time = 1.9702439308166504 seconds, training accuracy = 0.6867753864605544
+Epoch 5: curr_epoch_loss=0.5999343012060437, running time = 1.965872049331665 seconds, training accuracy = 0.714827092217484
+Epoch 6: curr_epoch_loss=0.574132399899619, running time = 1.9675333499908447 seconds, training accuracy = 0.7432869136460554
+Epoch 7: curr_epoch_loss=0.5639814606734684, running time = 1.9640295505523682 seconds, training accuracy = 0.7396888326226013
+Epoch 8: curr_epoch_loss=0.5419851158346448, running time = 1.9559953212738037 seconds, training accuracy = 0.7699726812366737
+Epoch 9: curr_epoch_loss=0.5251013466290065, running time = 1.958597183227539 seconds, training accuracy = 0.7742870469083156
+Epoch 10: curr_epoch_loss=0.5089323754821505, running time = 1.9643948078155518 seconds, training accuracy = 0.7881879664179104
+Epoch 11: curr_epoch_loss=0.49586651793548037, running time = 1.9630558490753174 seconds, training accuracy = 0.7986906982942431
+Epoch 12: curr_epoch_loss=0.47301859089306425, running time = 1.9647676944732666 seconds, training accuracy = 0.8131496535181236
+Epoch 13: curr_epoch_loss=0.4506342389753887, running time = 1.9742188453674316 seconds, training accuracy = 0.8447577958422174
+Epoch 14: curr_epoch_loss=0.44677870188440594, running time = 1.9624145030975342 seconds, training accuracy = 0.8390774920042644
+Epoch 15: curr_epoch_loss=0.4257572037833078, running time = 1.9749407768249512 seconds, training accuracy = 0.8492220815565031
+Epoch 16: curr_epoch_loss=0.41098867782524656, running time = 1.9644324779510498 seconds, training accuracy = 0.8580507062899787
+Epoch 17: curr_epoch_loss=0.38412427263600485, running time = 1.9679548740386963 seconds, training accuracy = 0.8853444829424307
+Epoch 18: curr_epoch_loss=0.3708081437008722, running time = 1.9631447792053223 seconds, training accuracy = 0.8881346615138593
+Epoch 19: curr_epoch_loss=0.36356158554553986, running time = 1.9624264240264893 seconds, training accuracy = 0.8976712420042644
+Epoch 20: curr_epoch_loss=0.32844363365854534, running time = 1.9666647911071777 seconds, training accuracy = 0.9159864738805971
+Epoch 21: curr_epoch_loss=0.31595457451684134, running time = 1.9611859321594238 seconds, training accuracy = 0.9243070362473348
+Epoch 22: curr_epoch_loss=0.3016618000609534, running time = 1.9669983386993408 seconds, training accuracy = 0.9253231609808102
+Epoch 23: curr_epoch_loss=0.30231464973517824, running time = 1.9606547355651855 seconds, training accuracy = 0.9149703491471215
+Epoch 24: curr_epoch_loss=0.28520804005009787, running time = 1.9631805419921875 seconds, training accuracy = 0.9403901252665244
+Epoch 25: curr_epoch_loss=0.2665992517556463, running time = 1.9503114223480225 seconds, training accuracy = 0.9471865005330491
+Epoch 26: curr_epoch_loss=0.25871893550668446, running time = 1.9562973976135254 seconds, training accuracy = 0.9499267057569296
+Epoch 27: curr_epoch_loss=0.25117751743112293, running time = 1.9585542678833008 seconds, training accuracy = 0.9450043310234542
+Epoch 28: curr_epoch_loss=0.2366432888167245, running time = 1.9635508060455322 seconds, training accuracy = 0.9528168310234542
+Epoch 29: curr_epoch_loss=0.22193091469151632, running time = 1.9640893936157227 seconds, training accuracy = 0.9593133662046908
+Epoch 30: curr_epoch_loss=0.22205382266214915, running time = 1.9604346752166748 seconds, training accuracy = 0.9520589019189766
+Validation Precision: 0.711340206185567
+Validation Recall: 0.6634615384615384
+Validation F1: 0.6865671641791045
+Validation Accuracy: 0.6735751295336787
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0005, dropout_p 0.3, epochs 40
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6935444985117231, running time = 2.003056526184082 seconds, training accuracy = 0.5305170575692963
+Epoch 2: curr_epoch_loss=0.6613898745604924, running time = 1.9699547290802002 seconds, training accuracy = 0.5963652718550106
+Epoch 3: curr_epoch_loss=0.6322039365768433, running time = 1.9730963706970215 seconds, training accuracy = 0.6703341551172708
+Epoch 4: curr_epoch_loss=0.6161853543349675, running time = 1.9618146419525146 seconds, training accuracy = 0.689207422707889
+Epoch 5: curr_epoch_loss=0.5864712297916412, running time = 1.9634928703308105 seconds, training accuracy = 0.7310101279317697
+Epoch 6: curr_epoch_loss=0.5714940769331796, running time = 1.9605064392089844 seconds, training accuracy = 0.7592200826226013
+Epoch 7: curr_epoch_loss=0.5609283745288849, running time = 1.9665052890777588 seconds, training accuracy = 0.7375566364605544
+Epoch 8: curr_epoch_loss=0.5369794070720673, running time = 1.9579658508300781 seconds, training accuracy = 0.7623600746268657
+Epoch 9: curr_epoch_loss=0.5196206676108497, running time = 1.961378574371338 seconds, training accuracy = 0.7768773320895522
+Epoch 10: curr_epoch_loss=0.5047098504645484, running time = 1.9617948532104492 seconds, training accuracy = 0.7981826359275053
+Epoch 11: curr_epoch_loss=0.48195592207568033, running time = 1.9634337425231934 seconds, training accuracy = 0.8078774653518124
+Epoch 12: curr_epoch_loss=0.4620822902236666, running time = 1.9648568630218506 seconds, training accuracy = 0.8330890191897655
+Epoch 13: curr_epoch_loss=0.44223904609680176, running time = 1.9618473052978516 seconds, training accuracy = 0.8409514925373135
+Epoch 14: curr_epoch_loss=0.42690605563776834, running time = 1.96390700340271 seconds, training accuracy = 0.8469399653518124
+Epoch 15: curr_epoch_loss=0.41241378656455446, running time = 1.9554352760314941 seconds, training accuracy = 0.8610407782515992
+Epoch 16: curr_epoch_loss=0.3979416404451643, running time = 1.9571082592010498 seconds, training accuracy = 0.8682452691897655
+Epoch 17: curr_epoch_loss=0.3694929586989539, running time = 1.9784371852874756 seconds, training accuracy = 0.8958971881663114
+Epoch 18: curr_epoch_loss=0.3670203387737274, running time = 1.962125539779663 seconds, training accuracy = 0.8842783848614072
+Epoch 19: curr_epoch_loss=0.33652608948094503, running time = 1.9561131000518799 seconds, training accuracy = 0.9104560900852878
+Epoch 20: curr_epoch_loss=0.32653651918683735, running time = 1.966695785522461 seconds, training accuracy = 0.9237490005330491
+Epoch 21: curr_epoch_loss=0.3107415373836245, running time = 1.9607081413269043 seconds, training accuracy = 0.9161863672707888
+Epoch 22: curr_epoch_loss=0.2977417601006372, running time = 1.9676663875579834 seconds, training accuracy = 0.9177605277185501
+Epoch 23: curr_epoch_loss=0.28897600727421896, running time = 1.9588446617126465 seconds, training accuracy = 0.9358758662046908
+Epoch 24: curr_epoch_loss=0.27433341635125025, running time = 1.9668209552764893 seconds, training accuracy = 0.9349596881663114
+Epoch 25: curr_epoch_loss=0.25635314519916264, running time = 1.9600119590759277 seconds, training accuracy = 0.9366837686567164
+Epoch 26: curr_epoch_loss=0.24340382644108363, running time = 1.9579637050628662 seconds, training accuracy = 0.9517507329424307
+Epoch 27: curr_epoch_loss=0.2357353057180132, running time = 1.9740023612976074 seconds, training accuracy = 0.949418643390192
+Epoch 28: curr_epoch_loss=0.2160827453647341, running time = 1.968576431274414 seconds, training accuracy = 0.9576892324093816
+Epoch 29: curr_epoch_loss=0.2076975703239441, running time = 1.9683423042297363 seconds, training accuracy = 0.9628614738805971
+Epoch 30: curr_epoch_loss=0.20255111477204732, running time = 1.9604692459106445 seconds, training accuracy = 0.9671258662046908
+Epoch 31: curr_epoch_loss=0.19400337444884436, running time = 1.9614572525024414 seconds, training accuracy = 0.9633195628997867
+Epoch 32: curr_epoch_loss=0.18290080342973983, running time = 1.9671638011932373 seconds, training accuracy = 0.9671258662046908
+Epoch 33: curr_epoch_loss=0.1862259485891887, running time = 1.9628164768218994 seconds, training accuracy = 0.9671758395522387
+Epoch 34: curr_epoch_loss=0.17608453652688436, running time = 1.9599542617797852 seconds, training accuracy = 0.9710321162046908
+Epoch 35: curr_epoch_loss=0.17050065100193024, running time = 1.9631130695343018 seconds, training accuracy = 0.974430303837953
+Epoch 36: curr_epoch_loss=0.1518216942037855, running time = 1.9620349407196045 seconds, training accuracy = 0.9788945895522387
+Epoch 37: curr_epoch_loss=0.1482733695634774, running time = 1.967000961303711 seconds, training accuracy = 0.9794526252665244
+Epoch 38: curr_epoch_loss=0.1353547519871167, running time = 1.973768949508667 seconds, training accuracy = 0.9833089019189766
+Epoch 39: curr_epoch_loss=0.14534308921013558, running time = 1.9715385437011719 seconds, training accuracy = 0.9776785714285714
+Epoch 40: curr_epoch_loss=0.13300510283027375, running time = 1.975630521774292 seconds, training accuracy = 0.9821928304904051
+Validation Precision: 0.845360824742268
+Validation Recall: 0.6612903225806451
+Validation F1: 0.7420814479638008
+Validation Accuracy: 0.7046632124352331
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0005, dropout_p 0.3, epochs 50
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6950570813247136, running time = 2.013888120651245 seconds, training accuracy = 0.5130680303837953
+Epoch 2: curr_epoch_loss=0.6547499980245318, running time = 1.9721040725708008 seconds, training accuracy = 0.6273154317697228
+Epoch 3: curr_epoch_loss=0.6328167063849313, running time = 1.9679760932922363 seconds, training accuracy = 0.6805370469083156
+Epoch 4: curr_epoch_loss=0.6099390472684588, running time = 1.9850142002105713 seconds, training accuracy = 0.7033665378464818
+Epoch 5: curr_epoch_loss=0.5899646239621299, running time = 1.9738290309906006 seconds, training accuracy = 0.7178254930703625
+Epoch 6: curr_epoch_loss=0.5712897181510925, running time = 1.976412296295166 seconds, training accuracy = 0.7348664045842217
+Epoch 7: curr_epoch_loss=0.5553056214536939, running time = 1.9674594402313232 seconds, training accuracy = 0.7475513059701493
+Epoch 8: curr_epoch_loss=0.5370659764323916, running time = 1.980097770690918 seconds, training accuracy = 0.7575959488272922
+Epoch 9: curr_epoch_loss=0.5132458912474769, running time = 1.9729294776916504 seconds, training accuracy = 0.7882879131130064
+Epoch 10: curr_epoch_loss=0.497051334806851, running time = 1.9711923599243164 seconds, training accuracy = 0.8005730277185501
+Epoch 11: curr_epoch_loss=0.48241895862988066, running time = 1.9699671268463135 seconds, training accuracy = 0.8136077425373135
+Epoch 12: curr_epoch_loss=0.46627702031816753, running time = 1.9743213653564453 seconds, training accuracy = 0.8134494936034116
+Epoch 13: curr_epoch_loss=0.44716978073120117, running time = 1.9629077911376953 seconds, training accuracy = 0.8330390458422174
+Epoch 14: curr_epoch_loss=0.43043868030820576, running time = 1.964083194732666 seconds, training accuracy = 0.8464319029850745
+Epoch 15: curr_epoch_loss=0.4141794272831508, running time = 1.9608986377716064 seconds, training accuracy = 0.8641391257995735
+Epoch 16: curr_epoch_loss=0.3918192535638809, running time = 1.9667792320251465 seconds, training accuracy = 0.8754497601279317
+Epoch 17: curr_epoch_loss=0.3739094670329775, running time = 1.9696555137634277 seconds, training accuracy = 0.8836204024520257
+Epoch 18: curr_epoch_loss=0.3651712579386575, running time = 1.9613301753997803 seconds, training accuracy = 0.8918826625799573
+Epoch 19: curr_epoch_loss=0.3514560673918043, running time = 1.9665589332580566 seconds, training accuracy = 0.896305303837953
+Epoch 20: curr_epoch_loss=0.33231264991419657, running time = 1.9665887355804443 seconds, training accuracy = 0.9094399653518124
+Epoch 21: curr_epoch_loss=0.3140459188393184, running time = 1.9627869129180908 seconds, training accuracy = 0.9177105543710021
+Epoch 22: curr_epoch_loss=0.300314051764352, running time = 1.9571495056152344 seconds, training accuracy = 0.9154784115138593
+Epoch 23: curr_epoch_loss=0.28926423617771696, running time = 1.9564027786254883 seconds, training accuracy = 0.9270972148187634
+Epoch 24: curr_epoch_loss=0.2756812849215099, running time = 1.9664552211761475 seconds, training accuracy = 0.9327775186567164
+Epoch 25: curr_epoch_loss=0.2592608577438763, running time = 1.9579942226409912 seconds, training accuracy = 0.9438882595948828
+Epoch 26: curr_epoch_loss=0.25000398073877605, running time = 1.9659454822540283 seconds, training accuracy = 0.9505846881663114
+Epoch 27: curr_epoch_loss=0.24452209685529983, running time = 1.9613447189331055 seconds, training accuracy = 0.9475946162046908
+Epoch 28: curr_epoch_loss=0.22673323111874716, running time = 1.9620881080627441 seconds, training accuracy = 0.9593633395522387
+Epoch 29: curr_epoch_loss=0.22222715190478734, running time = 1.9644591808319092 seconds, training accuracy = 0.954949027185501
+Epoch 30: curr_epoch_loss=0.21089564263820648, running time = 1.9595458507537842 seconds, training accuracy = 0.9665178571428571
+Epoch 31: curr_epoch_loss=0.20596010982990265, running time = 1.9675548076629639 seconds, training accuracy = 0.9594133128997867
+Epoch 32: curr_epoch_loss=0.19433087323393142, running time = 1.962249517440796 seconds, training accuracy = 0.9632196162046908
+Epoch 33: curr_epoch_loss=0.18702742350952967, running time = 1.9647932052612305 seconds, training accuracy = 0.968799973347548
+Epoch 34: curr_epoch_loss=0.17693913408688136, running time = 1.9646949768066406 seconds, training accuracy = 0.97265625
+Epoch 35: curr_epoch_loss=0.17473228595086507, running time = 1.9592907428741455 seconds, training accuracy = 0.966617803837953
+Epoch 36: curr_epoch_loss=0.16362320738179342, running time = 1.9499239921569824 seconds, training accuracy = 0.9727561966950959
+Epoch 37: curr_epoch_loss=0.15458864612238749, running time = 1.9581432342529297 seconds, training accuracy = 0.9799606876332623
+Epoch 38: curr_epoch_loss=0.1512041496379035, running time = 1.9663493633270264 seconds, training accuracy = 0.978336553837953
+Epoch 39: curr_epoch_loss=0.1449500173330307, running time = 1.9685730934143066 seconds, training accuracy = 0.9772204824093816
+Epoch 40: curr_epoch_loss=0.13489473078932082, running time = 1.9669032096862793 seconds, training accuracy = 0.9821928304904051
+Epoch 41: curr_epoch_loss=0.13084386501993453, running time = 1.9618079662322998 seconds, training accuracy = 0.9789945362473348
+Epoch 42: curr_epoch_loss=0.12788853315370424, running time = 1.9616403579711914 seconds, training accuracy = 0.9828008395522387
+Epoch 43: curr_epoch_loss=0.12448106972234589, running time = 1.961761236190796 seconds, training accuracy = 0.982292777185501
+Epoch 44: curr_epoch_loss=0.11885494579161916, running time = 1.973989725112915 seconds, training accuracy = 0.9832589285714286
+Epoch 45: curr_epoch_loss=0.1133954908166613, running time = 1.9600789546966553 seconds, training accuracy = 0.9866571162046908
+Epoch 46: curr_epoch_loss=0.10900121395077024, running time = 1.9624488353729248 seconds, training accuracy = 0.9888392857142857
+Epoch 47: curr_epoch_loss=0.10894648624317986, running time = 1.9661753177642822 seconds, training accuracy = 0.9849830090618337
+Epoch 48: curr_epoch_loss=0.11146326256649834, running time = 1.967979907989502 seconds, training accuracy = 0.9801106076759062
+Epoch 49: curr_epoch_loss=0.10665165313652583, running time = 1.958315134048462 seconds, training accuracy = 0.9854910714285714
+Epoch 50: curr_epoch_loss=0.100985158767019, running time = 1.9602773189544678 seconds, training accuracy = 0.9905133928571429
+Validation Precision: 0.7525773195876289
+Validation Recall: 0.6886792452830188
+Validation F1: 0.7192118226600984
+Validation Accuracy: 0.7046632124352331
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0006, dropout_p 0.3, epochs 10
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.704320171049663, running time = 2.0123560428619385 seconds, training accuracy = 0.5166661114072495
+Epoch 2: curr_epoch_loss=0.6491004696914128, running time = 1.964975118637085 seconds, training accuracy = 0.6377681902985074
+Epoch 3: curr_epoch_loss=0.6242192898477826, running time = 1.9661169052124023 seconds, training accuracy = 0.6667860474413646
+Epoch 4: curr_epoch_loss=0.6102574935981205, running time = 1.9695792198181152 seconds, training accuracy = 0.6866671108742004
+Epoch 5: curr_epoch_loss=0.5844762878758567, running time = 1.9610741138458252 seconds, training accuracy = 0.7200576359275053
+Epoch 6: curr_epoch_loss=0.5609743254525321, running time = 1.975822925567627 seconds, training accuracy = 0.7478095015991472
+Epoch 7: curr_epoch_loss=0.5386581463473183, running time = 1.9674334526062012 seconds, training accuracy = 0.7720049307036246
+Epoch 8: curr_epoch_loss=0.5187663457223347, running time = 1.9669203758239746 seconds, training accuracy = 0.7866138059701493
+Epoch 9: curr_epoch_loss=0.4966628359896796, running time = 1.9659571647644043 seconds, training accuracy = 0.798740671641791
+Epoch 10: curr_epoch_loss=0.4869963675737381, running time = 1.954749345779419 seconds, training accuracy = 0.7966084754797442
+Validation Precision: 0.6494845360824743
+Validation Recall: 0.7078651685393258
+Validation F1: 0.6774193548387096
+Validation Accuracy: 0.689119170984456
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0006, dropout_p 0.3, epochs 20
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.698927219424929, running time = 2.004234790802002 seconds, training accuracy = 0.5262026918976546
+Epoch 2: curr_epoch_loss=0.6559583629880633, running time = 1.9560351371765137 seconds, training accuracy = 0.6298474147121534
+Epoch 3: curr_epoch_loss=0.6254288809640067, running time = 1.9732117652893066 seconds, training accuracy = 0.6864172441364605
+Epoch 4: curr_epoch_loss=0.6088908357279641, running time = 1.9724400043487549 seconds, training accuracy = 0.6908815298507462
+Epoch 5: curr_epoch_loss=0.5833355869565692, running time = 1.963153600692749 seconds, training accuracy = 0.71883328891258
+Epoch 6: curr_epoch_loss=0.5615227435316358, running time = 1.960202932357788 seconds, training accuracy = 0.7390308502132196
+Epoch 7: curr_epoch_loss=0.5370734504290989, running time = 1.9625091552734375 seconds, training accuracy = 0.7547058235607675
+Epoch 8: curr_epoch_loss=0.5243350991180965, running time = 1.965829610824585 seconds, training accuracy = 0.7722631263326226
+Epoch 9: curr_epoch_loss=0.49456209370068144, running time = 1.9665443897247314 seconds, training accuracy = 0.8020389125799573
+Epoch 10: curr_epoch_loss=0.4795404225587845, running time = 1.9596452713012695 seconds, training accuracy = 0.8064532249466951
+Epoch 11: curr_epoch_loss=0.45450051980359213, running time = 1.9620051383972168 seconds, training accuracy = 0.8323810634328358
+Epoch 12: curr_epoch_loss=0.44417111362729755, running time = 1.9624900817871094 seconds, training accuracy = 0.8347631263326226
+Epoch 13: curr_epoch_loss=0.419573181441852, running time = 1.9606547355651855 seconds, training accuracy = 0.8488139658848615
+Epoch 14: curr_epoch_loss=0.4001398874180658, running time = 1.967172622680664 seconds, training accuracy = 0.8630730277185501
+Epoch 15: curr_epoch_loss=0.3847597667149135, running time = 1.9910287857055664 seconds, training accuracy = 0.8832122867803838
+Epoch 16: curr_epoch_loss=0.36275616926806314, running time = 2.042726755142212 seconds, training accuracy = 0.8900086620469084
+Epoch 17: curr_epoch_loss=0.347611774291311, running time = 2.017971992492676 seconds, training accuracy = 0.8994452958422174
+Epoch 18: curr_epoch_loss=0.3238221151488168, running time = 1.9651172161102295 seconds, training accuracy = 0.9098480810234542
+Epoch 19: curr_epoch_loss=0.3041910337550299, running time = 1.9691205024719238 seconds, training accuracy = 0.9225829557569296
+Epoch 20: curr_epoch_loss=0.28734091350010466, running time = 1.9610660076141357 seconds, training accuracy = 0.9321195362473348
+Validation Precision: 0.6907216494845361
+Validation Recall: 0.7204301075268817
+Validation F1: 0.7052631578947368
+Validation Accuracy: 0.7098445595854922
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0006, dropout_p 0.3, epochs 30
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6959846700940814, running time = 2.009726047515869 seconds, training accuracy = 0.5320912180170575
+Epoch 2: curr_epoch_loss=0.6618523342268807, running time = 1.9664676189422607 seconds, training accuracy = 0.6120985474413646
+Epoch 3: curr_epoch_loss=0.6327215433120728, running time = 1.9601013660430908 seconds, training accuracy = 0.6538929237739872
+Epoch 4: curr_epoch_loss=0.600096902676991, running time = 1.965749740600586 seconds, training accuracy = 0.7106210021321961
+Epoch 5: curr_epoch_loss=0.5779137866837638, running time = 1.967266321182251 seconds, training accuracy = 0.732434368336887
+Epoch 6: curr_epoch_loss=0.561739159481866, running time = 1.9694204330444336 seconds, training accuracy = 0.7379147787846482
+Epoch 7: curr_epoch_loss=0.5459233096667698, running time = 1.9655449390411377 seconds, training accuracy = 0.755771921641791
+Epoch 8: curr_epoch_loss=0.5209091220583234, running time = 1.9751336574554443 seconds, training accuracy = 0.7742370735607675
+Epoch 9: curr_epoch_loss=0.49615940877369474, running time = 1.9662537574768066 seconds, training accuracy = 0.7934101812366737
+Epoch 10: curr_epoch_loss=0.47589582417692455, running time = 1.9631423950195312 seconds, training accuracy = 0.8092434035181236
+Epoch 11: curr_epoch_loss=0.4590941752706255, running time = 1.9641997814178467 seconds, training accuracy = 0.8288246268656716
+Epoch 12: curr_epoch_loss=0.4388061059372766, running time = 1.9697303771972656 seconds, training accuracy = 0.8420675639658849
+Epoch 13: curr_epoch_loss=0.4241283195359366, running time = 1.9727137088775635 seconds, training accuracy = 0.8538362873134329
+Epoch 14: curr_epoch_loss=0.4021916708775929, running time = 1.9622576236724854 seconds, training accuracy = 0.8674873400852878
+Epoch 15: curr_epoch_loss=0.3773922749928066, running time = 1.9596166610717773 seconds, training accuracy = 0.8835121268656716
+Epoch 16: curr_epoch_loss=0.35996351497513907, running time = 1.9676809310913086 seconds, training accuracy = 0.8922907782515992
+Epoch 17: curr_epoch_loss=0.3407557691846575, running time = 1.9666690826416016 seconds, training accuracy = 0.9036597148187634
+Epoch 18: curr_epoch_loss=0.32736206693308695, running time = 1.9572584629058838 seconds, training accuracy = 0.9076159381663114
+Epoch 19: curr_epoch_loss=0.30578666286809103, running time = 1.9597210884094238 seconds, training accuracy = 0.9171525186567164
+Epoch 20: curr_epoch_loss=0.28318873792886734, running time = 1.961008071899414 seconds, training accuracy = 0.9337436700426439
+Epoch 21: curr_epoch_loss=0.27718345182282583, running time = 1.965489387512207 seconds, training accuracy = 0.9327775186567164
+Epoch 22: curr_epoch_loss=0.25470442857061115, running time = 1.9667184352874756 seconds, training accuracy = 0.9466784381663114
+Epoch 23: curr_epoch_loss=0.2408971477832113, running time = 1.9559969902038574 seconds, training accuracy = 0.9499766791044777
+Epoch 24: curr_epoch_loss=0.22848274133035115, running time = 1.966566801071167 seconds, training accuracy = 0.9599213752665244
+Epoch 25: curr_epoch_loss=0.21509175215448653, running time = 1.9561998844146729 seconds, training accuracy = 0.9595132595948828
+Epoch 26: curr_epoch_loss=0.20316127687692642, running time = 1.9613456726074219 seconds, training accuracy = 0.9577891791044777
+Epoch 27: curr_epoch_loss=0.19753403961658478, running time = 1.973740816116333 seconds, training accuracy = 0.964893723347548
+Epoch 28: curr_epoch_loss=0.18699323598827636, running time = 1.9674339294433594 seconds, training accuracy = 0.9643856609808102
+Epoch 29: curr_epoch_loss=0.17229392592396056, running time = 1.9614803791046143 seconds, training accuracy = 0.9754964019189766
+Epoch 30: curr_epoch_loss=0.1655978656240872, running time = 1.962402582168579 seconds, training accuracy = 0.9721481876332623
+Validation Precision: 0.7835051546391752
+Validation Recall: 0.6972477064220184
+Validation F1: 0.7378640776699029
+Validation Accuracy: 0.7202072538860104
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0006, dropout_p 0.3, epochs 40
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7022341915539333, running time = 2.008632183074951 seconds, training accuracy = 0.5248367537313433
+Epoch 2: curr_epoch_loss=0.6581352225371769, running time = 1.9580907821655273 seconds, training accuracy = 0.6060101279317697
+Epoch 3: curr_epoch_loss=0.6226142602307456, running time = 1.972015142440796 seconds, training accuracy = 0.6768306902985074
+Epoch 4: curr_epoch_loss=0.6079269690173013, running time = 1.9609489440917969 seconds, training accuracy = 0.7006263326226013
+Epoch 5: curr_epoch_loss=0.5765227973461151, running time = 1.9673702716827393 seconds, training accuracy = 0.7354244402985074
+Epoch 6: curr_epoch_loss=0.5608181399958474, running time = 1.953650712966919 seconds, training accuracy = 0.7483092350746269
+Epoch 7: curr_epoch_loss=0.5432380267551967, running time = 1.966536045074463 seconds, training accuracy = 0.7492254131130064
+Epoch 8: curr_epoch_loss=0.5257406213453838, running time = 1.9664134979248047 seconds, training accuracy = 0.7783931902985074
+Epoch 9: curr_epoch_loss=0.503494571362223, running time = 1.967256784439087 seconds, training accuracy = 0.7760611007462687
+Epoch 10: curr_epoch_loss=0.4779754749366215, running time = 1.9677140712738037 seconds, training accuracy = 0.8099513592750532
+Epoch 11: curr_epoch_loss=0.46177936451775686, running time = 1.961083173751831 seconds, training accuracy = 0.8249183768656716
+Epoch 12: curr_epoch_loss=0.43660041051251547, running time = 1.9680352210998535 seconds, training accuracy = 0.8448077691897655
+Epoch 13: curr_epoch_loss=0.4193739635603769, running time = 1.9600393772125244 seconds, training accuracy = 0.8601329291044777
+Epoch 14: curr_epoch_loss=0.3939057631152017, running time = 1.9569075107574463 seconds, training accuracy = 0.8760577691897655
+Epoch 15: curr_epoch_loss=0.38118829897471834, running time = 1.9607386589050293 seconds, training accuracy = 0.8797641257995735
+Epoch 16: curr_epoch_loss=0.3507763573101589, running time = 1.958364486694336 seconds, training accuracy = 0.9022854477611941
+Epoch 17: curr_epoch_loss=0.3343302032777241, running time = 1.9599840641021729 seconds, training accuracy = 0.9117220815565031
+Epoch 18: curr_epoch_loss=0.3143403274672372, running time = 1.9696354866027832 seconds, training accuracy = 0.9182186167377399
+Epoch 19: curr_epoch_loss=0.29433111420699526, running time = 1.9960963726043701 seconds, training accuracy = 0.9265391791044777
+Epoch 20: curr_epoch_loss=0.27761154089655193, running time = 2.005307674407959 seconds, training accuracy = 0.9382079557569296
+Epoch 21: curr_epoch_loss=0.274165897497109, running time = 1.974743127822876 seconds, training accuracy = 0.9342517324093816
+Epoch 22: curr_epoch_loss=0.2597218432596752, running time = 1.9754765033721924 seconds, training accuracy = 0.9409481609808102
+Epoch 23: curr_epoch_loss=0.23607445614678518, running time = 1.9758238792419434 seconds, training accuracy = 0.9444462953091685
+Epoch 24: curr_epoch_loss=0.22500149054186686, running time = 1.9824235439300537 seconds, training accuracy = 0.9605293843283581
+Epoch 25: curr_epoch_loss=0.21308969493423188, running time = 1.9852888584136963 seconds, training accuracy = 0.9566231343283581
+Epoch 26: curr_epoch_loss=0.1985874761428152, running time = 1.978412389755249 seconds, training accuracy = 0.9638276252665244
+Epoch 27: curr_epoch_loss=0.1904564435992922, running time = 1.984109878540039 seconds, training accuracy = 0.9643856609808102
+Epoch 28: curr_epoch_loss=0.17957240555967605, running time = 1.9733479022979736 seconds, training accuracy = 0.9721481876332623
+Epoch 29: curr_epoch_loss=0.17470201317753112, running time = 1.9722819328308105 seconds, training accuracy = 0.9688999200426439
+Epoch 30: curr_epoch_loss=0.16074080605592048, running time = 1.9736413955688477 seconds, training accuracy = 0.9733642057569296
+Epoch 31: curr_epoch_loss=0.15288777542965754, running time = 1.9839816093444824 seconds, training accuracy = 0.9777785181236673
+Epoch 32: curr_epoch_loss=0.1383757543350969, running time = 1.9825971126556396 seconds, training accuracy = 0.9860491071428571
+Epoch 33: curr_epoch_loss=0.14321525394916534, running time = 1.9924705028533936 seconds, training accuracy = 0.9749883395522387
+Epoch 34: curr_epoch_loss=0.13468621139015471, running time = 1.9700963497161865 seconds, training accuracy = 0.9778784648187634
+Epoch 35: curr_epoch_loss=0.13075222500732966, running time = 1.9931859970092773 seconds, training accuracy = 0.9794526252665244
+Epoch 36: curr_epoch_loss=0.1250858088689191, running time = 1.9700613021850586 seconds, training accuracy = 0.9832589285714286
+Epoch 37: curr_epoch_loss=0.11549710003393036, running time = 1.9960277080535889 seconds, training accuracy = 0.9838669376332623
+Epoch 38: curr_epoch_loss=0.1106389867407935, running time = 1.9823710918426514 seconds, training accuracy = 0.9832589285714286
+Epoch 39: curr_epoch_loss=0.10496348036187035, running time = 1.9735026359558105 seconds, training accuracy = 0.9872651252665244
+Epoch 40: curr_epoch_loss=0.10037396794983319, running time = 1.9848315715789795 seconds, training accuracy = 0.9855410447761194
+Validation Precision: 0.7010309278350515
+Validation Recall: 0.6868686868686869
+Validation F1: 0.6938775510204082
+Validation Accuracy: 0.689119170984456
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0006, dropout_p 0.3, epochs 50
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7008051489080701, running time = 2.0247232913970947 seconds, training accuracy = 0.5206223347547975
+Epoch 2: curr_epoch_loss=0.665098752294268, running time = 1.9754009246826172 seconds, training accuracy = 0.6010294509594882
+Epoch 3: curr_epoch_loss=0.6385445765086583, running time = 1.9636476039886475 seconds, training accuracy = 0.6587653251599147
+Epoch 4: curr_epoch_loss=0.6036130785942078, running time = 1.9790921211242676 seconds, training accuracy = 0.6969699493603411
+Epoch 5: curr_epoch_loss=0.5818386716502053, running time = 1.9771122932434082 seconds, training accuracy = 0.7259878065031983
+Epoch 6: curr_epoch_loss=0.5639225499970573, running time = 1.9810690879821777 seconds, training accuracy = 0.7474013859275053
+Epoch 7: curr_epoch_loss=0.5506232934338706, running time = 1.975311040878296 seconds, training accuracy = 0.7486174040511727
+Epoch 8: curr_epoch_loss=0.5266596078872681, running time = 1.9890096187591553 seconds, training accuracy = 0.7701725746268657
+Epoch 9: curr_epoch_loss=0.5009652844497136, running time = 1.9926388263702393 seconds, training accuracy = 0.7881379930703625
+Epoch 10: curr_epoch_loss=0.49349725459303173, running time = 1.971405029296875 seconds, training accuracy = 0.7899620202558636
+Epoch 11: curr_epoch_loss=0.4676379880734852, running time = 1.9673898220062256 seconds, training accuracy = 0.8172557969083156
+Epoch 12: curr_epoch_loss=0.44415877546582905, running time = 1.9774055480957031 seconds, training accuracy = 0.8403934568230278
+Epoch 13: curr_epoch_loss=0.4282826908997127, running time = 1.9788830280303955 seconds, training accuracy = 0.8458238939232409
+Epoch 14: curr_epoch_loss=0.40478616314274923, running time = 1.9784672260284424 seconds, training accuracy = 0.8589085820895522
+Epoch 15: curr_epoch_loss=0.39056929094450815, running time = 1.9798436164855957 seconds, training accuracy = 0.8759078491471215
+Epoch 16: curr_epoch_loss=0.3583352544478008, running time = 1.9613659381866455 seconds, training accuracy = 0.900461420575693
+Epoch 17: curr_epoch_loss=0.35784886138779776, running time = 1.9731013774871826 seconds, training accuracy = 0.8971631796375267
+Epoch 18: curr_epoch_loss=0.3251279720238277, running time = 1.9702033996582031 seconds, training accuracy = 0.9189265724946695
+Epoch 19: curr_epoch_loss=0.30947722707475933, running time = 1.9841670989990234 seconds, training accuracy = 0.9177105543710021
+Epoch 20: curr_epoch_loss=0.29065464437007904, running time = 1.9670875072479248 seconds, training accuracy = 0.9398820628997867
+Epoch 21: curr_epoch_loss=0.28163384752614157, running time = 1.9771857261657715 seconds, training accuracy = 0.9383079024520257
+Epoch 22: curr_epoch_loss=0.26622488988297327, running time = 1.9678733348846436 seconds, training accuracy = 0.935567697228145
+Epoch 23: curr_epoch_loss=0.24929921009710856, running time = 1.9745993614196777 seconds, training accuracy = 0.9442464019189766
+Epoch 24: curr_epoch_loss=0.23458536927189147, running time = 1.9758894443511963 seconds, training accuracy = 0.9516008128997867
+Epoch 25: curr_epoch_loss=0.23109195700713567, running time = 1.9665627479553223 seconds, training accuracy = 0.9501265991471215
+Epoch 26: curr_epoch_loss=0.21594045949833734, running time = 1.962334394454956 seconds, training accuracy = 0.9577392057569296
+Epoch 27: curr_epoch_loss=0.20849391711609705, running time = 1.9653184413909912 seconds, training accuracy = 0.9560650986140724
+Epoch 28: curr_epoch_loss=0.19646866193839482, running time = 1.963850498199463 seconds, training accuracy = 0.9720982142857143
+Epoch 29: curr_epoch_loss=0.17693211351122176, running time = 1.9604990482330322 seconds, training accuracy = 0.9739222414712153
+Epoch 30: curr_epoch_loss=0.1721303899373327, running time = 1.9675981998443604 seconds, training accuracy = 0.9737723214285714
+Epoch 31: curr_epoch_loss=0.16134747224194662, running time = 1.9666833877563477 seconds, training accuracy = 0.9728061700426439
+Epoch 32: curr_epoch_loss=0.15585903078317642, running time = 1.963238000869751 seconds, training accuracy = 0.9761543843283581
+Epoch 33: curr_epoch_loss=0.1493341757782868, running time = 1.9959828853607178 seconds, training accuracy = 0.9788945895522387
+Epoch 34: curr_epoch_loss=0.13600174071533339, running time = 1.962024211883545 seconds, training accuracy = 0.9777285447761194
+Epoch 35: curr_epoch_loss=0.13787866862756865, running time = 1.967362880706787 seconds, training accuracy = 0.982242803837953
+Epoch 36: curr_epoch_loss=0.12143741654498237, running time = 1.9734878540039062 seconds, training accuracy = 0.9855910181236673
+Epoch 37: curr_epoch_loss=0.12503107158201082, running time = 1.960925817489624 seconds, training accuracy = 0.9789445628997867
+Epoch 38: curr_epoch_loss=0.1197549072759492, running time = 1.9621520042419434 seconds, training accuracy = 0.9805686966950959
+Epoch 39: curr_epoch_loss=0.11053180588143212, running time = 1.9607913494110107 seconds, training accuracy = 0.9877232142857143
+Epoch 40: curr_epoch_loss=0.10741130315831729, running time = 1.9613656997680664 seconds, training accuracy = 0.9821928304904051
+Epoch 41: curr_epoch_loss=0.10713321130190577, running time = 1.9593253135681152 seconds, training accuracy = 0.9860491071428571
+Epoch 42: curr_epoch_loss=0.10348152954663549, running time = 1.9668774604797363 seconds, training accuracy = 0.9828508128997867
+Epoch 43: curr_epoch_loss=0.09204219281673431, running time = 1.977419376373291 seconds, training accuracy = 0.9877232142857143
+Epoch 44: curr_epoch_loss=0.09441105382783073, running time = 1.9674441814422607 seconds, training accuracy = 0.9888892590618337
+Epoch 45: curr_epoch_loss=0.0880824231675693, running time = 1.9678616523742676 seconds, training accuracy = 0.9888892590618337
+Epoch 46: curr_epoch_loss=0.08325031053807054, running time = 1.9618403911590576 seconds, training accuracy = 0.9933035714285714
+Epoch 47: curr_epoch_loss=0.0808630149279322, running time = 1.9628829956054688 seconds, training accuracy = 0.9911214019189766
+Epoch 48: curr_epoch_loss=0.07483591405408722, running time = 1.960883378982544 seconds, training accuracy = 0.992237473347548
+Epoch 49: curr_epoch_loss=0.07832568458148412, running time = 1.9692778587341309 seconds, training accuracy = 0.9860990804904051
+Epoch 50: curr_epoch_loss=0.07644515670835972, running time = 1.9708080291748047 seconds, training accuracy = 0.9894472947761194
+Validation Precision: 0.8247422680412371
+Validation Recall: 0.6837606837606838
+Validation F1: 0.7476635514018691
+Validation Accuracy: 0.7202072538860104
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0007, dropout_p 0.3, epochs 10
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7082530813557761, running time = 2.0165750980377197 seconds, training accuracy = 0.5099197094882729
+Epoch 2: curr_epoch_loss=0.6494736415999276, running time = 1.967421054840088 seconds, training accuracy = 0.6306636460554371
+Epoch 3: curr_epoch_loss=0.6220448740891048, running time = 1.9579181671142578 seconds, training accuracy = 0.6705340485074627
+Epoch 4: curr_epoch_loss=0.5866367561476571, running time = 1.9603838920593262 seconds, training accuracy = 0.7227978411513859
+Epoch 5: curr_epoch_loss=0.5657421946525574, running time = 1.9605686664581299 seconds, training accuracy = 0.7463852611940299
+Epoch 6: curr_epoch_loss=0.5412618475300925, running time = 1.968646764755249 seconds, training accuracy = 0.759678171641791
+Epoch 7: curr_epoch_loss=0.5226147238697324, running time = 1.9622819423675537 seconds, training accuracy = 0.7663246268656716
+Epoch 8: curr_epoch_loss=0.49962370097637177, running time = 1.9614875316619873 seconds, training accuracy = 0.792860474413646
+Epoch 9: curr_epoch_loss=0.4740163279431207, running time = 1.9619114398956299 seconds, training accuracy = 0.8134578224946695
+Epoch 10: curr_epoch_loss=0.4472226117338453, running time = 1.9539952278137207 seconds, training accuracy = 0.8348130996801706
+Validation Precision: 0.7835051546391752
+Validation Recall: 0.6440677966101694
+Validation F1: 0.7069767441860464
+Validation Accuracy: 0.6735751295336787
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0007, dropout_p 0.3, epochs 20
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7011493018695286, running time = 2.006847381591797 seconds, training accuracy = 0.5259028518123667
+Epoch 2: curr_epoch_loss=0.651159793138504, running time = 1.9668729305267334 seconds, training accuracy = 0.6282316098081023
+Epoch 3: curr_epoch_loss=0.6170243067400796, running time = 1.9569990634918213 seconds, training accuracy = 0.685659315031983
+Epoch 4: curr_epoch_loss=0.5971252024173737, running time = 1.968869686126709 seconds, training accuracy = 0.7203075026652452
+Epoch 5: curr_epoch_loss=0.5667251220771244, running time = 1.9666900634765625 seconds, training accuracy = 0.7342084221748401
+Epoch 6: curr_epoch_loss=0.5454580443246024, running time = 1.9615247249603271 seconds, training accuracy = 0.7450193230277186
+Epoch 7: curr_epoch_loss=0.5260783689362662, running time = 1.9560151100158691 seconds, training accuracy = 0.7589119136460554
+Epoch 8: curr_epoch_loss=0.5014239911522184, running time = 1.967393398284912 seconds, training accuracy = 0.7888459488272922
+Epoch 9: curr_epoch_loss=0.47857728387628284, running time = 1.9671273231506348 seconds, training accuracy = 0.8041711087420043
+Epoch 10: curr_epoch_loss=0.456215500831604, running time = 1.9609708786010742 seconds, training accuracy = 0.8322727878464818
+Epoch 11: curr_epoch_loss=0.43226877067770275, running time = 1.9605214595794678 seconds, training accuracy = 0.8409015191897655
+Epoch 12: curr_epoch_loss=0.41660861883844647, running time = 1.9585232734680176 seconds, training accuracy = 0.8545942164179104
+Epoch 13: curr_epoch_loss=0.38085706532001495, running time = 1.9593524932861328 seconds, training accuracy = 0.8814882062899787
+Epoch 14: curr_epoch_loss=0.3695082387753895, running time = 1.9586577415466309 seconds, training accuracy = 0.8909748134328358
+Epoch 15: curr_epoch_loss=0.33891219539301737, running time = 1.962054967880249 seconds, training accuracy = 0.9024353678038379
+Epoch 16: curr_epoch_loss=0.3221936289753233, running time = 1.9741489887237549 seconds, training accuracy = 0.9131463219616205
+Epoch 17: curr_epoch_loss=0.29264076373406817, running time = 1.958268642425537 seconds, training accuracy = 0.9277052238805971
+Epoch 18: curr_epoch_loss=0.2775505781173706, running time = 1.9679720401763916 seconds, training accuracy = 0.9376499200426439
+Epoch 19: curr_epoch_loss=0.2595217281154224, running time = 1.964888572692871 seconds, training accuracy = 0.9427222148187634
+Epoch 20: curr_epoch_loss=0.24838303135974066, running time = 1.967289924621582 seconds, training accuracy = 0.9405400453091685
+Validation Precision: 0.8247422680412371
+Validation Recall: 0.6349206349206349
+Validation F1: 0.7174887892376681
+Validation Accuracy: 0.6735751295336787
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0007, dropout_p 0.3, epochs 30
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6928566183362689, running time = 1.995295763015747 seconds, training accuracy = 0.537213486140725
+Epoch 2: curr_epoch_loss=0.649518928357533, running time = 1.959967851638794 seconds, training accuracy = 0.6341118070362474
+Epoch 3: curr_epoch_loss=0.6071593804018838, running time = 1.9651789665222168 seconds, training accuracy = 0.7086886993603411
+Epoch 4: curr_epoch_loss=0.5853759178093502, running time = 1.9653236865997314 seconds, training accuracy = 0.7193996535181236
+Epoch 5: curr_epoch_loss=0.5632580390998295, running time = 1.957695722579956 seconds, training accuracy = 0.7408548773987207
+Epoch 6: curr_epoch_loss=0.542669015271323, running time = 1.9619746208190918 seconds, training accuracy = 0.7456773054371002
+Epoch 7: curr_epoch_loss=0.5126259582383292, running time = 1.967564344406128 seconds, training accuracy = 0.7840318496801706
+Epoch 8: curr_epoch_loss=0.4931020757981709, running time = 1.9633007049560547 seconds, training accuracy = 0.8031549840085288
+Epoch 9: curr_epoch_loss=0.4635645087276186, running time = 1.958465337753296 seconds, training accuracy = 0.8215701625799573
+Epoch 10: curr_epoch_loss=0.44814405909606386, running time = 1.9526407718658447 seconds, training accuracy = 0.8307569296375267
+Epoch 11: curr_epoch_loss=0.4280592905623572, running time = 1.9627485275268555 seconds, training accuracy = 0.8355210554371002
+Epoch 12: curr_epoch_loss=0.40269845511232105, running time = 1.9595861434936523 seconds, training accuracy = 0.8669293043710021
+Epoch 13: curr_epoch_loss=0.37855319891657147, running time = 1.9525835514068604 seconds, training accuracy = 0.8776819029850745
+Epoch 14: curr_epoch_loss=0.35214317057813915, running time = 1.9588429927825928 seconds, training accuracy = 0.8942730543710021
+Epoch 15: curr_epoch_loss=0.3269601549421038, running time = 1.9633777141571045 seconds, training accuracy = 0.9126882329424307
+Epoch 16: curr_epoch_loss=0.3142819511038916, running time = 1.966986894607544 seconds, training accuracy = 0.9117220815565031
+Epoch 17: curr_epoch_loss=0.30021113583019804, running time = 1.9541857242584229 seconds, training accuracy = 0.9170525719616205
+Epoch 18: curr_epoch_loss=0.2730434313416481, running time = 1.9646995067596436 seconds, training accuracy = 0.9404400986140724
+Epoch 19: curr_epoch_loss=0.2602059862443379, running time = 1.9572997093200684 seconds, training accuracy = 0.9465784914712153
+Epoch 20: curr_epoch_loss=0.2446978028331484, running time = 1.9624762535095215 seconds, training accuracy = 0.9465784914712153
+Epoch 21: curr_epoch_loss=0.23522362751620157, running time = 1.9608185291290283 seconds, training accuracy = 0.9421142057569296
+Epoch 22: curr_epoch_loss=0.2084320496235575, running time = 1.9601361751556396 seconds, training accuracy = 0.9575892857142857
+Epoch 23: curr_epoch_loss=0.18845824152231216, running time = 1.9603378772735596 seconds, training accuracy = 0.9743803304904051
+Epoch 24: curr_epoch_loss=0.1898559874721936, running time = 1.9701228141784668 seconds, training accuracy = 0.9638276252665244
+Epoch 25: curr_epoch_loss=0.17703330197504588, running time = 1.968449354171753 seconds, training accuracy = 0.9667177505330491
+Epoch 26: curr_epoch_loss=0.16350505820342473, running time = 1.9542193412780762 seconds, training accuracy = 0.96875
+Epoch 27: curr_epoch_loss=0.1664630855832781, running time = 1.9672727584838867 seconds, training accuracy = 0.9700659648187634
+Epoch 28: curr_epoch_loss=0.1479880745921816, running time = 1.9698066711425781 seconds, training accuracy = 0.9776785714285714
+Epoch 29: curr_epoch_loss=0.14542177372745105, running time = 1.966320276260376 seconds, training accuracy = 0.9793526785714286
+Epoch 30: curr_epoch_loss=0.13111273146101407, running time = 1.9675629138946533 seconds, training accuracy = 0.9838669376332623
+Validation Precision: 0.7422680412371134
+Validation Recall: 0.6857142857142857
+Validation F1: 0.7128712871287128
+Validation Accuracy: 0.6994818652849741
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0007, dropout_p 0.3, epochs 40
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6989195474556514, running time = 2.0068657398223877 seconds, training accuracy = 0.5220882196162047
+Epoch 2: curr_epoch_loss=0.6513507962226868, running time = 1.9676110744476318 seconds, training accuracy = 0.6172208155650319
+Epoch 3: curr_epoch_loss=0.6229027850287301, running time = 1.9664196968078613 seconds, training accuracy = 0.6750982809168444
+Epoch 4: curr_epoch_loss=0.5922081427914756, running time = 1.9604041576385498 seconds, training accuracy = 0.7140691631130064
+Epoch 5: curr_epoch_loss=0.5673968749386924, running time = 1.950585126876831 seconds, training accuracy = 0.7398387526652452
+Epoch 6: curr_epoch_loss=0.546263941696712, running time = 1.9601657390594482 seconds, training accuracy = 0.7450193230277186
+Epoch 7: curr_epoch_loss=0.519814555134092, running time = 1.9653418064117432 seconds, training accuracy = 0.7657166178038379
+Epoch 8: curr_epoch_loss=0.503112963267735, running time = 1.9598326683044434 seconds, training accuracy = 0.7927521988272922
+Epoch 9: curr_epoch_loss=0.4819209235055106, running time = 1.9604740142822266 seconds, training accuracy = 0.8007729211087421
+Epoch 10: curr_epoch_loss=0.4570546235357012, running time = 1.9692940711975098 seconds, training accuracy = 0.8219283049040512
+Epoch 11: curr_epoch_loss=0.4299664412225996, running time = 1.9626343250274658 seconds, training accuracy = 0.851454224413646
+Epoch 12: curr_epoch_loss=0.41420442717415945, running time = 1.9661927223205566 seconds, training accuracy = 0.8652052238805971
+Epoch 13: curr_epoch_loss=0.388445896761758, running time = 1.965303659439087 seconds, training accuracy = 0.8705273853944563
+Epoch 14: curr_epoch_loss=0.3546752610376903, running time = 1.9619450569152832 seconds, training accuracy = 0.8888426172707888
+Epoch 15: curr_epoch_loss=0.3470469904797418, running time = 1.967956781387329 seconds, training accuracy = 0.8966051439232409
+Epoch 16: curr_epoch_loss=0.31939048213618143, running time = 1.9634263515472412 seconds, training accuracy = 0.9105060634328358
+Epoch 17: curr_epoch_loss=0.31006425406251636, running time = 1.964369535446167 seconds, training accuracy = 0.9177605277185501
+Epoch 18: curr_epoch_loss=0.28120164573192596, running time = 1.9664769172668457 seconds, training accuracy = 0.9372418043710021
+Epoch 19: curr_epoch_loss=0.2683333456516266, running time = 1.9655835628509521 seconds, training accuracy = 0.9383079024520257
+Epoch 20: curr_epoch_loss=0.25258578785828184, running time = 1.9612765312194824 seconds, training accuracy = 0.9472364738805971
+Epoch 21: curr_epoch_loss=0.24499394531760896, running time = 1.9728302955627441 seconds, training accuracy = 0.9473863939232409
+Epoch 22: curr_epoch_loss=0.22606202960014343, running time = 1.9548778533935547 seconds, training accuracy = 0.9538329557569296
+Epoch 23: curr_epoch_loss=0.2157619222998619, running time = 1.9567012786865234 seconds, training accuracy = 0.9543909914712153
+Epoch 24: curr_epoch_loss=0.1912100836634636, running time = 1.9594600200653076 seconds, training accuracy = 0.9709821428571429
+Epoch 25: curr_epoch_loss=0.17754232031958445, running time = 1.971052646636963 seconds, training accuracy = 0.9672258128997867
+Epoch 26: curr_epoch_loss=0.18171174504927226, running time = 1.955934762954712 seconds, training accuracy = 0.9633695362473348
+Epoch 27: curr_epoch_loss=0.16881671760763442, running time = 1.9620084762573242 seconds, training accuracy = 0.9672258128997867
+Epoch 28: curr_epoch_loss=0.16640494444540568, running time = 1.9627010822296143 seconds, training accuracy = 0.9678338219616205
+Epoch 29: curr_epoch_loss=0.14524192522679055, running time = 1.9604320526123047 seconds, training accuracy = 0.9766624466950959
+Epoch 30: curr_epoch_loss=0.13669916082705771, running time = 1.956496000289917 seconds, training accuracy = 0.9860491071428571
+Epoch 31: curr_epoch_loss=0.13669629288571222, running time = 1.9724197387695312 seconds, training accuracy = 0.9755463752665244
+Epoch 32: curr_epoch_loss=0.1331512571445533, running time = 1.9727530479431152 seconds, training accuracy = 0.9733142324093816
+Epoch 33: curr_epoch_loss=0.12074032106569835, running time = 1.9665637016296387 seconds, training accuracy = 0.9816347947761194
+Epoch 34: curr_epoch_loss=0.11194128383483205, running time = 1.9685046672821045 seconds, training accuracy = 0.9860990804904051
+Epoch 35: curr_epoch_loss=0.10550439251320702, running time = 1.9620275497436523 seconds, training accuracy = 0.9888392857142857
+Epoch 36: curr_epoch_loss=0.10888236707874707, running time = 1.9652628898620605 seconds, training accuracy = 0.9849330357142857
+Epoch 37: curr_epoch_loss=0.09740014800003596, running time = 1.9655964374542236 seconds, training accuracy = 0.9888392857142857
+Epoch 38: curr_epoch_loss=0.08937068549650055, running time = 1.9700133800506592 seconds, training accuracy = 0.9905133928571429
+Epoch 39: curr_epoch_loss=0.09418271322335516, running time = 1.9807915687561035 seconds, training accuracy = 0.9866571162046908
+Epoch 40: curr_epoch_loss=0.08236593008041382, running time = 1.9606924057006836 seconds, training accuracy = 0.9921875
+Validation Precision: 0.7628865979381443
+Validation Recall: 0.6607142857142857
+Validation F1: 0.7081339712918661
+Validation Accuracy: 0.6839378238341969
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0007, dropout_p 0.3, epochs 50
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7041815987655095, running time = 2.0032849311828613 seconds, training accuracy = 0.523570762260128
+Epoch 2: curr_epoch_loss=0.6515170378344399, running time = 1.9599261283874512 seconds, training accuracy = 0.62117703891258
+Epoch 3: curr_epoch_loss=0.621735406773431, running time = 1.9580607414245605 seconds, training accuracy = 0.6827691897654585
+Epoch 4: curr_epoch_loss=0.5950528383255005, running time = 1.9614410400390625 seconds, training accuracy = 0.7171092084221747
+Epoch 5: curr_epoch_loss=0.5702245022569384, running time = 1.9667587280273438 seconds, training accuracy = 0.728269922707889
+Epoch 6: curr_epoch_loss=0.5515414306095668, running time = 1.9681057929992676 seconds, training accuracy = 0.7512993070362474
+Epoch 7: curr_epoch_loss=0.5210859967129571, running time = 1.9669616222381592 seconds, training accuracy = 0.7822577958422174
+Epoch 8: curr_epoch_loss=0.5008738381522042, running time = 1.9681003093719482 seconds, training accuracy = 0.7859558235607675
+Epoch 9: curr_epoch_loss=0.481427218232836, running time = 1.967756748199463 seconds, training accuracy = 0.802646921641791
+Epoch 10: curr_epoch_loss=0.4566672976527895, running time = 1.96738600730896 seconds, training accuracy = 0.8148237606609808
+Epoch 11: curr_epoch_loss=0.4292205274105072, running time = 1.9699840545654297 seconds, training accuracy = 0.8443496801705758
+Epoch 12: curr_epoch_loss=0.4022549475942339, running time = 1.9549620151519775 seconds, training accuracy = 0.8724097148187634
+Epoch 13: curr_epoch_loss=0.38161104917526245, running time = 1.9688880443572998 seconds, training accuracy = 0.8910747601279317
+Epoch 14: curr_epoch_loss=0.3529323786497116, running time = 1.9607603549957275 seconds, training accuracy = 0.8998534115138593
+Epoch 15: curr_epoch_loss=0.33879623242786955, running time = 1.9614214897155762 seconds, training accuracy = 0.9003614738805971
+Epoch 16: curr_epoch_loss=0.31518433562346865, running time = 1.9765825271606445 seconds, training accuracy = 0.9193346881663114
+Epoch 17: curr_epoch_loss=0.2939149247748511, running time = 1.9722318649291992 seconds, training accuracy = 0.9284631529850745
+Epoch 18: curr_epoch_loss=0.2751607575586864, running time = 1.958589792251587 seconds, training accuracy = 0.9465285181236673
+Epoch 19: curr_epoch_loss=0.25809589347669054, running time = 1.9598405361175537 seconds, training accuracy = 0.9444962686567164
+Epoch 20: curr_epoch_loss=0.2527349144220352, running time = 1.9642353057861328 seconds, training accuracy = 0.9440881529850745
+Epoch 21: curr_epoch_loss=0.22176829193319594, running time = 1.9759223461151123 seconds, training accuracy = 0.9594133128997867
+Epoch 22: curr_epoch_loss=0.2088806309870311, running time = 1.9628863334655762 seconds, training accuracy = 0.966617803837953
+Epoch 23: curr_epoch_loss=0.2010426510657583, running time = 1.9666321277618408 seconds, training accuracy = 0.9671758395522387
+Epoch 24: curr_epoch_loss=0.1801701294524329, running time = 1.9640541076660156 seconds, training accuracy = 0.9682919109808102
+Epoch 25: curr_epoch_loss=0.17247952095099858, running time = 1.9684748649597168 seconds, training accuracy = 0.9743803304904051
+Epoch 26: curr_epoch_loss=0.16910463997295924, running time = 1.9599344730377197 seconds, training accuracy = 0.9689998667377399
+Epoch 27: curr_epoch_loss=0.15547651797533035, running time = 1.9533789157867432 seconds, training accuracy = 0.9743803304904051
+Epoch 28: curr_epoch_loss=0.16150088661483356, running time = 1.9663751125335693 seconds, training accuracy = 0.9722981076759062
+Epoch 29: curr_epoch_loss=0.14661052663411414, running time = 1.9624745845794678 seconds, training accuracy = 0.970524053837953
+Epoch 30: curr_epoch_loss=0.13463688056383813, running time = 1.9620916843414307 seconds, training accuracy = 0.9828008395522387
+Epoch 31: curr_epoch_loss=0.1251296645828656, running time = 1.9662282466888428 seconds, training accuracy = 0.9849830090618337
+Epoch 32: curr_epoch_loss=0.11913065878408295, running time = 1.9599363803863525 seconds, training accuracy = 0.9855910181236673
+Epoch 33: curr_epoch_loss=0.1149582713842392, running time = 1.9590086936950684 seconds, training accuracy = 0.984375
+Epoch 34: curr_epoch_loss=0.10749403493744987, running time = 1.9611780643463135 seconds, training accuracy = 0.9849330357142857
+Epoch 35: curr_epoch_loss=0.10630997217127255, running time = 1.9737117290496826 seconds, training accuracy = 0.9849830090618337
+Epoch 36: curr_epoch_loss=0.09884241649082728, running time = 1.9670956134796143 seconds, training accuracy = 0.9866571162046908
+Epoch 37: curr_epoch_loss=0.09240506004009928, running time = 1.9680943489074707 seconds, training accuracy = 0.9910714285714286
+Epoch 38: curr_epoch_loss=0.08554675962243762, running time = 1.965522050857544 seconds, training accuracy = 0.9921875
+Epoch 39: curr_epoch_loss=0.08316264940159661, running time = 1.9619135856628418 seconds, training accuracy = 0.9905133928571429
+Epoch 40: curr_epoch_loss=0.08131915730025087, running time = 1.9623522758483887 seconds, training accuracy = 0.9916294642857143
+Epoch 41: curr_epoch_loss=0.07532226294279099, running time = 1.9630749225616455 seconds, training accuracy = 0.9911214019189766
+Epoch 42: curr_epoch_loss=0.074033561827881, running time = 1.9673683643341064 seconds, training accuracy = 0.9933035714285714
+Epoch 43: curr_epoch_loss=0.0736327205917665, running time = 1.9708647727966309 seconds, training accuracy = 0.9921875
+Epoch 44: curr_epoch_loss=0.06910720919924122, running time = 1.958263874053955 seconds, training accuracy = 0.9910714285714286
+Epoch 45: curr_epoch_loss=0.06710718093173844, running time = 1.963322401046753 seconds, training accuracy = 0.9921875
+Epoch 46: curr_epoch_loss=0.06599664422018188, running time = 1.9828197956085205 seconds, training accuracy = 0.992237473347548
+Epoch 47: curr_epoch_loss=0.05764182124819074, running time = 1.9565048217773438 seconds, training accuracy = 0.9955357142857143
+Epoch 48: curr_epoch_loss=0.056664557861430306, running time = 1.971264123916626 seconds, training accuracy = 0.9955856876332623
+Epoch 49: curr_epoch_loss=0.05711144980575357, running time = 1.9583263397216797 seconds, training accuracy = 0.9922874466950959
+Epoch 50: curr_epoch_loss=0.05697111466101238, running time = 1.9674136638641357 seconds, training accuracy = 0.9949776785714286
+Validation Precision: 0.7731958762886598
+Validation Recall: 0.6696428571428571
+Validation F1: 0.7177033492822966
+Validation Accuracy: 0.694300518134715
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0008, dropout_p 0.3, epochs 10
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6863109937735966, running time = 1.9998867511749268 seconds, training accuracy = 0.554870735607676
+Epoch 2: curr_epoch_loss=0.6470874973705837, running time = 1.9731495380401611 seconds, training accuracy = 0.6272154850746269
+Epoch 3: curr_epoch_loss=0.6090369139398847, running time = 1.981734037399292 seconds, training accuracy = 0.6862673240938166
+Epoch 4: curr_epoch_loss=0.5853558140141624, running time = 1.9596259593963623 seconds, training accuracy = 0.7193413512793176
+Epoch 5: curr_epoch_loss=0.5534852956022535, running time = 1.9620847702026367 seconds, training accuracy = 0.7489755463752665
+Epoch 6: curr_epoch_loss=0.5304674612624305, running time = 1.9678466320037842 seconds, training accuracy = 0.7670325826226013
+Epoch 7: curr_epoch_loss=0.49957375867026194, running time = 1.962247371673584 seconds, training accuracy = 0.8064032515991472
+Epoch 8: curr_epoch_loss=0.4767240860632488, running time = 1.9671049118041992 seconds, training accuracy = 0.8072611273987207
+Epoch 9: curr_epoch_loss=0.45428278190749033, running time = 1.9904916286468506 seconds, training accuracy = 0.8170559035181236
+Epoch 10: curr_epoch_loss=0.42247683874198366, running time = 1.9602982997894287 seconds, training accuracy = 0.8460737606609808
+Validation Precision: 0.7216494845360825
+Validation Recall: 0.6730769230769231
+Validation F1: 0.6965174129353235
+Validation Accuracy: 0.6839378238341969
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0008, dropout_p 0.3, epochs 20
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6979450328009469, running time = 2.0092835426330566 seconds, training accuracy = 0.5031733075692963
+Epoch 2: curr_epoch_loss=0.6449319890567234, running time = 1.9798409938812256 seconds, training accuracy = 0.6455806902985074
+Epoch 3: curr_epoch_loss=0.6086657302720206, running time = 1.9710285663604736 seconds, training accuracy = 0.6968700026652452
+Epoch 4: curr_epoch_loss=0.5788270533084869, running time = 1.9671943187713623 seconds, training accuracy = 0.7208655383795309
+Epoch 5: curr_epoch_loss=0.5545591797147479, running time = 1.9644174575805664 seconds, training accuracy = 0.7330423773987207
+Epoch 6: curr_epoch_loss=0.5300470526729312, running time = 1.9600379467010498 seconds, training accuracy = 0.755871868336887
+Epoch 7: curr_epoch_loss=0.5079409267221179, running time = 1.960353136062622 seconds, training accuracy = 0.7736290644989339
+Epoch 8: curr_epoch_loss=0.48259098189217703, running time = 1.9655616283416748 seconds, training accuracy = 0.8010727611940299
+Epoch 9: curr_epoch_loss=0.45578054658004213, running time = 1.9607012271881104 seconds, training accuracy = 0.8302405383795309
+Epoch 10: curr_epoch_loss=0.41918064866747173, running time = 1.961596965789795 seconds, training accuracy = 0.8610907515991472
+Epoch 11: curr_epoch_loss=0.39917724260262083, running time = 1.9631931781768799 seconds, training accuracy = 0.861348947228145
+Epoch 12: curr_epoch_loss=0.36979869433811735, running time = 1.955082893371582 seconds, training accuracy = 0.8860524386993603
+Epoch 13: curr_epoch_loss=0.34593907850129263, running time = 1.9665794372558594 seconds, training accuracy = 0.9054837420042644
+Epoch 14: curr_epoch_loss=0.3318463351045336, running time = 1.9634482860565186 seconds, training accuracy = 0.9027935101279317
+Epoch 15: curr_epoch_loss=0.30622396085943493, running time = 1.9535682201385498 seconds, training accuracy = 0.9187766524520257
+Epoch 16: curr_epoch_loss=0.28307100917611805, running time = 1.964193344116211 seconds, training accuracy = 0.9331856343283581
+Epoch 17: curr_epoch_loss=0.27609833968537195, running time = 1.955620527267456 seconds, training accuracy = 0.9283132329424307
+Epoch 18: curr_epoch_loss=0.24287158463682448, running time = 1.962263822555542 seconds, training accuracy = 0.9427222148187634
+Epoch 19: curr_epoch_loss=0.22970497821058547, running time = 1.9828753471374512 seconds, training accuracy = 0.9536830357142857
+Epoch 20: curr_epoch_loss=0.22006252514464514, running time = 1.9571828842163086 seconds, training accuracy = 0.9538829291044777
+Validation Precision: 0.8041237113402062
+Validation Recall: 0.6902654867256637
+Validation F1: 0.7428571428571429
+Validation Accuracy: 0.7202072538860104
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0008, dropout_p 0.3, epochs 30
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6919802512441363, running time = 2.0147624015808105 seconds, training accuracy = 0.5398537446695096
+Epoch 2: curr_epoch_loss=0.6467094378811973, running time = 1.9668946266174316 seconds, training accuracy = 0.6452725213219617
+Epoch 3: curr_epoch_loss=0.6137696291719165, running time = 1.9583642482757568 seconds, training accuracy = 0.6774386993603411
+Epoch 4: curr_epoch_loss=0.5776465109416417, running time = 1.9667637348175049 seconds, training accuracy = 0.7205573694029851
+Epoch 5: curr_epoch_loss=0.5547647646495274, running time = 1.9599008560180664 seconds, training accuracy = 0.7531316631130064
+Epoch 6: curr_epoch_loss=0.5259773220334735, running time = 1.964855432510376 seconds, training accuracy = 0.7532815831556503
+Epoch 7: curr_epoch_loss=0.49422972542898996, running time = 1.9659805297851562 seconds, training accuracy = 0.8058452158848615
+Epoch 8: curr_epoch_loss=0.46666201310498373, running time = 1.9725568294525146 seconds, training accuracy = 0.8216784381663114
+Epoch 9: curr_epoch_loss=0.4393858334847859, running time = 1.9647202491760254 seconds, training accuracy = 0.8422174840085288
+Epoch 10: curr_epoch_loss=0.4291700082165854, running time = 1.9670515060424805 seconds, training accuracy = 0.8388692697228145
+Epoch 11: curr_epoch_loss=0.3902932767357145, running time = 1.9679958820343018 seconds, training accuracy = 0.8716434568230278
+Epoch 12: curr_epoch_loss=0.37448021343776156, running time = 1.9546542167663574 seconds, training accuracy = 0.8720015991471215
+Epoch 13: curr_epoch_loss=0.3467791612659182, running time = 1.9632768630981445 seconds, training accuracy = 0.8881846348614072
+Epoch 14: curr_epoch_loss=0.32067262487752096, running time = 1.960970163345337 seconds, training accuracy = 0.9092900453091685
+Epoch 15: curr_epoch_loss=0.3014120246682848, running time = 1.9661731719970703 seconds, training accuracy = 0.9226329291044777
+Epoch 16: curr_epoch_loss=0.28011696147067205, running time = 1.9730491638183594 seconds, training accuracy = 0.9322194829424307
+Epoch 17: curr_epoch_loss=0.2608324704425676, running time = 1.9619133472442627 seconds, training accuracy = 0.935617670575693
+Epoch 18: curr_epoch_loss=0.2367656518306051, running time = 1.9676845073699951 seconds, training accuracy = 0.9488606076759062
+Epoch 19: curr_epoch_loss=0.22374855939831054, running time = 1.9742817878723145 seconds, training accuracy = 0.9577891791044777
+Epoch 20: curr_epoch_loss=0.21253280022314616, running time = 1.9672870635986328 seconds, training accuracy = 0.9571311966950959
+Epoch 21: curr_epoch_loss=0.19964248474155152, running time = 1.9669337272644043 seconds, training accuracy = 0.9549990005330491
+Epoch 22: curr_epoch_loss=0.1789228469133377, running time = 1.9565486907958984 seconds, training accuracy = 0.9682919109808102
+Epoch 23: curr_epoch_loss=0.1763729825615883, running time = 1.9710025787353516 seconds, training accuracy = 0.9644356343283581
+Epoch 24: curr_epoch_loss=0.15590731906039373, running time = 1.9518542289733887 seconds, training accuracy = 0.9799606876332623
+Epoch 25: curr_epoch_loss=0.14681017931018556, running time = 1.9674630165100098 seconds, training accuracy = 0.9800106609808102
+Epoch 26: curr_epoch_loss=0.14327487455947058, running time = 1.9724297523498535 seconds, training accuracy = 0.97265625
+Epoch 27: curr_epoch_loss=0.14359375940901892, running time = 1.9663364887237549 seconds, training accuracy = 0.9700659648187634
+Epoch 28: curr_epoch_loss=0.127285221857684, running time = 1.9657862186431885 seconds, training accuracy = 0.9832589285714286
+Epoch 29: curr_epoch_loss=0.11474886696253504, running time = 1.9601571559906006 seconds, training accuracy = 0.9850329824093816
+Epoch 30: curr_epoch_loss=0.11425201009426798, running time = 1.9558923244476318 seconds, training accuracy = 0.9810767590618337
+Validation Precision: 0.7628865979381443
+Validation Recall: 0.6607142857142857
+Validation F1: 0.7081339712918661
+Validation Accuracy: 0.6839378238341969
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0008, dropout_p 0.3, epochs 40
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.7020473863397326, running time = 2.0134315490722656 seconds, training accuracy = 0.5066214685501066
+Epoch 2: curr_epoch_loss=0.646457953112466, running time = 1.965944528579712 seconds, training accuracy = 0.6449227078891259
+Epoch 3: curr_epoch_loss=0.6157774329185486, running time = 1.9581732749938965 seconds, training accuracy = 0.6963119669509595
+Epoch 4: curr_epoch_loss=0.5883952166352954, running time = 1.9590089321136475 seconds, training accuracy = 0.7082306103411514
+Epoch 5: curr_epoch_loss=0.5589727972234998, running time = 1.9544124603271484 seconds, training accuracy = 0.744153118336887
+Epoch 6: curr_epoch_loss=0.5333737645830426, running time = 1.9787976741790771 seconds, training accuracy = 0.7658665378464818
+Epoch 7: curr_epoch_loss=0.5145909126315799, running time = 1.969531774520874 seconds, training accuracy = 0.7747451359275053
+Epoch 8: curr_epoch_loss=0.48399767705372404, running time = 1.9644341468811035 seconds, training accuracy = 0.80472914445629
+Epoch 9: curr_epoch_loss=0.45703189074993134, running time = 1.9789292812347412 seconds, training accuracy = 0.8210621002132196
+Epoch 10: curr_epoch_loss=0.4242718049458095, running time = 1.965014934539795 seconds, training accuracy = 0.855668643390192
+Epoch 11: curr_epoch_loss=0.4056723862886429, running time = 1.9672796726226807 seconds, training accuracy = 0.8597248134328358
+Epoch 12: curr_epoch_loss=0.38499573298863005, running time = 1.9762561321258545 seconds, training accuracy = 0.8698694029850745
+Epoch 13: curr_epoch_loss=0.3576047271490097, running time = 1.964428186416626 seconds, training accuracy = 0.8853944562899787
+Epoch 14: curr_epoch_loss=0.33042731668267933, running time = 1.9642813205718994 seconds, training accuracy = 0.9083238939232409
+Epoch 15: curr_epoch_loss=0.3044988289475441, running time = 1.9670395851135254 seconds, training accuracy = 0.9171025453091685
+Epoch 16: curr_epoch_loss=0.29708736496312277, running time = 1.9622790813446045 seconds, training accuracy = 0.9222747867803838
+Epoch 17: curr_epoch_loss=0.2726376865591322, running time = 1.9626145362854004 seconds, training accuracy = 0.9332356076759062
+Epoch 18: curr_epoch_loss=0.25615703633853365, running time = 1.9780008792877197 seconds, training accuracy = 0.9410980810234542
+Epoch 19: curr_epoch_loss=0.2298120834997722, running time = 1.9685897827148438 seconds, training accuracy = 0.9565231876332623
+Epoch 20: curr_epoch_loss=0.2168097985642297, running time = 1.9769232273101807 seconds, training accuracy = 0.9533748667377399
+Epoch 21: curr_epoch_loss=0.20474959377731597, running time = 1.963024616241455 seconds, training accuracy = 0.9600213219616205
+Epoch 22: curr_epoch_loss=0.18991789860384806, running time = 1.9685096740722656 seconds, training accuracy = 0.9649936700426439
+Epoch 23: curr_epoch_loss=0.1775716096162796, running time = 1.9659831523895264 seconds, training accuracy = 0.9711820362473348
+Epoch 24: curr_epoch_loss=0.17048425759587968, running time = 1.968735933303833 seconds, training accuracy = 0.9706240005330491
+Epoch 25: curr_epoch_loss=0.15484300521867617, running time = 1.96724271774292 seconds, training accuracy = 0.9711820362473348
+Epoch 26: curr_epoch_loss=0.14634955195443972, running time = 1.9700725078582764 seconds, training accuracy = 0.9794026519189766
+Epoch 27: curr_epoch_loss=0.1343802506370204, running time = 1.9665791988372803 seconds, training accuracy = 0.9801106076759062
+Epoch 28: curr_epoch_loss=0.12761223422629492, running time = 1.9696235656738281 seconds, training accuracy = 0.9838169642857143
+Epoch 29: curr_epoch_loss=0.11807240013565336, running time = 1.972750186920166 seconds, training accuracy = 0.9828008395522387
+Epoch 30: curr_epoch_loss=0.11745651651706014, running time = 1.9575819969177246 seconds, training accuracy = 0.984424973347548
+Epoch 31: curr_epoch_loss=0.10922937733786446, running time = 1.9716243743896484 seconds, training accuracy = 0.9871651785714286
+Epoch 32: curr_epoch_loss=0.10330962283270699, running time = 1.963064432144165 seconds, training accuracy = 0.9866571162046908
+Epoch 33: curr_epoch_loss=0.09712090396455356, running time = 1.9676594734191895 seconds, training accuracy = 0.9889392324093816
+Epoch 34: curr_epoch_loss=0.0887656956911087, running time = 1.961085319519043 seconds, training accuracy = 0.9938616071428571
+Epoch 35: curr_epoch_loss=0.08958468213677406, running time = 1.9732069969177246 seconds, training accuracy = 0.9888392857142857
+Epoch 36: curr_epoch_loss=0.08153130752699715, running time = 1.9611566066741943 seconds, training accuracy = 0.9894472947761194
+Epoch 37: curr_epoch_loss=0.07783987665815013, running time = 1.965266227722168 seconds, training accuracy = 0.9905133928571429
+Epoch 38: curr_epoch_loss=0.07253356011850494, running time = 1.9609813690185547 seconds, training accuracy = 0.9899553571428571
+Epoch 39: curr_epoch_loss=0.06888853386044502, running time = 1.9633638858795166 seconds, training accuracy = 0.9938616071428571
+Epoch 40: curr_epoch_loss=0.06810538896492549, running time = 1.9639675617218018 seconds, training accuracy = 0.9906133395522387
+Validation Precision: 0.7731958762886598
+Validation Recall: 0.6818181818181818
+Validation F1: 0.7246376811594202
+Validation Accuracy: 0.7046632124352331
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0008, dropout_p 0.3, epochs 50
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6910247419561658, running time = 2.0017528533935547 seconds, training accuracy = 0.5394456289978679
+Epoch 2: curr_epoch_loss=0.6408283157008035, running time = 1.9640159606933594 seconds, training accuracy = 0.6532432702558636
+Epoch 3: curr_epoch_loss=0.6156670195715768, running time = 1.9610276222229004 seconds, training accuracy = 0.6625716284648188
+Epoch 4: curr_epoch_loss=0.5777131744793483, running time = 1.9683518409729004 seconds, training accuracy = 0.7231476545842217
+Epoch 5: curr_epoch_loss=0.5504781178065709, running time = 1.9755558967590332 seconds, training accuracy = 0.7468933235607675
+Epoch 6: curr_epoch_loss=0.5250331546579089, running time = 1.9667153358459473 seconds, training accuracy = 0.7711886993603411
+Epoch 7: curr_epoch_loss=0.5014693417719432, running time = 1.9552943706512451 seconds, training accuracy = 0.791128065031983
+Epoch 8: curr_epoch_loss=0.4716507430587496, running time = 1.972813606262207 seconds, training accuracy = 0.8216701092750532
+Epoch 9: curr_epoch_loss=0.44771917164325714, running time = 1.967397689819336 seconds, training accuracy = 0.8286747068230278
+Epoch 10: curr_epoch_loss=0.4258455548967634, running time = 1.9630322456359863 seconds, training accuracy = 0.847547974413646
+Epoch 11: curr_epoch_loss=0.3972947235618319, running time = 1.9672398567199707 seconds, training accuracy = 0.8686034115138593
+Epoch 12: curr_epoch_loss=0.36297348354543957, running time = 1.956620216369629 seconds, training accuracy = 0.8887926439232409
+Epoch 13: curr_epoch_loss=0.35603455134800505, running time = 1.956434965133667 seconds, training accuracy = 0.8893506796375267
+Epoch 14: curr_epoch_loss=0.32318088838032316, running time = 1.961097002029419 seconds, training accuracy = 0.9051255996801706
+Epoch 15: curr_epoch_loss=0.3048076182603836, running time = 1.9627141952514648 seconds, training accuracy = 0.9118803304904051
+Epoch 16: curr_epoch_loss=0.27616485421146664, running time = 1.961986780166626 seconds, training accuracy = 0.9353178304904051
+Epoch 17: curr_epoch_loss=0.27082327221121105, running time = 1.9625270366668701 seconds, training accuracy = 0.9371418576759062
+Epoch 18: curr_epoch_loss=0.2587690693991525, running time = 1.9611890316009521 seconds, training accuracy = 0.9323694029850745
+Epoch 19: curr_epoch_loss=0.23680108679192408, running time = 1.9731755256652832 seconds, training accuracy = 0.9472364738805971
+Epoch 20: curr_epoch_loss=0.20401644387415477, running time = 1.979816198348999 seconds, training accuracy = 0.9638775986140724
+Epoch 21: curr_epoch_loss=0.20079561535801208, running time = 1.977447271347046 seconds, training accuracy = 0.9644356343283581
+Epoch 22: curr_epoch_loss=0.19131431515727723, running time = 1.9830212593078613 seconds, training accuracy = 0.9688499466950959
+Epoch 23: curr_epoch_loss=0.17166308100734437, running time = 1.9654195308685303 seconds, training accuracy = 0.9672757862473348
+Epoch 24: curr_epoch_loss=0.16826968320778438, running time = 1.9835927486419678 seconds, training accuracy = 0.9733142324093816
+Epoch 25: curr_epoch_loss=0.15743977895804814, running time = 1.9748823642730713 seconds, training accuracy = 0.9761044109808102
+Epoch 26: curr_epoch_loss=0.14606503503663198, running time = 1.979858636856079 seconds, training accuracy = 0.9815848214285714
+Epoch 27: curr_epoch_loss=0.1470370271376201, running time = 1.9766144752502441 seconds, training accuracy = 0.9728061700426439
+Epoch 28: curr_epoch_loss=0.1294791799570833, running time = 1.976813793182373 seconds, training accuracy = 0.9827008928571429
+Epoch 29: curr_epoch_loss=0.11303317333970751, running time = 1.9755373001098633 seconds, training accuracy = 0.9877232142857143
+Epoch 30: curr_epoch_loss=0.11333720066717692, running time = 1.9736580848693848 seconds, training accuracy = 0.9900053304904051
+Epoch 31: curr_epoch_loss=0.10927464280809675, running time = 1.9855220317840576 seconds, training accuracy = 0.9850329824093816
+Epoch 32: curr_epoch_loss=0.10609304266316551, running time = 1.9849669933319092 seconds, training accuracy = 0.9838669376332623
+Epoch 33: curr_epoch_loss=0.09605559813124794, running time = 1.9696736335754395 seconds, training accuracy = 0.986149053837953
+Epoch 34: curr_epoch_loss=0.09471876759614263, running time = 1.9981157779693604 seconds, training accuracy = 0.9866571162046908
+Epoch 35: curr_epoch_loss=0.087067292204925, running time = 1.9697012901306152 seconds, training accuracy = 0.9905133928571429
+Epoch 36: curr_epoch_loss=0.0949272768838065, running time = 1.9721622467041016 seconds, training accuracy = 0.9855910181236673
+Epoch 37: curr_epoch_loss=0.08028729871979781, running time = 1.9902708530426025 seconds, training accuracy = 0.9871651785714286
+Epoch 38: curr_epoch_loss=0.07738210260868073, running time = 1.9920005798339844 seconds, training accuracy = 0.9921875
+Epoch 39: curr_epoch_loss=0.07106627417462212, running time = 1.9697825908660889 seconds, training accuracy = 0.9933035714285714
+Epoch 40: curr_epoch_loss=0.07732320896216802, running time = 1.9735620021820068 seconds, training accuracy = 0.9905633662046908
+Epoch 41: curr_epoch_loss=0.06659618206322193, running time = 1.9836375713348389 seconds, training accuracy = 0.992237473347548
+Epoch 42: curr_epoch_loss=0.06769631829644952, running time = 1.978527545928955 seconds, training accuracy = 0.9916294642857143
+Epoch 43: curr_epoch_loss=0.06214242907507079, running time = 1.9908123016357422 seconds, training accuracy = 0.9889392324093816
+Epoch 44: curr_epoch_loss=0.06263358278998307, running time = 1.9663033485412598 seconds, training accuracy = 0.9927455357142857
+Epoch 45: curr_epoch_loss=0.05635159994874682, running time = 1.9789395332336426 seconds, training accuracy = 0.9933535447761194
+Epoch 46: curr_epoch_loss=0.05562420881220272, running time = 1.9764866828918457 seconds, training accuracy = 0.9928454824093816
+Epoch 47: curr_epoch_loss=0.05057289770671299, running time = 1.96449613571167 seconds, training accuracy = 0.9966517857142857
+Epoch 48: curr_epoch_loss=0.04908895918301174, running time = 1.9674842357635498 seconds, training accuracy = 0.9944696162046908
+Epoch 49: curr_epoch_loss=0.04955497969474111, running time = 1.9809997081756592 seconds, training accuracy = 0.9944196428571429
+Epoch 50: curr_epoch_loss=0.04874292494995253, running time = 1.9718244075775146 seconds, training accuracy = 0.9933035714285714
+Validation Precision: 0.7938144329896907
+Validation Recall: 0.6637931034482759
+Validation F1: 0.7230046948356809
+Validation Accuracy: 0.694300518134715
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0009, dropout_p 0.3, epochs 10
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6893221054758344, running time = 2.0226640701293945 seconds, training accuracy = 0.5498484141791045
+Epoch 2: curr_epoch_loss=0.6298638028757912, running time = 1.9873340129852295 seconds, training accuracy = 0.6656699760127932
+Epoch 3: curr_epoch_loss=0.5987289505345481, running time = 2.0230400562286377 seconds, training accuracy = 0.7053904584221747
+Epoch 4: curr_epoch_loss=0.5646141469478607, running time = 2.0103046894073486 seconds, training accuracy = 0.7279700826226013
+Epoch 5: curr_epoch_loss=0.5345420326505389, running time = 1.9978163242340088 seconds, training accuracy = 0.7526319296375267
+Epoch 6: curr_epoch_loss=0.4993791048015867, running time = 2.0211384296417236 seconds, training accuracy = 0.7792593949893389
+Epoch 7: curr_epoch_loss=0.4772673121520451, running time = 2.0589911937713623 seconds, training accuracy = 0.8103594749466951
+Epoch 8: curr_epoch_loss=0.4524765078510557, running time = 2.067528009414673 seconds, training accuracy = 0.8176639125799573
+Epoch 9: curr_epoch_loss=0.4215904005936214, running time = 2.010425567626953 seconds, training accuracy = 0.8450076625799573
+Epoch 10: curr_epoch_loss=0.3999784588813782, running time = 1.9643850326538086 seconds, training accuracy = 0.8538862606609808
+Validation Precision: 0.6701030927835051
+Validation Recall: 0.7303370786516854
+Validation F1: 0.6989247311827956
+Validation Accuracy: 0.7098445595854922
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0009, dropout_p 0.3, epochs 20
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6957701912948063, running time = 2.018521547317505 seconds, training accuracy = 0.515799906716418
+Epoch 2: curr_epoch_loss=0.6339763956410545, running time = 1.989881992340088 seconds, training accuracy = 0.6611057436034116
+Epoch 3: curr_epoch_loss=0.607814256634031, running time = 1.9963629245758057 seconds, training accuracy = 0.7025003331556503
+Epoch 4: curr_epoch_loss=0.566009487424578, running time = 1.9977588653564453 seconds, training accuracy = 0.744153118336887
+Epoch 5: curr_epoch_loss=0.5403812995978764, running time = 1.9783728122711182 seconds, training accuracy = 0.7535897521321961
+Epoch 6: curr_epoch_loss=0.5154599185500827, running time = 1.972393274307251 seconds, training accuracy = 0.7740371801705758
+Epoch 7: curr_epoch_loss=0.4881657638720104, running time = 1.9648263454437256 seconds, training accuracy = 0.7931103411513859
+Epoch 8: curr_epoch_loss=0.46484553813934326, running time = 1.9787044525146484 seconds, training accuracy = 0.8163479477611941
+Epoch 9: curr_epoch_loss=0.432008296251297, running time = 1.9613285064697266 seconds, training accuracy = 0.8357792510660981
+Epoch 10: curr_epoch_loss=0.40591526882989065, running time = 1.966318130493164 seconds, training accuracy = 0.8578924573560768
+Epoch 11: curr_epoch_loss=0.3770026053701128, running time = 1.9692261219024658 seconds, training accuracy = 0.8703274920042644
+Epoch 12: curr_epoch_loss=0.3480955106871469, running time = 1.964071273803711 seconds, training accuracy = 0.8962470015991472
+Epoch 13: curr_epoch_loss=0.3252050259283611, running time = 1.962792158126831 seconds, training accuracy = 0.9148704024520257
+Epoch 14: curr_epoch_loss=0.2979191988706589, running time = 1.968095302581787 seconds, training accuracy = 0.9184185101279317
+Epoch 15: curr_epoch_loss=0.27456861840827124, running time = 1.9613773822784424 seconds, training accuracy = 0.9311034115138593
+Epoch 16: curr_epoch_loss=0.24734009376594, running time = 1.966416597366333 seconds, training accuracy = 0.9499267057569296
+Epoch 17: curr_epoch_loss=0.23169513578925813, running time = 1.9735095500946045 seconds, training accuracy = 0.9494686167377399
+Epoch 18: curr_epoch_loss=0.21181402994053705, running time = 1.9672539234161377 seconds, training accuracy = 0.957081223347548
+Epoch 19: curr_epoch_loss=0.20209748936550959, running time = 1.9780640602111816 seconds, training accuracy = 0.9589052505330491
+Epoch 20: curr_epoch_loss=0.1812303758093289, running time = 1.9565176963806152 seconds, training accuracy = 0.9671758395522387
+Validation Precision: 0.6907216494845361
+Validation Recall: 0.6979166666666666
+Validation F1: 0.6943005181347149
+Validation Accuracy: 0.694300518134715
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0009, dropout_p 0.3, epochs 30
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6842478258269173, running time = 2.0075809955596924 seconds, training accuracy = 0.5573027718550106
+Epoch 2: curr_epoch_loss=0.6350085479872567, running time = 1.9621672630310059 seconds, training accuracy = 0.6634878065031983
+Epoch 3: curr_epoch_loss=0.5946288704872131, running time = 1.9656789302825928 seconds, training accuracy = 0.7121368603411514
+Epoch 4: curr_epoch_loss=0.5652340863432203, running time = 1.9698550701141357 seconds, training accuracy = 0.7379147787846482
+Epoch 5: curr_epoch_loss=0.5375428540366036, running time = 1.954719066619873 seconds, training accuracy = 0.7685567697228145
+Epoch 6: curr_epoch_loss=0.5083420744964054, running time = 1.9745910167694092 seconds, training accuracy = 0.7834238406183369
+Epoch 7: curr_epoch_loss=0.4803203067609242, running time = 1.9552783966064453 seconds, training accuracy = 0.7919442963752665
+Epoch 8: curr_epoch_loss=0.45989035069942474, running time = 1.9703359603881836 seconds, training accuracy = 0.8220782249466951
+Epoch 9: curr_epoch_loss=0.42345115755285534, running time = 1.9642066955566406 seconds, training accuracy = 0.8348630730277186
+Epoch 10: curr_epoch_loss=0.39710891459669384, running time = 1.9559900760650635 seconds, training accuracy = 0.857442697228145
+Epoch 11: curr_epoch_loss=0.3748895525932312, running time = 1.9587748050689697 seconds, training accuracy = 0.8654051172707888
+Epoch 12: curr_epoch_loss=0.3320208894354956, running time = 1.9684491157531738 seconds, training accuracy = 0.9076659115138593
+Epoch 13: curr_epoch_loss=0.32050357120377676, running time = 1.9561035633087158 seconds, training accuracy = 0.9118220282515992
+Epoch 14: curr_epoch_loss=0.30279424360820223, running time = 1.9699180126190186 seconds, training accuracy = 0.9113139658848615
+Epoch 15: curr_epoch_loss=0.27473814359733034, running time = 1.9672460556030273 seconds, training accuracy = 0.9321195362473348
+Epoch 16: curr_epoch_loss=0.2583915474159377, running time = 1.9632842540740967 seconds, training accuracy = 0.9321195362473348
+Epoch 17: curr_epoch_loss=0.2298468862261091, running time = 1.9653072357177734 seconds, training accuracy = 0.9548490804904051
+Epoch 18: curr_epoch_loss=0.21717993702207292, running time = 1.9694159030914307 seconds, training accuracy = 0.9561150719616205
+Epoch 19: curr_epoch_loss=0.1998645013996533, running time = 1.9651389122009277 seconds, training accuracy = 0.9583971881663114
+Epoch 20: curr_epoch_loss=0.18654239922761917, running time = 1.9638605117797852 seconds, training accuracy = 0.9577392057569296
+Epoch 21: curr_epoch_loss=0.167833433087383, running time = 1.977952003479004 seconds, training accuracy = 0.9704241071428571
+Epoch 22: curr_epoch_loss=0.1700070026729788, running time = 1.9677181243896484 seconds, training accuracy = 0.9651435900852878
+Epoch 23: curr_epoch_loss=0.14536191097327641, running time = 1.9653582572937012 seconds, training accuracy = 0.9760544376332623
+Epoch 24: curr_epoch_loss=0.14617290933217322, running time = 1.9690446853637695 seconds, training accuracy = 0.9733642057569296
+Epoch 25: curr_epoch_loss=0.13278582958238466, running time = 1.9612071514129639 seconds, training accuracy = 0.9811267324093816
+Epoch 26: curr_epoch_loss=0.11961007597190994, running time = 1.9670562744140625 seconds, training accuracy = 0.984375
+Epoch 27: curr_epoch_loss=0.11548928863235883, running time = 1.9647884368896484 seconds, training accuracy = 0.9788446162046908
+Epoch 28: curr_epoch_loss=0.10866978498441833, running time = 1.9652125835418701 seconds, training accuracy = 0.9800106609808102
+Epoch 29: curr_epoch_loss=0.10552128830126353, running time = 1.969785213470459 seconds, training accuracy = 0.9816347947761194
+Epoch 30: curr_epoch_loss=0.09433835851294654, running time = 1.9673433303833008 seconds, training accuracy = 0.984375
+Validation Precision: 0.7525773195876289
+Validation Recall: 0.6952380952380952
+Validation F1: 0.7227722772277226
+Validation Accuracy: 0.7098445595854922
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0009, dropout_p 0.3, epochs 40
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6864495064531054, running time = 2.0077803134918213 seconds, training accuracy = 0.5541128065031983
+Epoch 2: curr_epoch_loss=0.6356494341577802, running time = 1.9658102989196777 seconds, training accuracy = 0.6570495735607675
+Epoch 3: curr_epoch_loss=0.5980821464742933, running time = 1.966357707977295 seconds, training accuracy = 0.7028584754797442
+Epoch 4: curr_epoch_loss=0.5632011677537646, running time = 1.9689016342163086 seconds, training accuracy = 0.7362906449893389
+Epoch 5: curr_epoch_loss=0.5343509912490845, running time = 1.9633033275604248 seconds, training accuracy = 0.7612523320895522
+Epoch 6: curr_epoch_loss=0.5083401990788323, running time = 1.9730794429779053 seconds, training accuracy = 0.771496868336887
+Epoch 7: curr_epoch_loss=0.48929365830762045, running time = 1.976726770401001 seconds, training accuracy = 0.7857559301705758
+Epoch 8: curr_epoch_loss=0.4529618237699781, running time = 1.990699052810669 seconds, training accuracy = 0.8321728411513859
+Epoch 9: curr_epoch_loss=0.4206189087459019, running time = 1.9664368629455566 seconds, training accuracy = 0.8514042510660981
+Epoch 10: curr_epoch_loss=0.38786048761435915, running time = 1.988332986831665 seconds, training accuracy = 0.8782399386993603
+Epoch 11: curr_epoch_loss=0.37195530959538053, running time = 1.9984915256500244 seconds, training accuracy = 0.8669792777185501
+Epoch 12: curr_epoch_loss=0.3367436634642737, running time = 1.984079122543335 seconds, training accuracy = 0.8998034381663114
+Epoch 13: curr_epoch_loss=0.3164243293660028, running time = 1.9608821868896484 seconds, training accuracy = 0.9086320628997867
+Epoch 14: curr_epoch_loss=0.2907084599137306, running time = 1.9701886177062988 seconds, training accuracy = 0.9188266257995735
+Epoch 15: curr_epoch_loss=0.2744557357260159, running time = 2.0187366008758545 seconds, training accuracy = 0.9342517324093816
+Epoch 16: curr_epoch_loss=0.2518425498689924, running time = 1.9840493202209473 seconds, training accuracy = 0.9400819562899787
+Epoch 17: curr_epoch_loss=0.24230560766799109, running time = 1.9891126155853271 seconds, training accuracy = 0.9409981343283581
+Epoch 18: curr_epoch_loss=0.21728968513863428, running time = 1.97403883934021 seconds, training accuracy = 0.9517007595948828
+Epoch 19: curr_epoch_loss=0.19997173973492213, running time = 1.968395471572876 seconds, training accuracy = 0.9532249466950959
+Epoch 20: curr_epoch_loss=0.18400539670671737, running time = 1.9876928329467773 seconds, training accuracy = 0.9660597681236673
+Epoch 21: curr_epoch_loss=0.17735307770115988, running time = 1.9708921909332275 seconds, training accuracy = 0.9589052505330491
+Epoch 22: curr_epoch_loss=0.1649338294352804, running time = 1.9696133136749268 seconds, training accuracy = 0.970574027185501
+Epoch 23: curr_epoch_loss=0.14947544251169478, running time = 1.982177972793579 seconds, training accuracy = 0.9738222947761194
+Epoch 24: curr_epoch_loss=0.14277747539537294, running time = 1.9753961563110352 seconds, training accuracy = 0.97265625
+Epoch 25: curr_epoch_loss=0.12727286028010504, running time = 1.9725520610809326 seconds, training accuracy = 0.9821428571428571
+Epoch 26: curr_epoch_loss=0.12456194417817253, running time = 1.9741134643554688 seconds, training accuracy = 0.9771705090618337
+Epoch 27: curr_epoch_loss=0.11882618495396205, running time = 1.96049165725708 seconds, training accuracy = 0.9805686966950959
+Epoch 28: curr_epoch_loss=0.10495267010160855, running time = 1.9892323017120361 seconds, training accuracy = 0.9883811966950959
+Epoch 29: curr_epoch_loss=0.10415628605655261, running time = 1.984306812286377 seconds, training accuracy = 0.9849830090618337
+Epoch 30: curr_epoch_loss=0.10042302736214229, running time = 1.9744694232940674 seconds, training accuracy = 0.9833588752665244
+Epoch 31: curr_epoch_loss=0.10110121592879295, running time = 1.9652862548828125 seconds, training accuracy = 0.9816347947761194
+Epoch 32: curr_epoch_loss=0.08960587744201932, running time = 1.9746370315551758 seconds, training accuracy = 0.986149053837953
+Epoch 33: curr_epoch_loss=0.08129301560776574, running time = 1.9788808822631836 seconds, training accuracy = 0.9872151519189766
+Epoch 34: curr_epoch_loss=0.0808145957333701, running time = 1.987591028213501 seconds, training accuracy = 0.9905133928571429
+Epoch 35: curr_epoch_loss=0.07558124512434006, running time = 1.980872392654419 seconds, training accuracy = 0.9933035714285714
+Epoch 36: curr_epoch_loss=0.06727024939443384, running time = 1.9781596660614014 seconds, training accuracy = 0.9916294642857143
+Epoch 37: curr_epoch_loss=0.06312542062784944, running time = 1.9733176231384277 seconds, training accuracy = 0.9972098214285714
+Epoch 38: curr_epoch_loss=0.06486283668449946, running time = 1.9759559631347656 seconds, training accuracy = 0.9927955090618337
+Epoch 39: curr_epoch_loss=0.06213357326175485, running time = 1.9740233421325684 seconds, training accuracy = 0.9938616071428571
+Epoch 40: curr_epoch_loss=0.05718934030405113, running time = 1.9685413837432861 seconds, training accuracy = 0.9934035181236673
+Validation Precision: 0.7938144329896907
+Validation Recall: 0.6470588235294118
+Validation F1: 0.7129629629629629
+Validation Accuracy: 0.6787564766839378
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0
+---------------------------------------------------------------------------
+Model with 50 features, learning rate 0.0009, dropout_p 0.3, epochs 50
+---------------------------------------------------------------------------
+Epoch 1: curr_epoch_loss=0.6973771921225956, running time = 2.0302138328552246 seconds, training accuracy = 0.5154001199360342
+Epoch 2: curr_epoch_loss=0.6404928607600076, running time = 1.9709348678588867 seconds, training accuracy = 0.6557252798507462
+Epoch 3: curr_epoch_loss=0.6095358218465533, running time = 1.9768128395080566 seconds, training accuracy = 0.707014592217484
+Epoch 4: curr_epoch_loss=0.580577905688967, running time = 1.9840636253356934 seconds, training accuracy = 0.7167593949893389
+Epoch 5: curr_epoch_loss=0.546783230134419, running time = 1.981255292892456 seconds, training accuracy = 0.7486174040511727
+Epoch 6: curr_epoch_loss=0.5200049153396061, running time = 1.9959900379180908 seconds, training accuracy = 0.7679987340085288
+Epoch 7: curr_epoch_loss=0.49510753580502104, running time = 1.9862492084503174 seconds, training accuracy = 0.791028118336887
+Epoch 8: curr_epoch_loss=0.46168992136205944, running time = 1.9780290126800537 seconds, training accuracy = 0.8237023587420043
+Epoch 9: curr_epoch_loss=0.4216776021889278, running time = 1.985290765762329 seconds, training accuracy = 0.8647471348614072
+Epoch 10: curr_epoch_loss=0.4068898537329265, running time = 1.9819717407226562 seconds, training accuracy = 0.8548024386993603
+Epoch 11: curr_epoch_loss=0.366213185446603, running time = 1.9679150581359863 seconds, training accuracy = 0.8832122867803838
+Epoch 12: curr_epoch_loss=0.346635388476508, running time = 1.9799976348876953 seconds, training accuracy = 0.8822461353944563
+Epoch 13: curr_epoch_loss=0.32289730651038034, running time = 1.9770267009735107 seconds, training accuracy = 0.9031516524520257
+Epoch 14: curr_epoch_loss=0.28761946729251314, running time = 1.9843800067901611 seconds, training accuracy = 0.9282132862473348
+Epoch 15: curr_epoch_loss=0.272238909133843, running time = 1.901172161102295 seconds, training accuracy = 0.9331356609808102
+Epoch 16: curr_epoch_loss=0.2457750556724412, running time = 1.9591906070709229 seconds, training accuracy = 0.9429221082089552
+Epoch 17: curr_epoch_loss=0.2294774428009987, running time = 1.9734861850738525 seconds, training accuracy = 0.9508928571428571
+Epoch 18: curr_epoch_loss=0.21299336957080023, running time = 2.003774881362915 seconds, training accuracy = 0.9498267590618337
+Epoch 19: curr_epoch_loss=0.1951093003153801, running time = 1.986234188079834 seconds, training accuracy = 0.9654517590618337
+Epoch 20: curr_epoch_loss=0.17458045482635498, running time = 1.9809269905090332 seconds, training accuracy = 0.9706240005330491
+Epoch 21: curr_epoch_loss=0.1642989899430956, running time = 1.9727776050567627 seconds, training accuracy = 0.9738722681236673
+Epoch 22: curr_epoch_loss=0.16338719321148737, running time = 1.973649501800537 seconds, training accuracy = 0.9695579024520257
+Epoch 23: curr_epoch_loss=0.1424861933503832, running time = 1.9656541347503662 seconds, training accuracy = 0.9733142324093816
+Epoch 24: curr_epoch_loss=0.14160486310720444, running time = 1.980292797088623 seconds, training accuracy = 0.9729560900852878
+Epoch 25: curr_epoch_loss=0.12523604024733817, running time = 1.9887011051177979 seconds, training accuracy = 0.978336553837953
+Epoch 26: curr_epoch_loss=0.12438344529696874, running time = 1.9650704860687256 seconds, training accuracy = 0.9776785714285714
+Epoch 27: curr_epoch_loss=0.11327855608292989, running time = 1.9843549728393555 seconds, training accuracy = 0.9827508662046908
+Epoch 28: curr_epoch_loss=0.10179122484156064, running time = 1.9751722812652588 seconds, training accuracy = 0.9889392324093816
+Epoch 29: curr_epoch_loss=0.10534815224153656, running time = 1.9733188152313232 seconds, training accuracy = 0.9795525719616205
+Epoch 30: curr_epoch_loss=0.09523920980947358, running time = 1.9875719547271729 seconds, training accuracy = 0.9839668843283581
+Epoch 31: curr_epoch_loss=0.09112396250878062, running time = 1.975334882736206 seconds, training accuracy = 0.9855410447761194
+Epoch 32: curr_epoch_loss=0.08359230203287941, running time = 1.974050760269165 seconds, training accuracy = 0.9905133928571429
+Epoch 33: curr_epoch_loss=0.08123908670885223, running time = 1.969243049621582 seconds, training accuracy = 0.9894472947761194
+Epoch 34: curr_epoch_loss=0.06775422713586263, running time = 1.9585795402526855 seconds, training accuracy = 0.9944696162046908
+Epoch 35: curr_epoch_loss=0.07369683789355415, running time = 1.9742627143859863 seconds, training accuracy = 0.9866571162046908
+Epoch 36: curr_epoch_loss=0.06648001713412148, running time = 1.9865894317626953 seconds, training accuracy = 0.9905633662046908
+Epoch 37: curr_epoch_loss=0.06433765430535589, running time = 1.962913990020752 seconds, training accuracy = 0.9933035714285714
+Epoch 38: curr_epoch_loss=0.06329030490347318, running time = 1.9863615036010742 seconds, training accuracy = 0.9927955090618337
+Epoch 39: curr_epoch_loss=0.05790321848222187, running time = 2.0211246013641357 seconds, training accuracy = 0.992237473347548
+Epoch 40: curr_epoch_loss=0.05521634646824428, running time = 2.015928030014038 seconds, training accuracy = 0.9944196428571429
+Epoch 41: curr_epoch_loss=0.05184461548924446, running time = 2.009176015853882 seconds, training accuracy = 0.9938616071428571
+Epoch 42: curr_epoch_loss=0.04967690312436649, running time = 2.0067455768585205 seconds, training accuracy = 0.9955357142857143
+Epoch 43: curr_epoch_loss=0.05613181660217898, running time = 2.002795934677124 seconds, training accuracy = 0.9905633662046908
+Epoch 44: curr_epoch_loss=0.04439344736082213, running time = 2.1088945865631104 seconds, training accuracy = 0.993961553837953
+Epoch 45: curr_epoch_loss=0.046758935653737614, running time = 2.0481789112091064 seconds, training accuracy = 0.9938616071428571
+Epoch 46: curr_epoch_loss=0.05111144110560417, running time = 2.044858694076538 seconds, training accuracy = 0.992237473347548
+Epoch 47: curr_epoch_loss=0.04206564237496683, running time = 1.9990906715393066 seconds, training accuracy = 0.9939115804904051
+Epoch 48: curr_epoch_loss=0.04141126772654908, running time = 1.973320484161377 seconds, training accuracy = 0.9944696162046908
+Epoch 49: curr_epoch_loss=0.03946941505585398, running time = 1.9894473552703857 seconds, training accuracy = 0.9944196428571429
+Epoch 50: curr_epoch_loss=0.04277680840875421, running time = 1.9884493350982666 seconds, training accuracy = 0.9921875
+Validation Precision: 0.7835051546391752
+Validation Recall: 0.7169811320754716
+Validation F1: 0.7487684729064039
+Validation Accuracy: 0.7357512953367875
+Empty Cache: Allocated - 1010.2783203125/1010.2783203125 Cached - 1216.0/3058.0

@@ -1,0 +1,128 @@
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0004, dropout_p 0.3, epochs 30
+Avg Validation Precision: 0.6600837628865979
+Avg Validation Recall: 0.6277169371197651
+Avg Validation F1: 0.6421572579222914
+Avg Validation Accuracy: 0.633033786701209
+---------------------------------------------------------------------------
+Total running time = 832.20 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0004, dropout_p 0.3, epochs 20
+Avg Validation Precision: 0.6256980240549828
+Avg Validation Recall: 0.6217733553292458
+Avg Validation F1: 0.6227011448805696
+Avg Validation Accuracy: 0.6221286701208981
+---------------------------------------------------------------------------
+Total running time = 557.01 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0004, dropout_p 0.3, epochs 15
+Avg Validation Precision: 0.6122959621993128
+Avg Validation Recall: 0.6374471263229554
+Avg Validation F1: 0.6221347042119255
+Avg Validation Accuracy: 0.6299303756476684
+---------------------------------------------------------------------------
+Total running time = 419.58 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0004, dropout_p 0.3, epochs 10
+Avg Validation Precision: 0.6205111683848797
+Avg Validation Recall: 0.6420823864034182
+Avg Validation F1: 0.6284694976396208
+Avg Validation Accuracy: 0.6330823618307426
+---------------------------------------------------------------------------
+Total running time = 280.47 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0003, dropout_p 0.3, epochs 30
+Avg Validation Precision: 0.6215635738831614
+Avg Validation Recall: 0.6280077963943549
+Avg Validation F1: 0.6231505377272581
+Avg Validation Accuracy: 0.6257556131260793
+---------------------------------------------------------------------------
+Total running time = 836.22 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0003, dropout_p 0.3, epochs 25
+Avg Validation Precision: 0.6320339347079038
+Avg Validation Recall: 0.6255506053312201
+Avg Validation F1: 0.6275084479115367
+Avg Validation Accuracy: 0.6257178324697755
+---------------------------------------------------------------------------
+Total running time = 701.26 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0003, dropout_p 0.3, epochs 20
+Avg Validation Precision: 0.619566151202749
+Avg Validation Recall: 0.6389895757211247
+Avg Validation F1: 0.6276647623317164
+Avg Validation Accuracy: 0.6330715673575129
+---------------------------------------------------------------------------
+Total running time = 560.33 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0003, dropout_p 0.3, epochs 15
+Avg Validation Precision: 0.6308526632302406
+Avg Validation Recall: 0.6352985785676311
+Avg Validation F1: 0.632319677753415
+Avg Validation Accuracy: 0.6345746977547495
+---------------------------------------------------------------------------
+Total running time = 420.57 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0003, dropout_p 0.3, epochs 10
+Avg Validation Precision: 0.6061855670103091
+Avg Validation Recall: 0.648103843967294
+Avg Validation F1: 0.6206655534354579
+Avg Validation Accuracy: 0.6340916450777202
+---------------------------------------------------------------------------
+Total running time = 280.17 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0003, dropout_p 0.3, epochs 5
+Avg Validation Precision: 0.5934707903780069
+Avg Validation Recall: 0.6336563461008609
+Avg Validation F1: 0.6064369914145424
+Avg Validation Accuracy: 0.6241931131260794
+---------------------------------------------------------------------------
+Total running time = 142.26 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0002, dropout_p 0.3, epochs 30
+Avg Validation Precision: 0.61340206185567
+Avg Validation Recall: 0.639440805192432
+Avg Validation F1: 0.6247751946548485
+Avg Validation Accuracy: 0.6325237478411053
+---------------------------------------------------------------------------
+Total running time = 840.45 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0002, dropout_p 0.3, epochs 25
+Avg Validation Precision: 0.636168384879725
+Avg Validation Recall: 0.6378260115182995
+Avg Validation F1: 0.6360600967474372
+Avg Validation Accuracy: 0.6361695811744387
+---------------------------------------------------------------------------
+Total running time = 495.11 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0002, dropout_p 0.3, epochs 20
+Avg Validation Precision: 0.6267826460481098
+Avg Validation Recall: 0.6428609812898588
+Avg Validation F1: 0.6337356257058262
+Avg Validation Accuracy: 0.6387737478411053
+---------------------------------------------------------------------------
+Total running time = 399.91 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0002, dropout_p 0.3, epochs 15
+Avg Validation Precision: 0.6258054123711341
+Avg Validation Recall: 0.6391004402241637
+Avg Validation F1: 0.6316657339099889
+Avg Validation Accuracy: 0.635646049222798
+---------------------------------------------------------------------------
+Total running time = 300.93 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0002, dropout_p 0.3, epochs 10
+Avg Validation Precision: 0.6487220790378007
+Avg Validation Recall: 0.6228489182569046
+Avg Validation F1: 0.6344722702749215
+Avg Validation Accuracy: 0.6267999784110535
+---------------------------------------------------------------------------
+Total running time = 196.83 seconds
+---------------------------------------------------------------------------
+Stratified k-fold: 2-2-2 Model with 50 features, learning rate 0.0001, dropout_p 0.3, epochs 30
+Avg Validation Precision: 0.6445768900343644
+Avg Validation Recall: 0.6324606876993117
+Avg Validation F1: 0.6373442185436564
+Avg Validation Accuracy: 0.634590889464594
+---------------------------------------------------------------------------
+Total running time = 584.91 seconds

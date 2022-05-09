@@ -1,0 +1,108 @@
+----------------------------------------
+Model with size 10 filters
+----------------------------------------
+Epoch 1: curr_epoch_loss=0.6883482336997986, running time = 19.68904709815979 seconds
+Epoch 2: curr_epoch_loss=0.6745728850364685, running time = 20.793325185775757 seconds
+Epoch 3: curr_epoch_loss=0.6598275899887085, running time = 20.887698888778687 seconds
+Epoch 4: curr_epoch_loss=0.6485956311225891, running time = 21.03807044029236 seconds
+Epoch 5: curr_epoch_loss=0.6352208852767944, running time = 21.134312868118286 seconds
+Validation Precision: 0.40404040404040403
+Validation Recall: 0.6557377049180327
+Validation F1: 0.5
+Validation Accuracy: 0.5854922279792746
+----------------------------------------
+Model with size 20 filters
+----------------------------------------
+Epoch 1: curr_epoch_loss=0.6890567541122437, running time = 21.8927743434906 seconds
+Epoch 2: curr_epoch_loss=0.6680870652198792, running time = 21.896429300308228 seconds
+Epoch 3: curr_epoch_loss=0.6610904932022095, running time = 21.817657470703125 seconds
+Epoch 4: curr_epoch_loss=0.6330412030220032, running time = 22.20827078819275 seconds
+Epoch 5: curr_epoch_loss=0.6175260543823242, running time = 21.89428162574768 seconds
+Validation Precision: 0.6767676767676768
+Validation Recall: 0.6261682242990654
+Validation F1: 0.6504854368932038
+Validation Accuracy: 0.6269430051813472
+----------------------------------------
+Model with size 30 filters
+----------------------------------------
+Epoch 1: curr_epoch_loss=0.6864907145500183, running time = 22.750778675079346 seconds
+Epoch 2: curr_epoch_loss=0.6626672744750977, running time = 23.538474082946777 seconds
+Epoch 3: curr_epoch_loss=0.6445696949958801, running time = 23.108714818954468 seconds
+Epoch 4: curr_epoch_loss=0.628681480884552, running time = 23.02727246284485 seconds
+Epoch 5: curr_epoch_loss=0.6067723631858826, running time = 22.994129419326782 seconds
+Validation Precision: 0.8585858585858586
+Validation Recall: 0.6204379562043796
+Validation F1: 0.7203389830508475
+Validation Accuracy: 0.6580310880829016
+----------------------------------------
+Model with size 40 filters
+----------------------------------------
+Epoch 1: curr_epoch_loss=0.6846093535423279, running time = 25.138400316238403 seconds
+Epoch 2: curr_epoch_loss=0.668556272983551, running time = 24.981709003448486 seconds
+Epoch 3: curr_epoch_loss=0.6465298533439636, running time = 25.181069374084473 seconds
+Epoch 4: curr_epoch_loss=0.6260759234428406, running time = 25.03787350654602 seconds
+Epoch 5: curr_epoch_loss=0.6088041067123413, running time = 24.960751056671143 seconds
+Validation Precision: 0.4444444444444444
+Validation Recall: 0.6376811594202898
+Validation F1: 0.5238095238095238
+Validation Accuracy: 0.5854922279792746
+----------------------------------------
+Model with size 50 filters
+----------------------------------------
+Epoch 1: curr_epoch_loss=0.6884876489639282, running time = 26.9821617603302 seconds
+Epoch 2: curr_epoch_loss=0.6587325930595398, running time = 26.37609338760376 seconds
+Epoch 3: curr_epoch_loss=0.6404942870140076, running time = 26.209198713302612 seconds
+Epoch 4: curr_epoch_loss=0.613257110118866, running time = 26.498215436935425 seconds
+Epoch 5: curr_epoch_loss=0.6056495904922485, running time = 26.164804697036743 seconds
+Validation Precision: 0.7575757575757576
+Validation Recall: 0.6578947368421053
+Validation F1: 0.704225352112676
+Validation Accuracy: 0.6735751295336787
+----------------------------------------
+Model with size 60 filters
+----------------------------------------
+Epoch 1: curr_epoch_loss=0.682151198387146, running time = 27.26333522796631 seconds
+Epoch 2: curr_epoch_loss=0.6612170338630676, running time = 27.132577419281006 seconds
+Epoch 3: curr_epoch_loss=0.6291863322257996, running time = 27.130053281784058 seconds
+Epoch 4: curr_epoch_loss=0.6112848520278931, running time = 27.375744819641113 seconds
+Epoch 5: curr_epoch_loss=0.5963839292526245, running time = 27.37389373779297 seconds
+Validation Precision: 0.6161616161616161
+Validation Recall: 0.6421052631578947
+Validation F1: 0.6288659793814433
+Validation Accuracy: 0.6269430051813472
+----------------------------------------
+Model with size 70 filters
+----------------------------------------
+Epoch 1: curr_epoch_loss=0.6928701400756836, running time = 29.426186323165894 seconds
+Epoch 2: curr_epoch_loss=0.6643311381340027, running time = 30.932924509048462 seconds
+Epoch 3: curr_epoch_loss=0.6410462260246277, running time = 29.424388885498047 seconds
+Epoch 4: curr_epoch_loss=0.6108496189117432, running time = 29.18088698387146 seconds
+Epoch 5: curr_epoch_loss=0.591536283493042, running time = 29.2488055229187 seconds
+Validation Precision: 0.7171717171717171
+Validation Recall: 0.6635514018691588
+Validation F1: 0.6893203883495145
+Validation Accuracy: 0.6683937823834197
+----------------------------------------
+Model with size 80 filters
+----------------------------------------
+Epoch 1: curr_epoch_loss=0.684272825717926, running time = 31.658084869384766 seconds
+Epoch 2: curr_epoch_loss=0.6642120480537415, running time = 30.251481771469116 seconds
+Epoch 3: curr_epoch_loss=0.6476432681083679, running time = 30.610621452331543 seconds
+Epoch 4: curr_epoch_loss=0.619986355304718, running time = 30.04648780822754 seconds
+Epoch 5: curr_epoch_loss=0.5914727449417114, running time = 30.396764755249023 seconds
+Validation Precision: 0.6464646464646465
+Validation Recall: 0.6597938144329897
+Validation F1: 0.6530612244897959
+Validation Accuracy: 0.6476683937823834
+----------------------------------------
+Model with size 90 filters
+----------------------------------------
+Epoch 1: curr_epoch_loss=0.6822078824043274, running time = 31.245227098464966 seconds
+Epoch 2: curr_epoch_loss=0.6534462571144104, running time = 31.608237743377686 seconds
+Epoch 3: curr_epoch_loss=0.6292305588722229, running time = 30.90284037590027 seconds
+Epoch 4: curr_epoch_loss=0.6041156649589539, running time = 31.304946184158325 seconds
+Epoch 5: curr_epoch_loss=0.5862182378768921, running time = 31.437317371368408 seconds
+Validation Precision: 0.5757575757575758
+Validation Recall: 0.6333333333333333
+Validation F1: 0.6031746031746033
+Validation Accuracy: 0.6113989637305699

@@ -1,0 +1,64 @@
+----------------------------------------
+Model with learning rate 0.1
+----------------------------------------
+Epoch 1: curr_epoch_loss=0.8124021291732788, running time = 24.14713168144226 seconds
+Epoch 2: curr_epoch_loss=0.8090951442718506, running time = 26.073194980621338 seconds
+Epoch 3: curr_epoch_loss=0.8090951442718506, running time = 30.264387130737305 seconds
+Epoch 4: curr_epoch_loss=0.8200799822807312, running time = 33.72976016998291 seconds
+Epoch 5: curr_epoch_loss=0.8145875334739685, running time = 31.921197414398193 seconds
+C:\Python39\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 due to no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Validation Precision: 0.0
+Validation Recall: 0.0
+Validation F1: 0.0
+Validation Accuracy: 0.48704663212435234
+----------------------------------------
+Model with learning rate 1e-05
+----------------------------------------
+Epoch 1: curr_epoch_loss=0.6937239170074463, running time = 35.11613440513611 seconds
+Epoch 2: curr_epoch_loss=0.6925312280654907, running time = 32.22651219367981 seconds
+Epoch 3: curr_epoch_loss=0.691870927810669, running time = 36.943634271621704 seconds
+Epoch 4: curr_epoch_loss=0.6912956237792969, running time = 28.82476806640625 seconds
+Epoch 5: curr_epoch_loss=0.6907289028167725, running time = 25.8444082736969 seconds
+Validation Precision: 0.7575757575757576
+Validation Recall: 0.5555555555555556
+Validation F1: 0.6410256410256411
+Validation Accuracy: 0.5647668393782384
+----------------------------------------
+Model with learning rate 0.01
+----------------------------------------
+Epoch 1: curr_epoch_loss=0.8034773468971252, running time = 25.430485725402832 seconds
+Epoch 2: curr_epoch_loss=0.8090951442718506, running time = 25.5066020488739 seconds
+Epoch 3: curr_epoch_loss=0.8036027550697327, running time = 25.855358362197876 seconds
+Epoch 4: curr_epoch_loss=0.8145875334739685, running time = 25.370311975479126 seconds
+Epoch 5: curr_epoch_loss=0.8090951442718506, running time = 25.513720750808716 seconds
+C:\Python39\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 due to no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Validation Precision: 0.0
+Validation Recall: 0.0
+Validation F1: 0.0
+Validation Accuracy: 0.48704663212435234
+----------------------------------------
+Model with learning rate 0.0001
+----------------------------------------
+Epoch 1: curr_epoch_loss=0.6925899982452393, running time = 25.54661774635315 seconds
+Epoch 2: curr_epoch_loss=0.6867833733558655, running time = 26.048245906829834 seconds
+Epoch 3: curr_epoch_loss=0.6816290616989136, running time = 26.94568705558777 seconds
+Epoch 4: curr_epoch_loss=0.6802352070808411, running time = 25.698107481002808 seconds
+Epoch 5: curr_epoch_loss=0.6759562492370605, running time = 25.741107940673828 seconds
+Validation Precision: 0.6767676767676768
+Validation Recall: 0.6836734693877551
+Validation F1: 0.6802030456852791
+Validation Accuracy: 0.6735751295336787
+----------------------------------------
+Model with learning rate 0.001
+----------------------------------------
+Epoch 1: curr_epoch_loss=0.6882033348083496, running time = 25.920573234558105 seconds
+Epoch 2: curr_epoch_loss=0.6539337635040283, running time = 25.734241485595703 seconds
+Epoch 3: curr_epoch_loss=0.6355180144309998, running time = 25.567731857299805 seconds
+Epoch 4: curr_epoch_loss=0.6249468922615051, running time = 25.864065170288086 seconds
+Epoch 5: curr_epoch_loss=0.5984974503517151, running time = 25.967405319213867 seconds
+Validation Precision: 0.9595959595959596
+Validation Recall: 0.5621301775147929
+Validation F1: 0.708955223880597
+Validation Accuracy: 0.5958549222797928
